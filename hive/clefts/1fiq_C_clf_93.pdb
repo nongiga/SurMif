@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1fiq.pdb
-ATOM   4434  CA  GLU C 676      16.137  46.639 116.021  1.00 50.34           C  
-ATOM   4437  CB  GLU C 676      15.496  47.861 115.357  1.00 60.11           C  
-ATOM   4471  CG  ARG C 680      19.599  49.671 118.038  1.00 51.95           C  
-ATOM   4473  NE  ARG C 680      18.183  50.873 116.443  1.00 67.16           N  

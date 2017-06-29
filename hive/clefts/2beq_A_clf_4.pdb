@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2beq.pdb
-ATOM     87  O   THR A 925      21.828  -1.272  20.083  1.00 27.60           O  
-ATOM    106  C   GLY A 928      18.295  -2.272  19.379  1.00 24.51           C  
-ATOM    108  N   LYS A 929      18.868  -1.451  20.229  1.00 25.19           N  
-ATOM    113  CG  LYS A 929      20.014  -1.031  23.028  1.00 28.54           C  

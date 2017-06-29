@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2j3r.pdb
-ATOM   1304  O   LEU B  31      54.122  53.009   4.769  1.00 37.63           O  
-ATOM   1308  CD2 LEU B  31      52.447  57.215   4.516  1.00 31.24           C  
-ATOM   1339  CG  GLU B  35      56.139  51.888   1.472  1.00 39.67           C  
-ATOM   1342  OE2 GLU B  35      55.255  52.232  -0.704  1.00 44.44           O  

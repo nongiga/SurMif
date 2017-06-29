@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1dcp.pdb
-ATOM   1679  CG  GLU C  12      16.115  60.555  10.674  1.00  1.00           C  
-ATOM   1682  OE2 GLU C  12      16.169  58.612   9.336  1.00 42.78           O  
-ATOM   1709  OE1 GLN C  15      13.386  60.578  14.325  1.00100.00           O  
-ATOM   1717  CD1 LEU C  16      18.469  58.654  15.292  1.00 24.60           C  
-ATOM   2308  OE2 GLU C  87      17.622  54.164  11.262  1.00100.00           O  

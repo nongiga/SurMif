@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1fiq.pdb
-ATOM   4615  CA  GLU C 699      49.079  22.997 119.039  1.00 61.79           C  
-ATOM   4616  C   GLU C 699      48.979  23.481 120.486  1.00 61.84           C  
-ATOM   4617  O   GLU C 699      49.567  22.883 121.387  1.00 57.17           O  
-ATOM   4640  CB  ILE C 702      49.357  19.052 121.800  1.00 60.88           C  

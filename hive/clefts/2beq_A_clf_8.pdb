@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2beq.pdb
-ATOM     49  CA  LEU A 920      30.350  -0.574  13.827  1.00 32.55           C  
-ATOM     50  C   LEU A 920      29.495  -1.318  14.840  1.00 33.08           C  
-ATOM     51  O   LEU A 920      28.272  -1.341  14.737  1.00 31.67           O  
-ATOM     74  CB  THR A 923      26.632   1.903  14.601  1.00 27.21           C  

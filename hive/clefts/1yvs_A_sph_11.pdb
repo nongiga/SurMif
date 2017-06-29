@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1yvs.pdb
-ATOM      0  C   SPH Z   1     -26.267   1.475  60.321  1.00  1.78 
-ATOM      4  C   SPH Z   1     -25.927   1.012  60.479  1.00  1.70 
-ATOM      3  C   SPH Z   1     -25.946   1.119  61.222  1.00  1.65 
-ATOM      2  C   SPH Z   1     -25.767  -0.893  61.299  1.00  1.50 
-ATOM      1  C   SPH Z   1     -28.277   1.909  58.179  1.00  1.61 

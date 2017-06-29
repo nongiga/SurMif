@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1b8m.pdb
-ATOM     89  C   SPH Z   1       5.089  30.354   8.937  1.00  1.56 
-ATOM    209  C   SPH Z   1       4.734  27.890  10.342  1.00  1.52 
-ATOM    208  C   SPH Z   1       4.740  28.427   9.200  1.00  1.56 
-ATOM     90  C   SPH Z   1       4.982  30.545   9.609  1.00  1.63 

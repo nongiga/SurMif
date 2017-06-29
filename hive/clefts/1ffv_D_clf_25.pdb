@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1ffv.pdb
-ATOM   9438  CG2 ILE D   5      36.362  42.921  85.814  1.00 31.18           C  
-ATOM   9516  CB  GLU D  16      38.211  48.574  87.049  1.00 36.66           C  
-ATOM   9517  CG  GLU D  16      39.444  48.619  87.934  1.00 38.57           C  
-ATOM   9518  CD  GLU D  16      39.117  48.411  89.409  1.00 39.96           C  

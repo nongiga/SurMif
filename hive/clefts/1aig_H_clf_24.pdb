@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1aig.pdb
-ATOM   5743  CD1 LEU H 158      85.967  95.259   3.423  1.00 57.00           C  
-ATOM   6445  CD  LYS H 249      85.058  97.443  -0.361  1.00 60.15           C  
-ATOM   6471  O   ALA H 253      84.812  92.027   3.165  1.00 82.96           O  
-ATOM   6472  CB  ALA H 253      82.926  93.339   1.174  1.00 81.84           C  

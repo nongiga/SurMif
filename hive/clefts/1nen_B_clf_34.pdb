@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1nen.pdb
-ATOM   5071  N   GLY B  69      92.263  83.418 116.552  1.00 71.05           N  
-ATOM   5223  CG1 VAL B  90      98.218  83.273 118.322  1.00 74.46           C  
-ATOM   5238  CG  ARG B  92      96.748  86.609 119.716  1.00 74.65           C  

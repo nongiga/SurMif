@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1po1.pdb
-ATOM   6226  CG  LYS 4   9       5.376  33.942 105.982  1.00 32.87           C  
-ATOM   6232  C   VAL 4  10       0.445  34.821 107.175  1.00 57.42           C  
-ATOM   6233  O   VAL 4  10       0.070  33.651 106.982  1.00 59.55           O  

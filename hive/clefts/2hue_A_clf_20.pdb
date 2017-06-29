@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2hue.pdb
-ATOM    264  CA ASER A  33     -27.953   2.809  25.895  0.33 49.61           C  
-ATOM    273  CB ASER A  33     -27.059   1.930  26.776  0.33 49.76           C  
-ATOM    279  N   LEU A  34     -30.295   2.202  25.922  1.00 48.70           N  
-ATOM    282  O   LEU A  34     -31.599  -0.172  26.102  1.00 44.49           O  
-ATOM    535  CB  PRO A  64     -30.486  -3.057  23.159  1.00 34.22           C  

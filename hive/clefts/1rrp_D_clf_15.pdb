@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1rrp.pdb
-ATOM   4213  CB  PHE D  18      -8.829 -15.460  48.918  1.00 78.26           C  
-ATOM   4214  CG  PHE D  18      -8.051 -14.296  49.463  1.00 97.13           C  
-ATOM   4216  CD2 PHE D  18      -6.814 -14.496  50.074  1.00 98.19           C  
-ATOM   4223  O   GLU D  19      -9.285 -18.481  45.611  1.00 52.71           O  

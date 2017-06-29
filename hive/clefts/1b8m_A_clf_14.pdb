@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1b8m.pdb
-ATOM    333  CA  PHE A  53       8.074  29.529   6.979  1.00 15.95           C  
-ATOM    343  N   TYR A  54       7.968  28.862   9.262  1.00 10.24           N  
-ATOM    346  O   TYR A  54       7.527  26.546  11.126  1.00 10.24           O  
-ATOM    347  CB  TYR A  54       7.593  29.269  11.621  1.00 25.40           C  
-ATOM    779  CD1 ILE A 105       5.878  25.183   7.789  1.00 36.05           C  

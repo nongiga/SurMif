@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1hl6.pdb
-ATOM     39  CB  GLU A  14      62.833  31.463  38.728  1.00 43.14           C  
-ATOM     47  O   VAL A  15      62.269  28.264  40.801  1.00 39.40           O  
-ATOM     52  CA  ASP A  16      60.094  27.773  42.418  1.00 40.53           C  
-ATOM     56  CG  ASP A  16      59.144  29.571  43.937  1.00 40.50           C  
-ATOM     57  OD1 ASP A  16      59.988  29.232  44.798  1.00 40.03           O  

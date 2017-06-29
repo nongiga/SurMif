@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1dcp.pdb
-ATOM   1627  C   HIS C   6      21.723  57.115   6.567  1.00 60.62           C  
-ATOM   1628  O   HIS C   6      22.001  57.010   7.762  1.00 65.51           O  
-ATOM   1653  CD2 LEU C   8      20.576  59.097  11.259  1.00 14.88           C  
-ATOM   1680  CD  GLU C  12      16.713  59.792   9.506  1.00 76.71           C  

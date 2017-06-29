@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1l1o.pdb
-ATOM   3242  CB  ILE C 610      14.673  22.259  23.679  1.00 42.85           C  
-ATOM   3244  CG2 ILE C 610      14.772  22.397  22.165  1.00 41.24           C  
-ATOM   3253  NE  ARG C 611       9.286  24.773  22.595  1.00 39.80           N  
-ATOM   3254  CZ  ARG C 611       8.800  24.491  21.392  1.00 37.18           C  

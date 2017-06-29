@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2gvz.pdb
-ATOM      1  N   MET A 377      28.138 -26.027  34.696  1.00 85.95           N  
-ATOM      2  CA  MET A 377      28.648 -26.528  33.384  1.00 87.76           C  
-ATOM     39  CA  LYS A 381      32.115 -25.533  39.808  1.00 60.24           C  
-ATOM     43  CG  LYS A 381      31.117 -27.785  40.507  1.00 74.84           C  

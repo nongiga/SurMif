@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1zav.pdb
-ATOM   1217  CE  LYS A 149       9.586  -1.513  26.901  1.00 53.22           C  
-ATOM   1237  CG2 ILE A 152       6.290   1.753  27.123  1.00 42.89           C  
-ATOM   1240  CA  THR A 153       9.983   4.037  25.623  1.00 38.40           C  
-ATOM   1262  CB  VAL A 156       9.291   6.210  30.070  1.00 43.92           C  
-ATOM   1264  CG2 VAL A 156       8.131   5.308  30.412  1.00 45.52           C  

@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1gpq.pdb
-ATOM      9  N   ASP A   3       0.849  38.334  42.085  1.00 27.63           N  
-ATOM     12  O   ASP A   3      -0.690  36.860  40.383  1.00 21.22           O  
-ATOM    279  OH  TYR A  38       4.684  34.955  40.524  1.00 15.94           O  

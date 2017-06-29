@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1dm0.pdb
-ATOM     67  O   SER A   8      76.851  13.836  28.360  1.00 35.37           O  
-ATOM    998  NH1 ARG A 132      75.733  12.222  26.270  1.00 35.37           N  
-ATOM   1391  O   LEU A 182      74.714  10.626  28.300  1.00 45.43           O  

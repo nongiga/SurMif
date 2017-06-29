@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1zav.pdb
-ATOM   1367  CG2 VAL A 169      18.924  26.376  33.143  1.00 48.59           C  
-ATOM   1388  CB  ALA A 172      23.627  25.386  32.469  1.00 61.25           C  
-ATOM   1394  CG1 ILE A 173      21.997  28.592  36.051  1.00 61.33           C  

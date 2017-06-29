@@ -1,7 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1pcz.pdb
-ATOM     78  CB  ILE A  11      57.716  50.394  91.385  1.00 41.56           C  
-ATOM     79  CG1 ILE A  11      57.599  49.202  92.331  1.00 37.40           C  
-ATOM     80  CG2 ILE A  11      57.168  51.652  92.051  1.00 50.40           C  
-ATOM    106  CD1 ILE A  14      59.233  47.776  95.529  1.00 24.89           C  
-ATOM    552  CG2 VAL A  73      62.704  48.471  97.813  1.00 34.78           C  
-ATOM    805  CE  MET A 105      61.190  47.293  92.536  1.00 31.61           C  

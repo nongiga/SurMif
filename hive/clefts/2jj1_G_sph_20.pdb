@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2jj1.pdb
-ATOM     63  C   SPH Z   1      -2.805  45.281  -1.730  1.00  1.78 
-ATOM     87  C   SPH Z   1      -1.173  42.967  -1.018  1.00  1.72 
-ATOM     88  C   SPH Z   1       1.170  42.274  -0.170  1.00  1.73 
-ATOM     86  C   SPH Z   1      -0.502  42.875  -0.848  1.00  1.82 
-ATOM     85  C   SPH Z   1       1.965  44.965   0.491  1.00  1.55 

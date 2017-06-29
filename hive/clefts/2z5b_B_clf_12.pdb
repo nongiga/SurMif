@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2z5b.pdb
-ATOM   1460  OE1 GLU B  85      33.852  34.787  -9.170  1.00 64.47           O  
-ATOM   1463  CA  GLU B  86      31.557  39.584 -11.968  1.00 56.47           C  
-ATOM   1466  CB  GLU B  86      32.584  40.639 -11.531  1.00 56.63           C  
-ATOM   1493  CB  ARG B  89      28.304  38.240  -9.007  1.00 53.44           C  

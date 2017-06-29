@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2bpa.pdb
-ATOM   4784  CG  LYS 3   5      44.570 -31.030  79.828  1.00 33.47           C  
-ATOM   4794  CD  ARG 3   6      47.705 -32.576  81.821  1.00 32.96           C  
-ATOM   4795  NE  ARG 3   6      49.075 -32.566  81.185  1.00 36.63           N  

@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1ffv.pdb
-ATOM   9709  CA  ILE D  40      39.003  56.382  63.364  1.00 23.08           C  
-ATOM   9716  N   GLY D  41      39.760  56.503  61.050  1.00 23.22           N  
-ATOM   9725  SG  CYS D  42      41.813  52.525  58.387  1.00 24.53           S  
-ATOM   9777  CB  CYS D  50      43.160  54.024  65.803  1.00 24.41           C  
-ATOM   9778  SG  CYS D  50      44.069  52.924  64.668  1.00 24.60           S  

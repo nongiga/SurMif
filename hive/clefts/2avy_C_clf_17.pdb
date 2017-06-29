@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2avy.pdb
-ATOM  33846  CE2 PHE C 129     117.585  24.189   2.439  1.00 42.26           C  
-ATOM  33847  CZ  PHE C 129     117.073  22.909   2.625  1.00 42.26           C  
-ATOM  33854  CD  ARG C 130     113.303  26.213   6.039  1.00 75.22           C  
-ATOM  34114  CD  GLU C 165     116.622  26.926  -0.694  1.00 74.93           C  

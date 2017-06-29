@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1exu.pdb
-ATOM    483  CG  GLU A  72      62.502   9.830  95.391  1.00 48.63           C  
-ATOM    487  N   LYS A  73      64.976   9.198  98.258  1.00 52.48           N  
-ATOM    488  CA  LYS A  73      64.724   8.747  99.622  1.00 53.49           C  
-ATOM    519  CB  LEU A  76      60.773  11.555 100.683  1.00 47.62           C  
-ATOM    530  OE1 GLU A  77      63.339   8.447 105.507  1.00 81.53           O  

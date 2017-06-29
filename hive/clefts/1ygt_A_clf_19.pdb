@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1ygt.pdb
-ATOM     35  N   VAL A  12      -3.433  25.865  17.043  1.00 27.23           N  
-ATOM     36  CA  VAL A  12      -2.516  25.120  16.165  1.00 27.72           C  
-ATOM     38  O   VAL A  12      -2.900  23.062  17.286  1.00 26.51           O  
-ATOM     39  CB  VAL A  12      -1.051  25.452  16.526  1.00 29.99           C  

@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1xwd.pdb
-ATOM   6299  OE1 GLU F 184      30.666 -18.676  13.666  1.00 67.02           O  
-ATOM   6310  CA  HIS F 186      34.402 -23.200  15.372  1.00 52.99           C  
-ATOM   6316  CD2 HIS F 186      32.795 -20.986  16.696  1.00 60.12           C  
-ATOM   6503  CG  PRO F 210      34.402 -22.221  10.520  1.00 67.45           C  

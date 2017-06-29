@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2j3w.pdb
-ATOM    330  C   PHE A  40     113.429  18.844   2.506  1.00 30.12           C  
-ATOM    332  CB  PHE A  40     114.377  19.888   0.446  1.00 29.87           C  
-ATOM    339  N   ILE A  41     113.268  19.832   3.373  1.00 29.35           N  
-ATOM    340  CA  ILE A  41     113.448  19.555   4.802  1.00 30.65           C  
-ATOM    344  CG1 ILE A  41     114.276  21.881   5.225  1.00 29.40           C  

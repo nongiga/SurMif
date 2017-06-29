@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1hl6.pdb
-ATOM     81  CA  ASP A  20      54.851  25.998  44.656  1.00 37.36           C  
-ATOM     83  O   ASP A  20      53.031  25.014  45.840  1.00 40.11           O  
-ATOM     84  CB  ASP A  20      55.374  25.037  43.585  1.00 36.00           C  
-ATOM    105  CB  ILE A  23      50.669  27.570  46.243  1.00 28.81           C  
-ATOM    107  CG2 ILE A  23      49.248  27.495  45.693  1.00 26.30           C  

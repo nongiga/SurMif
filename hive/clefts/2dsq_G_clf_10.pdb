@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2dsq.pdb
-ATOM   2399  N   GLY G 201      14.492 -16.293  -3.168  1.00 77.22           N  
-ATOM   2400  CA  GLY G 201      14.089 -15.163  -4.007  1.00 75.05           C  
-ATOM   2403  N   LEU G 202      12.476 -15.819  -5.684  1.00 68.48           N  

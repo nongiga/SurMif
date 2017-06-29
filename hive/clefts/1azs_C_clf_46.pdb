@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1azs.pdb
-ATOM   4390  C   ARG C 232      33.089  -5.660  33.794  1.00 41.30           C  
-ATOM   4391  O   ARG C 232      33.509  -6.556  34.534  1.00 46.19           O  
-ATOM   4400  CA  LYS C 233      31.053  -5.484  35.084  1.00 40.02           C  
-ATOM   4404  CG  LYS C 233      31.216  -3.156  36.088  1.00 42.39           C  

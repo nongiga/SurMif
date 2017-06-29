@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2hfg.pdb
-ATOM     99  C   SPH Z   1      69.042  60.408 -75.247  1.00  1.57 
-ATOM    102  C   SPH Z   1      68.999  60.438 -75.875  1.00  2.01 
-ATOM    101  C   SPH Z   1      68.961  61.025 -76.326  1.00  2.52 
-ATOM    100  C   SPH Z   1      69.156  60.370 -75.999  1.00  2.03 

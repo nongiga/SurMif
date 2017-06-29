@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1quq.pdb
-ATOM    560  CB  THR A 124      35.327  19.227  92.493  1.00 34.70           C  
-ATOM    566  O   TYR A 125      34.353  22.608  89.631  1.00 31.22           O  
-ATOM    760  O   LEU A 149      29.793  23.244  89.478  1.00 40.46           O  

@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2qqk.pdb
-ATOM   5639  CB  GLN H 171       4.533   8.790 -15.603  1.00 94.41           C  
-ATOM   5640  CG  GLN H 171       5.895   8.398 -15.041  1.00 92.62           C  
-ATOM   5641  CD  GLN H 171       7.052   8.984 -15.825  1.00 94.06           C  
-ATOM   5642  OE1 GLN H 171       7.912   9.667 -15.269  1.00 92.71           O  

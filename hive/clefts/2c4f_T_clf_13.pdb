@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2c4f.pdb
-ATOM   3430  CE  LYS T  46      22.725  26.230  41.006  1.00 21.71           C  
-ATOM   3435  O   SER T  47      27.100  27.751  39.814  1.00 14.35           O  
-ATOM   3444  CD  LYS T  48      26.819  27.125  42.904  1.00 18.79           C  
-ATOM   3463  CZ  PHE T  50      27.345  31.012  39.679  1.00 17.80           C  

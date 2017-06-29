@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2qqk.pdb
-ATOM   5117  NH1 ARG H 100A      2.939 -39.257 -25.165  1.00 49.51           N  
-ATOM   5122  O   ARG H 100B      6.930 -37.012 -22.352  1.00 60.49           O  
-ATOM   5141  O   TRP H 100D      4.752 -34.114 -25.023  1.00 59.76           O  

@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1ais.pdb
-ATOM   2290  CG  GLU B1130      -7.234  29.789  74.169  1.00 55.38           C  
-ATOM   2291  CD  GLU B1130      -5.847  29.372  74.583  1.00 55.93           C  
-ATOM   2293  OE2 GLU B1130      -5.333  29.968  75.554  1.00 56.68           O  
-ATOM   2295  CA  GLU B1131      -9.228  32.348  71.071  1.00 48.25           C  

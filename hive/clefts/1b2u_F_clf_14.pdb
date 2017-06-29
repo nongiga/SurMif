@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1b2u.pdb
-ATOM   4489  CA  GLN F  62       5.313  56.785  67.827  1.00 57.99           C  
-ATOM   4490  C   GLN F  62       5.579  57.792  66.723  1.00 57.87           C  
-ATOM   4491  O   GLN F  62       4.697  58.527  66.278  1.00 59.33           O  
-ATOM   4513  CA  GLU F  65       3.268  54.827  62.879  1.00 55.28           C  
-ATOM   4517  CG  GLU F  65       1.973  56.844  62.077  1.00 57.30           C  

@@ -1,7 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2hue.pdb
-ATOM     90  CD1 LEU A  12     -35.116   4.151  -0.254  1.00 39.89           C  
-ATOM    178  CB  GLU A  23     -38.636   2.356  -1.332  1.00 33.31           C  
-ATOM    179  CG  GLU A  23     -39.077   1.147  -2.141  1.00 37.10           C  
-ATOM    602  CB  VAL A  73     -34.572   0.343   3.656  1.00 42.03           C  
-ATOM    608  O   PHE A  74     -38.609   0.629   2.313  1.00 39.76           O  
-ATOM    620  CB  SER A  75     -39.262  -2.541   0.515  1.00 33.90           C  

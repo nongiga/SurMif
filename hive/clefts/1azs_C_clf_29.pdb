@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1azs.pdb
-ATOM   4569  C   ASN C 254      26.483   7.606  11.141  1.00 32.77           C  
-ATOM   4654  CB  ASN C 264      30.926   2.601  12.195  1.00 26.44           C  
-ATOM   4657  ND2 ASN C 264      29.195   3.474  10.710  1.00 28.05           N  
-ATOM   5048  CD2 TYR C 311      28.480   5.785   7.612  1.00 45.25           C  
-ATOM   5050  CE2 TYR C 311      28.275   7.163   7.720  1.00 47.08           C  

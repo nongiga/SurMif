@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1wqj.pdb
-ATOM      0  C   SPH Z   1      16.760  52.247  -3.100  1.00  1.71 
-ATOM      3  C   SPH Z   1      16.856  51.174  -3.651  1.00  2.07 
-ATOM      2  C   SPH Z   1      16.827  51.931  -3.793  1.00  1.93 
-ATOM      1  C   SPH Z   1      16.037  52.280  -2.866  1.00  1.59 

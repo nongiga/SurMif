@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1zav.pdb
-ATOM    881  C   SPH Z   1       9.927   2.398  29.084  1.00  1.77 
-ATOM    885  C   SPH Z   1       9.327   1.566  29.135  1.00  1.75 
-ATOM    884  C   SPH Z   1      10.395   2.067  29.563  1.00  2.14 
-ATOM    883  C   SPH Z   1       9.907   2.017  28.965  1.00  2.01 
-ATOM    882  C   SPH Z   1       9.637   2.712  28.771  1.00  1.52 

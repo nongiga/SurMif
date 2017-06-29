@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1ava.pdb
-ATOM    750  CA  HIS A  97      75.123  43.904 116.795  1.00 31.77           C  
-ATOM    759  N   LYS A  98      76.970  45.450 116.973  1.00 34.01           N  
-ATOM    764  CG  LYS A  98      78.315  46.995 119.326  1.00 38.84           C  

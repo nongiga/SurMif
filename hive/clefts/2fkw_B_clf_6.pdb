@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2fkw.pdb
-ATOM    408  O   ALA B   1       6.956  14.896  59.603  1.00 47.75           O  
-ATOM    422  CG  LEU B   3       4.316  12.208  59.683  1.00 47.07           C  
-ATOM    423  CD1 LEU B   3       3.087  11.934  58.728  1.00 45.52           C  
-ATOM    424  CD2 LEU B   3       4.051  13.344  60.614  1.00 44.97           C  
-ATOM    486  CD2 LEU B  11       2.208  12.547  55.281  1.00 43.14           C  

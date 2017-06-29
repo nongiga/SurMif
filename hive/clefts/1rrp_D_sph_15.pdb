@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1rrp.pdb
-ATOM      0  C   SPH Z   1      -6.138 -17.448  46.605  1.00  1.96 
-ATOM      4  C   SPH Z   1      -6.023 -16.267  46.808  1.00  1.70 
-ATOM      3  C   SPH Z   1      -6.641 -16.156  46.376  1.00  1.53 
-ATOM      2  C   SPH Z   1      -5.772 -16.911  46.859  1.00  2.06 
-ATOM      1  C   SPH Z   1      -6.390 -16.799  46.427  1.00  1.83 

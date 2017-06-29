@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2h1o.pdb
-ATOM   6045  CB  ARG E  20      -3.463 -22.723  15.252  1.00 33.10           C  
-ATOM   6047  CD  ARG E  20      -1.391 -22.109  16.537  1.00 35.72           C  
-ATOM   6048  NE  ARG E  20      -0.499 -21.167  15.865  1.00 36.26           N  

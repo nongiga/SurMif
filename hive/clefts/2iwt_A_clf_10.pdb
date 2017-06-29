@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2iwt.pdb
-ATOM     68  CD  GLU A  21      14.321  -8.717  57.764  1.00 54.16           C  
-ATOM     72  CA  GLN A  22      16.887  -4.298  54.954  1.00 41.56           C  
-ATOM    108  CE  MET A  25      17.317  -1.851  59.606  1.00 67.86           C  

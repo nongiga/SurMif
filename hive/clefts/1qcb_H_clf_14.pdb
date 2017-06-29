@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1qcb.pdb
-ATOM   3518  N   ILE H  67     -12.333   9.775 101.061  1.00 17.57           N  
-ATOM   3519  CA  ILE H  67     -11.635  10.853 101.725  1.00 18.07           C  
-ATOM   3523  CG1 ILE H  67     -11.655  12.530  99.840  1.00 15.67           C  

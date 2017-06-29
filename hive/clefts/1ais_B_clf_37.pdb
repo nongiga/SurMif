@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1ais.pdb
-ATOM   3019  CB  LEU B1221     -10.736   6.365  64.283  1.00 59.68           C  
-ATOM   3022  CD2 LEU B1221      -8.507   6.977  63.352  1.00 60.69           C  
-ATOM   3029  N   GLU B1223     -13.617   5.634  59.919  1.00 43.51           N  
-ATOM   3034  CG  GLU B1223     -13.264   8.405  58.364  1.00 49.38           C  

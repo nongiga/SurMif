@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2acz.pdb
-ATOM   7165  C   LEU C  99      64.945  88.023 107.980  1.00 76.77           C  
-ATOM   7171  N   GLU C 100      65.003  86.832 108.570  1.00 79.35           N  
-ATOM   7176  CG  GLU C 100      63.928  84.520 110.396  1.00 89.09           C  

@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2bkr.pdb
-ATOM   1515  CD1 TYR A 194      42.368   3.263  28.405  1.00 24.59           C  
-ATOM   1517  CE1 TYR A 194      41.570   4.362  28.868  1.00 27.07           C  
-ATOM   1541  CG  LYS A 197      42.365  -0.877  33.115  1.00 20.62           C  
-ATOM   1542  CD  LYS A 197      43.869  -0.548  33.082  1.00 25.43           C  

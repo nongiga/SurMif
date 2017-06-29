@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2dyp.pdb
-ATOM   3162  N   ILE D   3     -46.308  18.360  60.979  1.00 70.99           N  
-ATOM   3165  O   ILE D   3     -44.390  16.866  59.589  1.00 70.21           O  
-ATOM   3816  O   TRP D  83     -47.149  21.444  56.311  1.00 56.85           O  
-ATOM   3838  CG  GLU D  85     -41.165  20.466  57.012  1.00 68.19           C  

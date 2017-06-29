@@ -1,7 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1qvo.pdb
-ATOM    280  CG  ARG A  35      18.087   6.115   7.179  1.00 17.31           C  
-ATOM    283  CZ  ARG A  35      18.912   9.010   7.377  1.00 30.56           C  
-ATOM    284  NH1 ARG A  35      18.541   8.774   6.128  1.00 33.46           N  
-ATOM    301  CB  ASP A  37      16.683   9.805   3.819  1.00 16.33           C  
-ATOM    302  CG  ASP A  37      15.562  10.808   3.667  1.00 19.53           C  
-ATOM    303  OD1 ASP A  37      15.003  11.222   4.707  1.00 21.62           O  

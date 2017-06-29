@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2bsq.pdb
-ATOM    779  O   GLU A  99      13.991 -18.711  66.393  1.00 55.40           O  
-ATOM    786  CA  ILE A 100      14.806 -16.484  64.984  1.00 48.55           C  
-ATOM    793  N   ALA A 101      17.171 -16.581  64.475  1.00 44.54           N  

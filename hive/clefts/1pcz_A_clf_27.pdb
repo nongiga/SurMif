@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1pcz.pdb
-ATOM    384  O   LEU A  50      47.439  47.718 105.288  1.00 47.00           O  
-ATOM    390  CA  ASP A  51      46.730  49.998 106.519  1.00 52.35           C  
-ATOM    396  OD2 ASP A  51      43.336  50.237 106.728  1.00 76.04           O  

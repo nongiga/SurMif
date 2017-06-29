@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1bk5.pdb
-ATOM   3900  NZ  LYS B 167      67.230  48.334  19.050  0.00 52.82           N  
-ATOM   4198  CE1 TYR B 207      63.483  47.225  23.612  1.00 47.38           C  
-ATOM   4200  CZ  TYR B 207      63.533  46.135  22.757  1.00 48.11           C  
-ATOM   4201  OH  TYR B 207      64.130  46.246  21.519  1.00 47.74           O  

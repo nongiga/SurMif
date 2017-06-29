@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2qqc.pdb
-ATOM   5218  O   TYR J  77      42.063  12.870 -35.631  1.00 19.74           O  
-ATOM   5228  CA  GLY J  78      43.959  14.862 -35.080  1.00 19.25           C  
-ATOM   5238  CD2 TYR J  79      43.775  15.966 -39.790  1.00 23.42           C  
-ATOM   5240  CE2 TYR J  79      42.759  16.260 -40.686  1.00 25.71           C  

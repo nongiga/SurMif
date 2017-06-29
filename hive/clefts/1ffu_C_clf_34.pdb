@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1ffu.pdb
-ATOM   7296  CG  PRO C   3      24.061  62.943 106.530  1.00 30.13           C  
-ATOM   7551  CD2 LEU C  38      19.025  60.860 109.353  1.00 25.43           C  
-ATOM   7580  CG  LYS C  42      20.985  66.131 107.545  1.00 29.35           C  

@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2dqn.pdb
-ATOM    599  C   SPH Z   1      -1.537  37.051   4.134  1.00  1.59 
-ATOM    606  C   SPH Z   1      -2.282  37.943   3.882  1.00  2.12 
-ATOM    604  C   SPH Z   1      -2.607  37.000   4.445  1.00  1.95 
-ATOM    603  C   SPH Z   1      -1.914  36.760   4.594  1.00  1.87 
-ATOM    600  C   SPH Z   1      -2.230  37.291   3.985  1.00  1.85 

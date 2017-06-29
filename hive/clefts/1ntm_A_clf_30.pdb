@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1ntm.pdb
-ATOM    637  CB  HIS A  85      42.298  91.812  83.470  1.00 21.88           C  
-ATOM    655  CB  ASN A  87      40.360  89.202  88.680  1.00 21.75           C  
-ATOM    658  ND2 ASN A  87      42.496  88.098  88.865  1.00 39.70           N  
-ATOM    751  CE1 TYR A  98      39.933  92.550  89.799  1.00 27.48           C  
-ATOM    769  CD  LYS A 100      43.049  95.036  86.234  1.00 13.39           C  

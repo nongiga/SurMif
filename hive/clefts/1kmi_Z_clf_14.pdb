@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1kmi.pdb
-ATOM   1263  C   ALA Z  42     159.043  16.403  15.054  1.00103.30           C  
-ATOM   1265  CB  ALA Z  42     160.933  15.024  15.945  1.00106.22           C  
-ATOM   1271  CG  GLU Z  43     160.151  18.618  11.486  1.00138.50           C  
-ATOM   1292  OE1 GLU Z  46     160.272  20.118  18.080  1.00193.66           O  

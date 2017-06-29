@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2nvu.pdb
-ATOM   3152  CG  GLU A 401      56.305  -3.766  -1.612  1.00 81.30           C  
-ATOM   3200  CG1 ILE A 407      52.466  -3.750   3.048  1.00 93.88           C  
-ATOM   3244  CD1 ILE A 412      54.696  -6.891   4.538  1.00 88.41           C  
-ATOM   3355  OH  TYR A 426      58.608  -4.035   1.306  1.00 64.24           O  
-ATOM   4212  OXT LEU A 534      54.223  -6.093  -1.398  1.00 93.21           O  

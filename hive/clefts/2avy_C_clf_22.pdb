@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2avy.pdb
-ATOM  32984  O   THR C  20     150.373  47.716   2.303  1.00 39.81           O  
-ATOM  32989  CA  TRP C  21     151.971  47.904   0.012  1.00 36.29           C  
-ATOM  32992  CB  TRP C  21     152.674  46.675   0.592  1.00 36.29           C  
-ATOM  33294  N   ARG C  58     153.317  46.360   4.495  1.00 55.16           N  

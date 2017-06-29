@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2bkr.pdb
-ATOM   1556  C   ARG A 199      35.622  -3.879  33.340  1.00 18.15           C  
-ATOM   1565  N   GLY A 200      36.849  -4.026  33.826  1.00 17.20           N  
-ATOM   1566  CA  GLY A 200      37.084  -4.202  35.255  1.00 18.82           C  

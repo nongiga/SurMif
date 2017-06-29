@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1zav.pdb
-ATOM   1350  CA  TYR A 168      20.574  20.409  33.262  1.00 51.96           C  
-ATOM   1352  O   TYR A 168      21.985  22.344  33.273  1.00 50.64           O  
-ATOM   1380  CB  ASN A 171      24.496  21.139  35.582  1.00 58.84           C  
-ATOM   1382  OD1 ASN A 171      24.424  18.824  36.153  1.00 63.19           O  

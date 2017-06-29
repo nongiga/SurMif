@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1nkz.pdb
-ATOM    249  CG2 ILE A  34      22.166   0.125  11.430  1.00 22.19           C  
-ATOM    250  CD1 ILE A  34      22.746   1.270  14.237  1.00 20.99           C  
-ATOM    310  CD2 PHE A  41      21.308  -3.823  11.793  1.00 15.01           C  
-ATOM    312  CE2 PHE A  41      21.231  -4.314  13.097  1.00 18.63           C  
-ATOM    313  CZ  PHE A  41      21.627  -5.619  13.360  1.00 18.05           C  

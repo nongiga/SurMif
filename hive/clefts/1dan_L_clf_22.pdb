@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1dan.pdb
-ATOM    939  C   GLU L 116      12.030  33.921  16.328  1.00 32.93           C  
-ATOM    940  O   GLU L 116      12.217  32.715  16.504  1.00 34.30           O  
-ATOM    947  CA  GLY L 117       9.629  33.665  16.345  1.00 29.03           C  

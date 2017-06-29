@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2hue.pdb
-ATOM    965  O   TYR A 117     -54.470   9.905 -13.661  1.00 32.64           O  
-ATOM    975  CA  ASP A 118     -53.046   8.131 -15.177  1.00 38.38           C  
-ATOM   1026  NH1 ARG A 123     -54.053  11.883 -16.012  1.00 46.05           N  

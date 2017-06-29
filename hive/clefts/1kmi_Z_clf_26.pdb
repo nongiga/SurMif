@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1kmi.pdb
-ATOM   1632  CB  LEU Z  90      99.715  58.189  18.234  1.00 51.64           C  
-ATOM   1834  CB  THR Z 114     101.079  62.552  16.552  1.00 48.56           C  
-ATOM   1864  CD2 PHE Z 117     105.150  58.489  15.997  1.00 60.77           C  
-ATOM   1866  CE2 PHE Z 117     105.318  57.225  15.480  1.00 57.98           C  

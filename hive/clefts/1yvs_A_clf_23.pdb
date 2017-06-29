@@ -1,7 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1yvs.pdb
-ATOM     85  OH  TYR A  13     -29.203   3.850  62.456  1.00 25.77           O  
-ATOM    114  CB  TYR A  17     -31.325   7.792  62.581  1.00 26.26           C  
-ATOM    115  CG  TYR A  17     -31.808   6.952  61.424  1.00 31.22           C  
-ATOM    116  CD1 TYR A  17     -33.022   6.268  61.493  1.00 34.31           C  
-ATOM    137  CG  LYS A  19     -29.509   6.916  66.680  1.00 39.74           C  
-ATOM    138  CD  LYS A  19     -30.378   6.111  67.677  1.00 46.89           C  

@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1ao7.pdb
-ATOM   3563  CB  ASP D  54     105.312   1.967   2.181  1.00 57.80           C  
-ATOM   3566  OD2 ASP D  54     107.058   2.643   3.646  0.00 71.07           O  
-ATOM   3583  OE1 GLU D  56     109.792  -0.185  -1.644  0.00 95.04           O  

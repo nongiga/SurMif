@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2ckh.pdb
-ATOM   2198  OG  SER B  53      45.582 -25.000  10.736  1.00152.80           O  
-ATOM   2207  N   ARG B  55      46.662 -21.963   9.457  1.00151.01           N  
-ATOM   2216  NH1 ARG B  55      43.708 -19.184  13.517  1.00151.11           N  
-ATOM   2223  CG  GLN B  56      47.987 -24.874  13.710  1.00150.60           C  

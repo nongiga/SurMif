@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1xox.pdb
-ATOM    339  O   PHE A  22     -12.712 -49.560 -86.301  1.00  0.81           O  
-ATOM    349  HB2 PHE A  22     -15.083 -48.206 -86.980  1.00  0.83           H  
-ATOM    541  CB  PRO A  35     -15.698 -45.585 -89.359  1.00  0.73           C  
-ATOM    546  HB3 PRO A  35     -15.503 -46.274 -88.551  1.00  0.72           H  

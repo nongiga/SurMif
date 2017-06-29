@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2z5b.pdb
-ATOM   2040  O   LYS B 174       7.345  55.563 -17.712  1.00 39.33           O  
-ATOM   2042  CG  LYS B 174       9.429  53.414 -19.081  1.00 40.23           C  
-ATOM   2045  NZ  LYS B 174      10.590  54.315 -21.827  1.00 48.79           N  
-ATOM   2070  CE1 TYR B 177       7.182  59.503 -18.677  1.00 45.46           C  

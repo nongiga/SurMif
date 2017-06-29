@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2dqn.pdb
-ATOM   6645  O   GLU B 367     -18.372  45.123 -11.419  1.00 93.80           O  
-ATOM   6652  CA  ASN B 368     -16.884  47.426 -11.810  1.00 94.36           C  
-ATOM   6873  O   GLY B 398     -18.739  50.151 -11.916  1.00 95.00           O  

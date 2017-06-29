@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1quq.pdb
-ATOM    861  O   GLU A 161      37.551  33.703  75.019  1.00 35.11           O  
-ATOM    884  C   ASN A 164      37.818  35.775  71.920  1.00 46.07           C  
-ATOM    891  CA  ALA A 165      39.502  36.320  73.633  1.00 44.25           C  
-ATOM    894  CB  ALA A 165      39.625  35.893  75.102  1.00 42.57           C  

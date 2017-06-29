@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2bsq.pdb
-ATOM    325  CA  GLU A  42      28.139 -15.913  53.397  1.00 27.08           C  
-ATOM    329  CG  GLU A  42      26.483 -16.594  55.217  1.00 30.57           C  
-ATOM    357  CG  LEU A  45      33.256 -16.198  55.716  1.00 23.85           C  
-ATOM    359  CD2 LEU A  45      32.544 -15.656  56.934  1.00 22.78           C  

@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1pcz.pdb
-ATOM    340  C   PRO A  44      48.579  29.001 106.417  1.00 39.61           C  
-ATOM    341  O   PRO A  44      48.758  28.862 107.627  1.00 45.97           O  
-ATOM    342  CB  PRO A  44      49.456  27.075 105.045  1.00 39.46           C  
-ATOM    473  OG  SER A  61      53.562  27.556 110.499  1.00 51.09           O  

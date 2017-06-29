@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1xwd.pdb
-ATOM   4962  CD2 HIS F  19       9.384 -56.166  45.931  1.00 45.12           C  
-ATOM   4964  NE2 HIS F  19       8.074 -55.756  45.878  1.00 44.95           N  
-ATOM   4976  CA  ARG F  21       9.909 -51.181  46.564  1.00 50.81           C  
-ATOM   4980  CG  ARG F  21      10.341 -50.834  49.044  1.00 52.57           C  

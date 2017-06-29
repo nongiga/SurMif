@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2atp.pdb
-ATOM   1483  OE2 GLU B  61       3.278 -10.030  57.716  1.00 87.43           O  
-ATOM   1510  CG  LYS B  65       1.073 -15.498  60.336  1.00 87.78           C  
-ATOM   1511  CD  LYS B  65      -0.324 -15.071  59.884  1.00 87.54           C  

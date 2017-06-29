@@ -1,7 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1zv7.pdb
-ATOM      4  C   SPH Z   1       5.569  18.147  32.971  1.00  1.82 
-ATOM      9  C   SPH Z   1       5.904  19.990  33.889  1.00  2.14 
-ATOM      8  C   SPH Z   1       6.029  19.387  34.299  1.00  1.99 
-ATOM      7  C   SPH Z   1       6.390  19.042  33.965  1.00  1.93 
-ATOM      6  C   SPH Z   1       6.120  19.525  34.246  1.00  2.15 
-ATOM      5  C   SPH Z   1       6.073  19.548  35.000  1.00  1.70 

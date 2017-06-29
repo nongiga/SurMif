@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1ygt.pdb
-ATOM     92  CG1 ILE A  19       5.955  18.250  12.422  1.00 29.23           C  
-ATOM     93  CG2 ILE A  19       7.617  20.059  11.881  1.00 28.32           C  
-ATOM    649  O   CYS A  91       4.275  19.497   6.369  1.00 20.50           O  
-ATOM    761  O   VAL A 104       7.549  21.451   6.915  1.00 18.58           O  

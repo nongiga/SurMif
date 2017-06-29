@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1p3g.pdb
-ATOM   7103  CB  GLU B  63     -31.331   6.075 -49.096  1.00 36.06           C  
-ATOM   7106  OE1 GLU B  63     -30.544   5.001 -51.596  1.00 41.89           O  
-ATOM   7113  CG  ASN B  64     -27.148   9.439 -48.331  1.00 50.81           C  
-ATOM   7115  ND2 ASN B  64     -27.131   9.838 -49.587  1.00 53.90           N  

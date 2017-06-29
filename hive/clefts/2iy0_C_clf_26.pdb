@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2iy0.pdb
-ATOM   3589  CA  CYS C 573       7.197  -0.366   0.561  1.00 50.57           C  
-ATOM   3592  CB  CYS C 573       8.253  -0.527   1.663  1.00 50.58           C  
-ATOM   3604  CB  PHE C 575       7.617   5.355  -0.405  1.00 49.26           C  
-ATOM   3607  CD2 PHE C 575       8.282   6.093   1.958  1.00 52.67           C  

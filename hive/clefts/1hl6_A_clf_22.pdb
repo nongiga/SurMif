@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1hl6.pdb
-ATOM    769  CG  LEU A 128      64.593  56.125  54.059  1.00 32.81           C  
-ATOM    771  CD2 LEU A 128      66.077  55.797  54.172  1.00 33.70           C  
-ATOM    772  N   ALA A 129      62.706  59.289  52.889  1.00 30.09           N  
-ATOM    773  CA  ALA A 129      62.343  60.443  53.706  1.00 32.08           C  

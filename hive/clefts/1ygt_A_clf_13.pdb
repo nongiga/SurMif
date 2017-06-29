@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1ygt.pdb
-ATOM    803  C   ALA A 110      -1.020   3.960   3.207  1.00 23.71           C  
-ATOM    804  O   ALA A 110      -0.881   3.896   1.986  1.00 24.16           O  
-ATOM    805  CB  ALA A 110      -2.961   5.303   4.005  1.00 20.51           C  
-ATOM    808  C   VAL A 111      -1.425   0.615   3.336  1.00 34.31           C  

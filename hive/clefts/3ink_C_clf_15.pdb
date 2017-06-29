@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/3ink.pdb
-ATOM    574  C   SER C  75      29.768  49.633  21.978  1.00  0.00           C  
-ATOM    575  O   SER C  75      30.804  48.968  22.132  1.00  0.00           O  
-ATOM    576  CB  SER C  75      28.055  49.631  23.695  1.00  0.00           C  
-ATOM    625  CA  ARG C  81      31.846  45.773  26.528  1.00  0.00           C  
-ATOM    629  CG  ARG C  81      29.673  44.462  26.605  1.00  0.00           C  

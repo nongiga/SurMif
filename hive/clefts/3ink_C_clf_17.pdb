@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/3ink.pdb
-ATOM    242  CG  LYS C  35      28.523  61.954  21.272  1.00  0.00           C  
-ATOM    265  CB  ARG C  38      31.225  66.190  23.440  1.00  0.00           C  
-ATOM    266  CG  ARG C  38      30.424  66.417  22.185  1.00  0.00           C  
-ATOM    267  CD  ARG C  38      29.049  67.149  22.071  1.00  0.00           C  
-ATOM    556  CD1 LEU C  72      28.329  62.171  26.510  1.00  0.00           C  

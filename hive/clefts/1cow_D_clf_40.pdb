@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1cow.pdb
-ATOM  11502  OE1 GLN D  51     135.419  58.549  62.041  1.00 37.69           O  
-ATOM  11521  CD2 LEU D  53     139.231  58.650  62.622  1.00 41.28           C  
-ATOM  13157  O   LEU D 272     133.571  60.929  64.344  1.00 13.30           O  

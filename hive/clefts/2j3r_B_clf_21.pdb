@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2j3r.pdb
-ATOM   2331  CD1 TRP B 164      36.675  41.709   8.694  1.00 26.26           C  
-ATOM   2333  NE1 TRP B 164      37.435  42.429   7.801  1.00 27.30           N  
-ATOM   2359  CA  GLY B 167      34.305  42.927  13.720  1.00 44.59           C  
-ATOM   2360  C   GLY B 167      35.453  42.049  13.257  1.00 43.86           C  

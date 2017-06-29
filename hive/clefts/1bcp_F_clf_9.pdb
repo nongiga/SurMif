@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1bcp.pdb
-ATOM   6880  CA  ASP F  50     -16.618   3.226  -7.742  1.00 30.48           C  
-ATOM   6884  CG  ASP F  50     -18.753   2.449  -8.933  1.00 35.79           C  
-ATOM   6885  OD1 ASP F  50     -18.077   1.460  -9.362  1.00 36.51           O  

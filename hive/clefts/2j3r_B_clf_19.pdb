@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2j3r.pdb
-ATOM   2389  CG  MET B 171      39.761  30.614  15.087  1.00 41.27           C  
-ATOM   2390  SD  MET B 171      38.931  29.609  13.814  1.00 43.87           S  
-ATOM   2404  CB  LYS B 173      42.848  26.568  16.307  1.00 41.79           C  
-ATOM   2406  CD  LYS B 173      40.917  25.577  15.080  1.00 52.40           C  

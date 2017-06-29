@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2hg3.pdb
-ATOM   2389  OD1 ASP M  17      31.368  69.692  65.289  1.00 59.43           O  
-ATOM   2401  C   GLY M  19      32.249  73.671  67.356  1.00 51.46           C  
-ATOM   2403  N   MET M  20      33.141  73.702  68.330  1.00 51.80           N  
-ATOM   2409  SD  MET M  20      32.827  71.816  71.566  1.00 52.08           S  

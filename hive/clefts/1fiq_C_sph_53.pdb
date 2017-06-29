@@ -1,7 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1fiq.pdb
-ATOM     10  C   SPH Z   1       1.482   7.044  91.139  1.00  1.59 
-ATOM     45  C   SPH Z   1       1.161   7.778  88.473  1.00  2.56 
-ATOM     44  C   SPH Z   1       1.629   8.331  88.671  1.00  2.02 
-ATOM     43  C   SPH Z   1       1.836   7.371  89.314  1.00  1.67 
-ATOM     40  C   SPH Z   1       2.128   8.757  88.570  1.00  1.59 
-ATOM     21  C   SPH Z   1       1.728   7.463  91.136  1.00  1.68 

@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1azs.pdb
-ATOM   3460  CB  ASN C 121      18.229  35.661  12.409  1.00 56.32           C  
-ATOM   3475  CB  GLU C 123      19.220  39.052  15.686  1.00 69.01           C  
-ATOM   3479  OE2 GLU C 123      17.493  38.993  12.884  1.00 72.70           O  
-ATOM   3485  CG  ASN C 124      18.684  34.121  16.496  1.00 54.03           C  

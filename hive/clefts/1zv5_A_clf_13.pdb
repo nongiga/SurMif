@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1zv5.pdb
-ATOM    967  O   VAL A   5      43.401 -47.075   6.308  1.00 22.61           O  
-ATOM    985  OG  SER A   7      47.713 -49.078   4.306  1.00 37.29           O  
-ATOM   1072  OG  SER A  21      46.844 -51.209   5.756  1.00 30.33           O  
-ATOM   1079  N   ALA A  23      43.273 -48.707   8.679  1.00 18.89           N  
-ATOM   1083  CB  ALA A  23      44.747 -47.199   9.953  1.00 20.63           C  

@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2gvz.pdb
-ATOM   1271  C   TYR A 540      37.248  -6.459  77.248  1.00 91.98           C  
-ATOM   1272  O   TYR A 540      36.332  -5.679  77.020  1.00 91.08           O  
-ATOM   1282  CA  GLU A 541      38.821  -4.667  77.830  1.00 92.53           C  
-ATOM   1288  OE1 GLU A 541      38.269  -1.872  79.241  1.00 94.39           O  

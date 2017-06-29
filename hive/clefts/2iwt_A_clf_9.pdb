@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2iwt.pdb
-ATOM    355  C   ASP A  58      29.126  13.718  47.592  1.00 76.09           C  
-ATOM    357  CB  ASP A  58      31.222  13.633  46.278  1.00 80.36           C  
-ATOM    367  CD1 LEU A  59      27.450  14.878  43.955  1.00 79.37           C  
-ATOM    389  CD  LYS A  62      26.780  18.899  46.277  1.00 90.27           C  

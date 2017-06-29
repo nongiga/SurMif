@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1dan.pdb
-ATOM    772  O   GLU L  94      19.861  30.866  34.454  1.00 23.26           O  
-ATOM    782  CB  ASN L  95      20.580  31.029  31.518  1.00 26.46           C  
-ATOM    797  O   CYS L  98      16.724  31.806  30.674  1.00 26.07           O  

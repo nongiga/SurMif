@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1aig.pdb
-ATOM   5983  CA  ARG H 189      95.672 112.667  13.013  1.00 49.54           C  
-ATOM   5993  N   LEU H 190      93.928 112.728  14.719  1.00 44.64           N  
-ATOM   6207  CA  THR H 218      94.978 118.700  11.860  1.00 49.98           C  

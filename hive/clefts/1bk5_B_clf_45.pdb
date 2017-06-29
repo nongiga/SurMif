@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1bk5.pdb
-ATOM   3799  CD1 TRP B 153      49.661  34.013  15.237  1.00 43.23           C  
-ATOM   3801  NE1 TRP B 153      49.444  32.655  15.306  1.00 44.22           N  
-ATOM   4092  NE2 GLN B 192      49.386  35.677  18.390  1.00 38.11           N  
-ATOM   4112  CD1 TRP B 195      52.516  34.589  21.953  1.00 46.71           C  

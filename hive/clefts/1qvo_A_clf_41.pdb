@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1qvo.pdb
-ATOM    445  O   GLU A  55      32.193  -0.210   8.559  1.00 16.52           O  
-ATOM    489  CD1 TRP A  60      30.393   1.963   6.365  1.00  8.90           C  
-ATOM    491  NE1 TRP A  60      29.858   1.475   7.536  1.00 10.15           N  

@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2qqk.pdb
-ATOM   5325  O   VAL H 121      21.006   9.752 -18.314  1.00104.41           O  
-ATOM   5335  CD1 PHE H 122      18.850  13.228 -16.785  1.00 98.52           C  
-ATOM   5920  CD  LYS H 209      24.701   9.998 -18.899  1.00 94.62           C  
-ATOM   5921  CE  LYS H 209      25.701  11.162 -18.708  1.00 95.57           C  

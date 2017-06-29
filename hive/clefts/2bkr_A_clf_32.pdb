@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2bkr.pdb
-ATOM    325  O   ASN A  41      24.308  12.446  38.331  1.00 21.41           O  
-ATOM    326  CB  ASN A  41      22.424  10.600  36.761  1.00 22.15           C  
-ATOM    328  OD1 ASN A  41      20.382  11.693  36.194  1.00 29.12           O  
-ATOM    364  CE1 HIS A  45      21.566  16.238  37.154  1.00 36.82           C  

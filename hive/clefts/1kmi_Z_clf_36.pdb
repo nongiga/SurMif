@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1kmi.pdb
-ATOM   1419  CE  MET Z  61     138.195  37.213  14.553  1.00101.21           C  
-ATOM   1439  OE1 GLN Z  64     136.170  39.111  17.839  1.00 90.29           O  
-ATOM   1469  NH1 ARG Z  68     134.362  42.560  16.034  1.00110.27           N  
-ATOM   2040  OD1 ASP Z 140     135.919  40.307  12.011  1.00 86.34           O  

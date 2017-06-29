@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1nh2.pdb
-ATOM   2604  CB  VAL C 251       1.981  -1.112   0.539  1.00 17.98           C  
-ATOM   2605  CG1 VAL C 251       3.458  -0.670   0.511  1.00 18.10           C  
-ATOM   2606  CG2 VAL C 251       1.818  -2.432  -0.211  1.00 18.12           C  

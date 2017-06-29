@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2iy0.pdb
-ATOM   3595  CA  SER C 574       7.487   1.183  -2.922  1.00 49.33           C  
-ATOM   3598  CB  SER C 574       6.309   1.579  -3.820  1.00 49.44           C  
-ATOM   3622  CD  ARG C 577      11.545  -1.333  -4.582  1.00 45.12           C  
-ATOM   3628  CA  HIS C 578      12.406   4.012  -4.391  1.00 40.29           C  
-ATOM   3631  CB  HIS C 578      11.102   4.581  -4.948  1.00 40.30           C  

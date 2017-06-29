@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1pcz.pdb
-ATOM     70  NE  ARG A  10      52.095  53.760  87.820  1.00 75.76           N  
-ATOM     77  O   ILE A  11      54.803  51.113  90.486  1.00 28.01           O  
-ATOM     88  CD  GLU A  12      51.729  49.904  88.307  1.00 39.09           C  
-ATOM     89  OE1 GLU A  12      50.937  49.868  89.272  1.00 51.61           O  
-ATOM    537  CD  LYS A  71      52.039  49.744  95.082  1.00 46.42           C  

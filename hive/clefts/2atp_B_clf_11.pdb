@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2atp.pdb
-ATOM   1185  CA  LYS B  27      34.072 -11.863  49.306  1.00 98.38           C  
-ATOM   1199  CD1 LEU B  28      31.225 -15.886  50.753  1.00 99.35           C  
-ATOM   1608  NE  ARG B  77      35.111 -17.996  47.522  1.00 70.82           N  
-ATOM   1611  NH2 ARG B  77      36.332 -16.186  46.809  1.00 72.50           N  

@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1tii.pdb
-ATOM   5308  CG  ASP C 211      40.829   8.306  -4.300  1.00 33.12           C  
-ATOM   5309  OD1 ASP C 211      40.898   7.068  -4.079  1.00 34.92           O  
-ATOM   5337  CD  LYS C 214      43.379   4.720  -0.657  1.00 43.76           C  
-ATOM   5339  NZ  LYS C 214      41.578   4.430  -2.423  1.00 59.69           N  

@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1tqe.pdb
-ATOM   2414  CA  GLU Q  34       3.322 -19.190 -11.209  1.00 72.32           C  
-ATOM   2440  CB  VAL Q  37       7.805 -20.215  -9.366  1.00 66.38           C  
-ATOM   2441  CG1 VAL Q  37       8.426 -21.315  -8.549  1.00 68.03           C  
-ATOM   2448  CG  LEU Q  38       4.628 -23.711 -12.255  1.00 66.04           C  

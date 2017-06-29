@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1wqj.pdb
-ATOM    679  CG1 VAL I  17      14.804  45.820   9.741  1.00 23.81           C  
-ATOM    947  C   LEU I  54      16.792  47.404   4.613  1.00 20.85           C  
-ATOM    948  O   LEU I  54      16.852  47.414   5.836  1.00 20.51           O  
-ATOM    949  CB  LEU I  54      15.438  45.546   3.547  1.00 21.54           C  
-ATOM    987  CB  GLU I  58      18.751  46.941   8.617  1.00 23.55           C  

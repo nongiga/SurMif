@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2z5c.pdb
-ATOM   6022  C   GLY F 178      70.519  34.476  84.332  1.00 76.21           C  
-ATOM   6025  CA  ALA F 179      68.213  34.999  83.738  1.00 74.56           C  
-ATOM   6249  NE2 GLN F 206      68.227  39.487  87.444  1.00 91.98           N  
-ATOM   6255  CG1 VAL F 207      69.972  38.745  81.928  1.00 91.50           C  

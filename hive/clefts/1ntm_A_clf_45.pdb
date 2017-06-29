@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1ntm.pdb
-ATOM    105  CA  GLN A  15      28.336 108.528  93.602  1.00 23.36           C  
-ATOM    112  NE2 GLN A  15      27.518 111.828  93.143  1.00 22.78           N  
-ATOM    113  N   VAL A  16      26.444 107.389  94.624  1.00 26.32           N  

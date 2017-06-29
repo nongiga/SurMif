@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2bkr.pdb
-ATOM    982  NH1 ARG A 123      31.570   4.387   4.506  1.00 38.32           N  
-ATOM   1169  CE2 PHE A 149      26.993   7.319   8.555  1.00 20.14           C  
-ATOM   1183  CG  GLU A 151      31.003   6.129   7.473  1.00 25.13           C  
-ATOM   1186  OE2 GLU A 151      29.068   4.804   7.634  1.00 30.16           O  

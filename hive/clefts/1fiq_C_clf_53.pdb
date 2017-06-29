@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1fiq.pdb
-ATOM   7363  OG  SER C1051       2.312   7.005  94.429  1.00 41.58           O  
-ATOM   7404  CA  PRO C1057      -1.307   8.232  92.875  1.00 35.77           C  
-ATOM   7410  N   ILE C1058       0.460   9.718  93.676  1.00 38.27           N  

@@ -1,7 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1yvs.pdb
-ATOM    408  CZ  PHE A  56      23.991   1.469  70.356  1.00 32.95           C  
-ATOM    438  CB  GLU A  60      27.385  -3.845  71.480  1.00 63.91           C  
-ATOM    452  CG  LYS A  62      28.447  -3.439  67.638  1.00 47.82           C  
-ATOM    453  CD  LYS A  62      27.310  -4.138  66.946  1.00 52.62           C  
-ATOM    826  CE1 PHE A 106      25.569  -0.604  66.109  1.00 25.24           C  
-ATOM    828  CZ  PHE A 106      24.606   0.315  66.512  1.00 23.33           C  

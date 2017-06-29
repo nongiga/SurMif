@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1aik.pdb
-ATOM    654  CA  GLU C 654      18.763   1.932 -10.883  1.00 55.77           C  
-ATOM    656  O   GLU C 654      18.762   1.916 -13.285  1.00 55.24           O  
-ATOM    691  CB  GLU C 657      22.297   2.184 -13.687  1.00 62.42           C  
-ATOM    694  OE1 GLU C 657      23.152   0.650 -11.481  1.00 72.44           O  
-ATOM    702  CG  GLN C 658      17.473   0.109 -15.580  1.00 69.56           C  

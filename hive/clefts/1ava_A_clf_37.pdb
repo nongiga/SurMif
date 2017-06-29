@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1ava.pdb
-ATOM    885  CA  ARG A 115      64.906  38.778 106.411  1.00 30.61           C  
-ATOM    889  CG  ARG A 115      62.823  37.791 105.349  1.00 35.34           C  
-ATOM    890  CD  ARG A 115      62.423  36.373 104.963  1.00 34.13           C  
-ATOM   1234  OE2 GLU A 159      64.705  41.745 103.658  1.00 28.04           O  

@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/4cpa.pdb
-ATOM   5326  O   PHE J  23     -14.924  -5.206  -9.762  1.00  3.86           O  
-ATOM   5425  CB  PRO J  36     -12.138  -7.311  -9.435  1.00  3.00           C  
-ATOM   5428  N   TYR J  37     -11.692  -7.414 -12.642  1.00  3.00           N  
-ATOM   5435  CD2 TYR J  37     -13.172  -5.590 -15.241  1.00  5.81           C  

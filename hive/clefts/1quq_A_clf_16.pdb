@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1quq.pdb
-ATOM    613  ND1 HIS A 131      47.871  37.360  90.867  1.00 36.63           N  
-ATOM    615  CE1 HIS A 131      48.644  37.308  91.939  1.00 36.53           C  
-ATOM    718  CB  PHE A 144      42.073  36.295  94.102  1.00 26.35           C  
-ATOM    721  CD2 PHE A 144      41.911  36.856  91.656  1.00 21.38           C  

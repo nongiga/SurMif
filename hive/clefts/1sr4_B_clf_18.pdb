@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1sr4.pdb
-ATOM   1910  NH1 ARG B 100      30.598  39.203  33.055  1.00 16.16           N  
-ATOM   1915  O   PRO B 101      34.493  35.818  31.222  1.00  9.28           O  
-ATOM   1923  CB  ASN B 102      35.206  37.169  28.049  1.00 10.92           C  
-ATOM   1924  CG  ASN B 102      34.450  37.221  26.742  1.00 14.86           C  

@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1pto.pdb
-ATOM    882  OH  TYR A 111       3.768  51.126 -12.865  1.00 39.58           O  
-ATOM   1425  C   SER A 180       2.714  50.687 -16.559  1.00 69.63           C  
-ATOM   1426  O   SER A 180       3.620  50.466 -15.762  1.00 69.53           O  

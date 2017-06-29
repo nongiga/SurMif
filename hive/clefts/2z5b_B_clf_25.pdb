@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2z5b.pdb
-ATOM   1363  CG  GLU B  53       6.761  42.275   0.118  1.00 38.74           C  
-ATOM   1364  CD  GLU B  53       6.728  42.407   1.630  1.00 39.62           C  
-ATOM   1365  OE1 GLU B  53       6.405  41.422   2.339  1.00 42.17           O  
-ATOM   1560  NE2 GLN B  96      10.872  37.223   1.117  1.00 48.42           N  
-ATOM   1574  CG2 VAL B  98       7.246  36.469   0.304  1.00 42.29           C  

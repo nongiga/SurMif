@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2gl7.pdb
-ATOM   3957  C   GLU B  28      13.895   5.307  26.639  1.00 45.58           C  
-ATOM   3962  OE2 GLU B  28      10.384   5.353  29.265  1.00 47.87           O  
-ATOM   3963  N   GLU B  38      10.221   8.881  22.745  1.00 49.51           N  
-ATOM   3967  CB  GLU B  38      11.338   6.652  22.593  1.00 49.77           C  

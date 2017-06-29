@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2j3w.pdb
-ATOM    422  C   ASN A  52     110.973   5.768  15.549  1.00 33.15           C  
-ATOM    423  O   ASN A  52     110.555   5.437  16.653  1.00 33.09           O  
-ATOM    424  CB  ASN A  52     112.144   7.947  15.709  1.00 37.34           C  
-ATOM    507  CD2 LEU A  61     106.997   8.165  16.725  1.00 23.20           C  

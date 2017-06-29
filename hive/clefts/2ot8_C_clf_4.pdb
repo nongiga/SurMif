@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2ot8.pdb
-ATOM  12560  CA  ASN C  59     107.232 -11.430  44.483  1.00 90.24           C  
-ATOM  12570  O   ARG C  60     111.325 -10.842  44.547  1.00 78.23           O  
-ATOM  12597  OE2 GLU C  62     112.433 -12.059  41.147  1.00141.03           O  

@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1ytf.pdb
-ATOM    800  CG  ASP A  81       3.992   9.335 -20.597  1.00 19.66           C  
-ATOM    803  N   LEU A  82       4.716  10.773 -17.005  1.00 13.49           N  
-ATOM    811  N   LYS A  83       4.017   8.012 -16.396  1.00  8.08           N  

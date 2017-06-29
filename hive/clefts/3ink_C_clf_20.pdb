@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/3ink.pdb
-ATOM      9  C   THR C   7      56.802  37.568  35.686  1.00  0.00           C  
-ATOM     11  CB  THR C   7      59.325  37.483  35.594  1.00  0.00           C  
-ATOM     13  CG2 THR C   7      59.742  38.367  34.406  1.00  0.00           C  
-ATOM     19  CG  LYS C   8      55.472  34.021  33.733  1.00  0.00           C  
-ATOM     46  OE1 GLN C  11      57.151  39.077  31.247  1.00  0.00           O  

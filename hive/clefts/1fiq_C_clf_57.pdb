@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1fiq.pdb
-ATOM   6552  N   GLU C 949      36.674  -7.288  95.971  1.00 61.80           N  
-ATOM   6556  CB  GLU C 949      34.618  -8.472  95.372  1.00 57.19           C  
-ATOM   6665  CD2 PHE C 962      35.604  -2.701  95.831  1.00 55.03           C  

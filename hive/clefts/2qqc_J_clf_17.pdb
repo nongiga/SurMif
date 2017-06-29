@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2qqc.pdb
-ATOM   5446  N   GLN J 109      41.272  13.312 -29.390  1.00 18.18           N  
-ATOM   5451  CG  GLN J 109      40.751  14.174 -32.356  1.00 26.65           C  
-ATOM   5452  CD  GLN J 109      40.063  13.277 -33.366  1.00 30.34           C  
-ATOM   5454  NE2 GLN J 109      39.959  11.994 -33.041  1.00 31.77           N  

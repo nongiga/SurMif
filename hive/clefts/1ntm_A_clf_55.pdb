@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1ntm.pdb
-ATOM     41  CB  GLN A   6      44.114 121.615  99.706  1.00 20.20           C  
-ATOM     42  CG  GLN A   6      44.143 122.938 100.476  1.00 31.77           C  
-ATOM     45  NE2 GLN A   6      43.726 124.875  99.043  1.00 35.55           N  
-ATOM     65  CD  GLN A   9      37.795 120.739 101.729  1.00 40.46           C  
-ATOM     67  NE2 GLN A   9      37.046 121.456 100.885  1.00 29.59           N  

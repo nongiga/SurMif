@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1rrp.pdb
-ATOM   4284  CB  LYS D  27      -5.550 -36.502  52.204  1.00 46.18           C  
-ATOM   4286  CD  LYS D  27      -6.060 -35.358  54.414  1.00 54.29           C  
-ATOM   4289  N   ILE D  28      -3.062 -37.576  50.775  1.00 23.76           N  
-ATOM   4292  O   ILE D  28      -2.101 -39.165  52.665  1.00 64.68           O  

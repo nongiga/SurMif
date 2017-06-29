@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1hcf.pdb
-ATOM   2052  O   ALA X 314     -22.885   7.105  14.921  1.00 32.96           O  
-ATOM   2066  CB  GLN X 316     -21.760   3.054  17.943  1.00 40.78           C  
-ATOM   2444  O   ILE X 362     -21.486   4.038  14.153  1.00 38.16           O  
-ATOM   2458  CB  LYS X 364     -26.373   5.253  13.081  1.00 41.34           C  

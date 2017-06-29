@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1nh2.pdb
-ATOM   2628  O   THR C 254       9.966   4.091   8.114  1.00 19.98           O  
-ATOM   2636  CB  LYS C 255      12.031   6.328   8.501  1.00 22.28           C  
-ATOM   2650  CB  ARG C 257      10.664   0.804   8.620  1.00 25.78           C  

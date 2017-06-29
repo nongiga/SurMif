@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1exu.pdb
-ATOM   1578  CD1 LEU A 213      76.694  50.808  65.669  1.00 58.56           C  
-ATOM   1596  N   GLY A 216      76.042  55.836  63.810  1.00 80.12           N  
-ATOM   1597  CA  GLY A 216      77.445  55.524  64.008  1.00 72.40           C  
-ATOM   1843  SG  CYS A 251      72.753  51.871  62.387  1.00 78.05           S  

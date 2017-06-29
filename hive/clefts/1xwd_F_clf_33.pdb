@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1xwd.pdb
-ATOM   6038  OE1 GLN F 152      19.934 -39.708  15.259  1.00 58.65           O  
-ATOM   6251  CG  ASN F 178      21.435 -36.489  12.632  1.00 40.40           C  
-ATOM   6252  OD1 ASN F 178      22.066 -37.169  13.451  1.00 43.70           O  
-ATOM   6253  ND2 ASN F 178      20.181 -36.744  12.296  1.00 43.94           N  

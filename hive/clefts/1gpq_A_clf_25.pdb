@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1gpq.pdb
-ATOM    728  CZ2 TRP A  96      -3.092  28.312  17.686  1.00 11.21           C  
-ATOM    730  CH2 TRP A  96      -3.027  29.424  18.491  1.00 12.49           C  
-ATOM    811  C   LYS A 108      -2.642  33.514  17.655  1.00  8.17           C  
-ATOM    812  O   LYS A 108      -1.721  32.929  18.238  1.00  8.52           O  
-ATOM    844  CB  PHE A 112       1.495  31.619  18.322  1.00  8.17           C  

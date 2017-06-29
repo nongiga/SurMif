@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1aig.pdb
-ATOM   4895  O   GLU H  43      64.364 131.184  11.710  1.00 62.25           O  
-ATOM   4907  OD1 ASN H  44      61.255 133.989   9.250  1.00 64.87           O  
-ATOM   4948  CB  ALA H  50      61.422 133.454  12.597  1.00 65.75           C  
-ATOM   5276  OE1 GLU H  94      61.933 130.573   6.669  1.00 84.05           O  

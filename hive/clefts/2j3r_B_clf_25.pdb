@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2j3r.pdb
-ATOM   2215  CA  ALA B 149      54.922  33.357  17.536  1.00 36.13           C  
-ATOM   2218  CB  ALA B 149      55.822  34.429  16.970  1.00 33.34           C  
-ATOM   2249  CD2 HIS B 153      58.271  31.395  18.656  1.00 50.73           C  
-ATOM   2251  NE2 HIS B 153      59.374  31.174  17.855  1.00 51.55           N  

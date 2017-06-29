@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1wqj.pdb
-ATOM    774  OG1 THR I  29      27.552  63.405  11.365  1.00 26.59           O  
-ATOM    784  CB  TYR I  31      31.314  64.529  11.486  1.00 21.29           C  
-ATOM    795  O   GLY I  32      29.651  68.318  10.251  1.00 31.66           O  
-ATOM    806  CB  SER I  34      29.797  70.092   5.963  1.00 44.78           C  
-ATOM    829  CB  ARG I  37      27.680  66.876   5.587  1.00 47.73           C  

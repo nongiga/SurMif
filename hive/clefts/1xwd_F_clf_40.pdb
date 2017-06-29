@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1xwd.pdb
-ATOM   6489  OE2 GLU F 208      33.143 -19.063   7.785  1.00 74.28           O  
-ATOM   6499  CA  PRO F 210      35.513 -22.797   8.517  1.00 68.01           C  
-ATOM   6505  N   ASN F 211      37.712 -23.147   7.563  1.00 70.47           N  
-ATOM   6510  CG  ASN F 211      39.225 -22.055   5.191  1.00 75.82           C  

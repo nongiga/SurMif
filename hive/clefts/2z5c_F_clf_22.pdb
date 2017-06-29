@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2z5c.pdb
-ATOM   6366  SG  CYS F 221      49.041  39.936  77.934  1.00 60.02           S  
-ATOM   6381  CG2 THR F 223      45.708  38.502  78.337  1.00 52.01           C  
-ATOM   6429  CD  LYS F 229      46.502  42.277  75.167  1.00 64.06           C  
-ATOM   6485  NZ  LYS F 235      48.163  45.267  78.898  1.00 80.70           N  

@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2z2t.pdb
-ATOM    232  CA  LYS A1574      48.287  43.325  30.814  1.00 17.04           C  
-ATOM    236  CG  LYS A1574      46.538  45.181  31.057  1.00 17.83           C  
-ATOM    261  CB  GLN A1577      52.139  44.364  29.040  1.00 19.81           C  
-ATOM    262  CG  GLN A1577      52.739  45.792  28.924  1.00 18.85           C  

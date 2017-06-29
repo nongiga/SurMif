@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1ffv.pdb
-ATOM   9812  O   ASP D  55      55.455  47.148  75.085  1.00 28.35           O  
-ATOM   9813  CB  ASP D  55      53.066  46.323  76.190  1.00 27.77           C  
-ATOM   9827  CD  ARG D  57      55.862  45.723  70.228  1.00 31.58           C  
-ATOM   9828  NE  ARG D  57      56.720  44.629  70.683  1.00 33.05           N  
-ATOM   9844  CG2 VAL D  59      50.714  47.964  69.240  1.00 26.62           C  

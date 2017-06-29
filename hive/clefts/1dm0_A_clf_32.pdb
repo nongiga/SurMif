@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1dm0.pdb
-ATOM   1599  CE1 TYR A 213      45.386  20.895  41.300  1.00 40.26           C  
-ATOM   1635  CA  SER A 218      42.292  16.605  38.838  1.00 35.21           C  
-ATOM   1646  CG2 VAL A 219      44.442  20.167  37.522  1.00 24.22           C  
-ATOM   1711  C   SER A 228      48.284  15.902  40.964  1.00 28.59           C  

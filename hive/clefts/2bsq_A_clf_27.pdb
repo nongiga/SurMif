@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2bsq.pdb
-ATOM    219  CA  LEU A  28      13.395 -21.124  37.238  1.00 35.15           C  
-ATOM    225  CD2 LEU A  28      12.230 -21.045  40.072  1.00 33.24           C  
-ATOM    226  N   ILE A  29      13.413 -18.975  36.170  1.00 35.24           N  

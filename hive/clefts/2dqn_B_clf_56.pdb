@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2dqn.pdb
-ATOM   5046  CG  LEU B 170      13.055  37.297  -1.238  1.00 54.43           C  
-ATOM   5048  CD2 LEU B 170      14.519  37.603  -1.007  1.00 53.91           C  
-ATOM   5193  CD1 LEU B 189      14.063  44.193  -1.442  1.00 57.53           C  
-ATOM   5194  CD2 LEU B 189      12.628  42.946   0.152  1.00 56.18           C  

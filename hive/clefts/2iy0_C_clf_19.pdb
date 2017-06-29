@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2iy0.pdb
-ATOM   3528  OG1 THR C 564      17.907  -3.307  -8.258  1.00 58.26           O  
-ATOM   3529  CG2 THR C 564      16.179  -4.114  -9.745  1.00 57.98           C  
-ATOM   3658  CD2 LEU C 581      16.945   0.351  -5.997  1.00 37.45           C  
-ATOM   3694  OH  TYR C 585      17.963   2.588 -10.130  1.00 35.07           O  

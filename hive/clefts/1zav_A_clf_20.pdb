@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1zav.pdb
-ATOM   1143  O   LEU A 140      15.291  -7.253  14.350  1.00 51.37           O  
-ATOM   1147  CD2 LEU A 140      17.461  -6.222  10.337  1.00 50.58           C  
-ATOM   1169  CB  MET A 143      16.855  -4.343  15.747  1.00 53.42           C  

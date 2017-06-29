@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1u3a.pdb
-ATOM   1815  OD1 ASN B  45      23.310  12.092  40.463  1.00 48.77           O  
-ATOM   1837  CB  LYS B  48      24.445  11.825  35.300  1.00 46.43           C  
-ATOM   1846  CB  LYS B  49      28.046   8.817  36.818  1.00 52.99           C  
-ATOM   1847  CG  LYS B  49      29.352   9.264  37.428  1.00 53.80           C  
-ATOM   1848  CD  LYS B  49      29.237   9.130  38.939  1.00 51.87           C  

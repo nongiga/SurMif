@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1nh2.pdb
-ATOM   2548  CE  MET C 244       6.078 -14.246  -0.485  1.00 16.17           C  
-ATOM   2808  CB  PHE C 276       0.886 -18.099   1.811  1.00 21.67           C  
-ATOM   2809  CG  PHE C 276       1.253 -16.933   0.927  1.00 21.80           C  
-ATOM   2811  CD2 PHE C 276       2.349 -17.016   0.068  1.00 22.23           C  

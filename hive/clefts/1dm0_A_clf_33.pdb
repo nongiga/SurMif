@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1dm0.pdb
-ATOM   1500  CB  LEU A 201      49.324  20.406  20.928  1.00 18.79           C  
-ATOM   1509  CG  ASN A 202      46.852  20.389  24.779  1.00 28.99           C  
-ATOM   1510  OD1 ASN A 202      45.755  20.890  24.516  1.00 32.39           O  

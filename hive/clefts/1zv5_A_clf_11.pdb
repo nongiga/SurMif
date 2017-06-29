@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1zv5.pdb
-ATOM   1130  N   ASN A  31      27.383 -51.813  18.920  1.00 22.08           N  
-ATOM   1131  CA  ASN A  31      27.049 -52.701  17.800  1.00 22.13           C  
-ATOM   1136  OD1 ASN A  31      25.448 -54.736  19.054  1.00 27.14           O  
-ATOM   1312  OG  SER A  53      29.517 -55.405  18.477  1.00 23.99           O  

@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2df4.pdb
-ATOM   7517  O   ASN C  80      21.998  65.548  26.560  1.00 83.21           O  
-ATOM   7527  N   LYS C  82      23.803  67.283  24.037  1.00 89.14           N  
-ATOM   7528  CA  LYS C  82      24.676  68.455  24.077  1.00 91.30           C  
-ATOM   7531  CB  LYS C  82      26.069  68.068  24.590  1.00 92.80           C  

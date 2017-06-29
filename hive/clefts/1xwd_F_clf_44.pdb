@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1xwd.pdb
-ATOM   5989  CD  LYS F 146      36.070 -48.645  16.309  1.00 50.89           C  
-ATOM   6200  OG  SER F 172      36.013 -45.189  14.973  1.00 51.63           O  
-ATOM   6215  CD1 ILE F 174      30.487 -45.197  13.921  1.00 32.38           C  

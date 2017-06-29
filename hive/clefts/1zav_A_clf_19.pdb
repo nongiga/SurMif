@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1zav.pdb
-ATOM    135  C   GLU A  16      12.742 -19.033 -15.703  1.00 45.99           C  
-ATOM    136  O   GLU A  16      12.132 -18.999 -14.644  1.00 46.93           O  
-ATOM    137  CB  GLU A  16      11.842 -20.582 -17.475  1.00 51.80           C  
-ATOM    143  CA  ILE A  17      14.836 -18.894 -14.523  1.00 46.20           C  

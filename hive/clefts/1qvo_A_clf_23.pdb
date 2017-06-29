@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1qvo.pdb
-ATOM   1381  CA  ARG A 170      26.583 -12.278   9.919  1.00  9.95           C  
-ATOM   1385  CG  ARG A 170      28.625 -11.037   9.004  1.00 14.98           C  
-ATOM   1389  NH1 ARG A 170      30.627 -12.848   7.735  1.00 26.56           N  
-ATOM   1416  CG  GLU A 173      29.008 -13.735  14.740  1.00 24.98           C  

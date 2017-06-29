@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1hcf.pdb
-ATOM   2103  CD2 TYR X 319     -13.039  -6.215  22.420  1.00 40.14           C  
-ATOM   2128  O   ILE X 323     -19.033  -3.287  24.021  1.00 47.56           O  
-ATOM   2134  CA  LEU X 324     -17.257  -1.346  23.099  1.00 44.63           C  
-ATOM   2139  CD1 LEU X 324     -14.157  -1.235  23.490  1.00 41.02           C  

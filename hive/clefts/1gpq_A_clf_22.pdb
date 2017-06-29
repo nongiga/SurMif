@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1gpq.pdb
-ATOM    611  CD2 PHE A  82      -1.382  21.387  26.554  1.00 14.63           C  
-ATOM    625  CB  THR A  84       2.841  18.894  24.313  1.00 11.83           C  
-ATOM    626  OG1 THR A  84       1.905  19.095  25.377  1.00 12.94           O  
-ATOM    696  O   LYS A  93       0.681  21.187  21.255  1.00 10.25           O  

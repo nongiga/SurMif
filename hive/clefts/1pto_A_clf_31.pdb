@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1pto.pdb
-ATOM    969  O   THR A 125       7.116  31.957 -25.369  1.00 14.22           O  
-ATOM    998  CB  SER A 128       7.779  33.874 -29.142  1.00  8.85           C  
-ATOM    999  OG  SER A 128       7.059  32.744 -29.607  1.00  8.88           O  

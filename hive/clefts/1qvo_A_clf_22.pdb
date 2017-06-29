@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1qvo.pdb
-ATOM    716  OE1 GLN A  87      -2.885   5.938 -10.817  1.00 23.51           O  
-ATOM    958  CD2 TYR A 118       0.176   2.357  -9.148  1.00 12.99           C  
-ATOM    960  CE2 TYR A 118       0.100   3.576  -9.829  1.00 13.43           C  
-ATOM    982  CE  LYS A 121      -4.058  -0.165  -7.280  1.00 26.74           C  
-ATOM    983  NZ  LYS A 121      -2.725  -0.532  -7.867  1.00 25.19           N  

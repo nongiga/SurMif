@@ -1,4 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2c1t.pdb
-ATOM   6835  CA  LYS D   3       6.532   1.150  -3.166  1.00 38.06           C  
-ATOM   6840  CD  LYS D   3       6.096   2.877  -0.504  1.00 25.78           C  
-ATOM   6843  N   ARG D   4       8.681   0.427  -4.064  1.00 32.48           N  

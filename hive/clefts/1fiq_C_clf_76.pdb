@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1fiq.pdb
-ATOM   4124  CA  CYS C 633      14.354  42.684 129.906  1.00 34.63           C  
-ATOM   4127  CB  CYS C 633      13.500  41.614 130.597  1.00 32.43           C  
-ATOM   4132  O   PHE C 634      17.256  39.534 131.872  1.00 41.10           O  
-ATOM   4133  CB  PHE C 634      18.913  41.824 130.667  1.00 38.87           C  

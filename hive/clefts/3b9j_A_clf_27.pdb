@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/3b9j.pdb
-ATOM    107  O   VAL A  16     -70.916  22.810  44.635  1.00 26.48           O  
-ATOM    119  OE2 GLU A  17     -68.569  18.681  45.455  1.00 27.96           O  
-ATOM    250  CE  LYS A  33     -71.426  17.503  42.660  1.00 31.64           C  
-ATOM    251  NZ  LYS A  33     -71.107  18.998  42.438  1.00 30.64           N  

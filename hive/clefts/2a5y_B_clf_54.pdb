@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2a5y.pdb
-ATOM   1607  O   ARG B  24      73.420   5.748  55.413  1.00 44.38           O  
-ATOM   1608  CB  ARG B  24      72.138   8.579  54.624  1.00 42.64           C  
-ATOM   1609  CG  ARG B  24      71.055   9.354  55.293  1.00 42.56           C  
-ATOM   1632  CB  LEU B  27      72.323   4.973  58.954  1.00 49.22           C  
-ATOM   1634  CD1 LEU B  27      71.293   7.238  58.676  1.00 47.68           C  

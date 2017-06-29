@@ -1,5 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/2z5c.pdb
-ATOM   5302  CD  LYS F  66      64.357  39.360  67.672  1.00 66.20           C  
-ATOM   5304  NZ  LYS F  66      65.993  37.553  68.485  1.00 69.19           N  
-ATOM   5407  CB  THR F  82      65.110  35.187  63.781  1.00 87.44           C  
-ATOM   5409  CG2 THR F  82      63.791  35.588  64.441  1.00 87.62           C  

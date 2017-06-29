@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1b2u.pdb
-ATOM   4085  CG1 ILE F  14       9.417  54.319  57.395  1.00 35.94           C  
-ATOM   4087  CD1 ILE F  14       9.651  53.249  58.453  1.00 36.77           C  
-ATOM   4119  NE2 HIS F  18      12.162  51.516  55.592  1.00 19.59           N  
-ATOM   4261  CG  LEU F  35       8.525  47.241  54.753  1.00 23.08           C  
-ATOM   4263  CD2 LEU F  35       9.306  47.281  56.081  1.00 21.21           C  

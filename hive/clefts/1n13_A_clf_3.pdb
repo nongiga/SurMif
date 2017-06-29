@@ -1,8 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1n13.pdb
-ATOM      6  CG  PRO A   7      14.345  26.039  -7.707  1.00 41.32           C  
-ATOM      7  CD  PRO A   7      15.860  26.247  -7.595  1.00 41.90           C  
-ATOM     31  N  ATYR A  11       9.717  23.344  -7.687  0.50 21.50           N  
-ATOM     37  O  ATYR A  11       9.817  20.653  -8.722  0.50 20.70           O  
-ATOM     39  CB ATYR A  11       9.533  23.343 -10.130  0.50 23.79           C  
-ATOM     45  CD2ATYR A  11      10.794  25.530 -10.269  0.50 26.05           C  
-ATOM     74  NZ  LYS A  13      14.717  19.520  -9.754  1.00 26.63           N  

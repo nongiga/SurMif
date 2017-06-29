@@ -1,6 +1,0 @@
-#REMARK  PARENTFILE  set_pdb/1zaw.pdb
-ATOM   2159  CA  ILE X   3      23.293  22.473 -19.838  1.00 66.41           C  
-ATOM   2161  O   ILE X   3      25.202  21.842 -18.525  1.00 65.55           O  
-ATOM   2164  CG2 ILE X   3      23.270  24.513 -18.365  1.00 66.41           C  
-ATOM   2187  CB  ILE X   6      27.510  21.266 -20.923  1.00 47.89           C  
-ATOM   2196  CG1 ILE X   7      27.228  23.515 -16.335  1.00 47.85           C  
