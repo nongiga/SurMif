@@ -23,11 +23,8 @@
 /***********************************************************************/
 int main(int argc, char *argv[]){
   char tmp[2000];
-  FILE* fp;
-  int i,j,k,l,cg,cgs;
-  int count=0;
+  int i,cg,cgs;
   vector<node>::iterator vit1;
-  pNode agv=NULL;
 
   //Read command line arguments
   if(read_commandline(argc, argv)==24){ return(0); }
@@ -71,6 +68,8 @@ int main(int argc, char *argv[]){
     nrg_file2=pw[pwr].mif2;
     rnc1=pw[pwr].rnc1;
     rnc2=pw[pwr].rnc2;
+    string rnc1List=rnc1[0];
+    string rnc2List=rnc2[0];
     getrmsd=pw[pwr].getrmsd;
     topT=-1.0; //Set the top tanimoto score
     topN=-1; //Set the top nodes score
@@ -84,10 +83,15 @@ int main(int argc, char *argv[]){
     strcat(cmdLineJob," -p2 "); strcat(cmdLineJob,nrg_file2.c_str());
     strcat(cmdLineJob," "); strcat(cmdLineJob,cmdArgs);
 
+    for (int nb=1;nb<nbResnumc;nb++){
+      rnc1List+=","+rnc1[nb];
+      rnc2List+=","+rnc2[nb];
+    }
+
     if(emptOut==1){ //If we want a short output file (to reduce file size) we only print a few information
-      sprintf(tmp,"REMARK command: %s\nREMARK commandJob: %s\nREMARK mif_file_1: %s\nREMARK mif_file_2: %s\nREMARK wsimfn: %d\nREMARK tag1: %s\nREMARK tag2: %s\nREMARK rnc1: %s\nREMARK rnc2: %s\n",cmdLine,cmdLineJob,nrg_file1.c_str(),nrg_file2.c_str(),wrfn,tag1.c_str(),tag2.c_str(),rnc1.c_str(),rnc2.c_str());  
+      sprintf(tmp,"REMARK command: %s\nREMARK commandJob: %s\nREMARK mif_file_1: %s\nREMARK mif_file_2: %s\nREMARK wsimfn: %d\nREMARK tag1: %s\nREMARK tag2: %s\nREMARK rnc1: %s\nREMARK rnc2: %s\n",cmdLine,cmdLineJob,nrg_file1.c_str(),nrg_file2.c_str(),wrfn,tag1.c_str(),tag2.c_str(),rnc1List.c_str(),rnc2List.c_str());  
     }else{ //Full output file
-      sprintf(tmp,"REMARK command: %s\nREMARK commandJob: %s\nREMARK mif_file_1: %s\nREMARK mif_file_2: %s\nREMARK nb_of_probes: %d\nREMARK C-alpha_dDist: %5.2f\nREMARK pseudocenter_dDist: %5.2f\nREMARK dDist: %5.2f\nREMARK jtt_threshold: %d\nREMARK max_nodes: %d\nREMARK commont int : %d\nREMARK wsimfn: %d\nREMARK tag1: %s\nREMARK tag2: %s\nREMARK rnc1: %s\nREMARK rnc2: %s\n",cmdLine,cmdLineJob,nrg_file1.c_str(),nrg_file2.c_str(),nb_of_probes,ca_dDist,ps_dDist,dDist,jttt,maxNodes,commonInt,wrfn,tag1.c_str(),tag2.c_str(),rnc1.c_str(),rnc2.c_str());  
+      sprintf(tmp,"REMARK command: %s\nREMARK commandJob: %s\nREMARK mif_file_1: %s\nREMARK mif_file_2: %s\nREMARK nb_of_probes: %d\nREMARK C-alpha_dDist: %5.2f\nREMARK pseudocenter_dDist: %5.2f\nREMARK dDist: %5.2f\nREMARK jtt_threshold: %d\nREMARK max_nodes: %d\nREMARK commont int : %d\nREMARK wsimfn: %d\nREMARK tag1: %s\nREMARK tag2: %s\nREMARK rnc1: %s\nREMARK rnc2: %s\n",cmdLine,cmdLineJob,nrg_file1.c_str(),nrg_file2.c_str(),nb_of_probes,ca_dDist,ps_dDist,dDist,jttt,maxNodes,commonInt,wrfn,tag1.c_str(),tag2.c_str(),rnc1List.c_str(),rnc2List.c_str());  
     }
     
     strcpy(outH,tmp);
@@ -312,11 +316,11 @@ int main(int argc, char *argv[]){
 
         //Find cliques
         cout<<"Entering Bron Kerbosch"<<endl;
+
         bk(cg,graph,conn);
 
         //Print nodes in the output file
         clearStep(cg);
-
         //Delete graph and adjacency matrix
         delete[] conn;
         conn=NULL;
@@ -327,7 +331,6 @@ int main(int argc, char *argv[]){
     }
 
     printNodes();
-
     for(int v=0; v<mif1.size(); v++){
       mif1[v].nrg.clear();
       mif1[v].ang.clear();
@@ -375,7 +378,7 @@ int main(int argc, char *argv[]){
     open_file_ptr(&fpout,out_file,1);
   }else{
     if(wrfn==1){ //Add similarity score to filename
-      if(rnc1.compare("")!=0 && rnc2.compare("")!=0){ //Add ligand RMSD if rnc1 and rnc2 are provided
+      if(rnc1.size()>0 && rnc2.size()>0){ //Add ligand RMSD if rnc1 and rnc2 are provided
         sprintf(suffix,"_%d_%5.4f_%5.4f",cliques[topCliques[steps.back()]].nbNodes,cliques[topCliques[steps.back()]].taniM,cliques[topCliques[steps.back()]].ligRMSD);
       }else{
         sprintf(suffix,"_%d_%5.4f",cliques[topCliques[steps.back()]].nbNodes,cliques[topCliques[steps.back()]].taniM);
@@ -518,7 +521,7 @@ bool myfunction (nodeI i,nodeI j) { return (i.neibrs<j.neibrs); }
 /***********************************************************************/
  void Extend(int* old,int ne,int ce, int cg, vector<node> &graph, bool* &conn, int lev){
   int fixp;
-  int newne,newce,j,count,pos,p,s,sel,loc,l;
+  int newne,newce,j,count,pos,p,s,sel;
   int* neww = new int[ce];
   int minnod=ce;
   int i=0;
@@ -817,9 +820,8 @@ void AddNewClique(int n, int* list, int cg, vector<node> &graph){
   // Rotate ligand and calculate RMSD
   float ligRMSD=0.0;
   int ligRMSDc=0;
-  if(rnc1.compare("")!=0 && rnc2.compare("")!=0 && lig1.size()>0 && lig2.size()>0 && getrmsd==1){
+  if(rnc1.size()>0 && rnc2.size()>0 && lig1.size()>0 && lig2.size()>0 && getrmsd==1){
     for(int v=0; v<lig1.size(); v++){
-      float dist=0.0;
       for(int i=0; i<3; i++){
         lig1[v].ncoor[i]=cliques.back().cen_b[i];
         for(int j=0; j<3; j++){ lig1[v].ncoor[i]+=(lig1[v].coor[j]-cliques.back().cen_a[j])*gsl_matrix_get(cliques.back().mat_r,i,j); }
@@ -833,7 +835,7 @@ void AddNewClique(int n, int* list, int cg, vector<node> &graph){
       }
     }
     if(ligRMSDc>0 && ligRMSDc==lig1.size() && lig1.size()==lig2.size()){
-      ligRMSD=sqrt(ligRMSD/(float)ligRMSDc);
+      ligRMSD=sqrt(ligRMSD/(float)ligRMSDc)/nbResnumc;
     }else{
       ligRMSD=0.0;
     }
@@ -862,7 +864,6 @@ void AddNewClique(int n, int* list, int cg, vector<node> &graph){
     }else if(cg==-3){
       rmsd+=pow(dist3d(ncoor,(*it).pb->coor),2.0);
     }else{
-      float dist=dist3d(ncoor,(*it).b->coor);
       rmsd+=pow(dist3d(ncoor,(*it).b->coor),2.0);
       // cliques.back().nrg+=(*it).nrg;
       cliques.back().nbNodesM+=(*it).nbi;
@@ -931,7 +932,6 @@ void printNodes(){
   // fprintf(fpout,"REMARK ncliques_scored: %d\nREMARK ncliques_explored: %d\n",nCliques,nCliquesExplored);
   sprintf(buffer,"REMARK ncliques_scored: %d\nREMARK ncliques_explored: %d\n",nCliques,nCliquesExplored);
   matchFileOut << string(buffer);
-
   if(pc==1){
     int istart=0;
     int iend=cliques.size();
@@ -963,8 +963,9 @@ void printNodes(){
 
     }
   }
-
+  cout<<"stepsize:"<<steps.size()<<endl;
   for(int cs=0; cs<steps.size(); cs++){
+    cout<<"step:"<<cs<<endl;
     int istart=0;
     int iend=cliques.size();
     if(wc==0){
@@ -1045,6 +1046,7 @@ void printNodes(){
         sprintf(buffer,"REMARK DET %g\n",cliques[i].det);
         matchFileOut << string(buffer);
       }
+      //blabla
       // fprintf(fpout,"REMARK DETORI %g\n",cliques[i].detOri);
       sprintf(buffer,"REMARK DETORI %g\n",cliques[i].detOri);
       matchFileOut << string(buffer);
@@ -1053,7 +1055,6 @@ void printNodes(){
     sprintf(buffer,"REMARK END\n");
     matchFileOut << string(buffer);
   }
-  return;
 }
 /***********************************************************************/
 /*        1         2         3         4         5         6         7*/
@@ -1241,7 +1242,6 @@ double SupSVD(gsl_matrix *mat_u, double &detOri){
 /*        1         2         3         4         5         6         7*/
 /***********************************************************************/
 double gsl_matrix_Det3D(gsl_matrix *M){
-  int i,j;
   double det;
 
   //  guide to indexes: 0=x, 1=y, 2=z
@@ -1384,14 +1384,26 @@ void getPairwise(){
       vector<string> vec(begin, end);
       string mif1F="";
       string mif2F="";
-      string rnc1id="";
-      string rnc2id="";
+      vector<string> rnc1id;
+      vector<string> rnc2id;
       int grm=0;
-      for(int i=0; i<vec.size(); i+=2){
-        if(vec[i].compare("-p1")==0) mif1F=vec[i+1];
-        if(vec[i].compare("-p2")==0) mif2F=vec[i+1];
-        if(vec[i].compare("-l1")==0) rnc1id=vec[i+1];
-        if(vec[i].compare("-l2")==0) rnc2id=vec[i+1];
+      for(int i=0; i<vec.size(); i++){
+        if(vec[i].compare("-p1")==0) mif1F=vec[++i];
+        if(vec[i].compare("-p2")==0) mif2F=vec[++i];
+        if(vec[i].compare("-l1")==0) {
+          if(sscanf(vec[i+1].c_str(),"%d", &nbResnumc) !=0){
+            i++;
+            for(int h=0; h<nbResnumc; h++){  rnc1id.push_back(vec[++i]);  }
+          }
+          else    rnc1id.push_back(vec[++i]);
+        }
+        if(vec[i].compare("-l2")==0) {
+          if(sscanf(vec[i+1].c_str(),"%d", &nbResnumc) !=0){
+            i++;
+            for(int h=0; h<nbResnumc; h++){  rnc1id.push_back(vec[++i]);  }
+          }
+          else    rnc1id.push_back(vec[++i]);
+        }
         if(vec[i].compare("-l")==0) grm=atoi(vec[i+1].c_str());
       }
       pwRun npw;
@@ -1443,9 +1455,8 @@ void getPairwise(){
 /*234567890123456789012345678901234567890123456789012345678901234567890*/
 /*        1         2         3         4         5         6         7*/
 /***********************************************************************/
-int createVrtxVec(string mifFile, vector<vertex>& p, vector<atom>& a, vector<int>& ss, vector<int>& ssm, int &caSize, vector<pseudoC>& pl, string rnc, vector<atom>& llist){
+int createVrtxVec(string mifFile, vector<vertex>& p, vector<atom>& a, vector<int>& ss, vector<int>& ssm, int &caSize, vector<pseudoC>& pl, vector<string> rnc, vector<atom>& llist){
   string line;
-  vertex* nvrtx;
   float x,y,z;
   string resn;
   int resnb,mif,bs;
@@ -1493,8 +1504,11 @@ int createVrtxVec(string mifFile, vector<vertex>& p, vector<atom>& a, vector<int
       sss << resnb;
       thisresnumc = resn + sss.str() + chain + alt;
 
-      if(rnc.compare(thisresnumc)==0){ //If its one of the ligand atom
-          llist.push_back(natom);
+      for (int g=0;g<nbResnumc;g++){
+        if(rnc[g].compare(thisresnumc)==0){ //If its one of the ligand atom
+            llist.push_back(natom);
+            break;
+        }
       }
       if(atomn.compare("CA")==0 && bs==1) caSize++; //If this atom is a carbon alpha, increment the Calpha count
       a.push_back(natom);
@@ -1637,10 +1651,8 @@ int read_commandline(int argc, char *argv[]){
   int nb_arg;
 
   // assignment of default values to optional parameters
-  rnc1="";
-  rnc2="";
 
-  strcpy(usage,"\n!---   IsoMIF   ---!\nWelcome.Bienvenue.\n");
+  strcpy(usage,"\n!---   SurMIF   ---!\nWelcome.\n");
   strcat(usage,"\nObligatory Arguments:\n");
   sprintf(tmp_line,"-p1          : \t Mif file of Protein 1\n");
   strcat(usage,tmp_line);
@@ -1698,6 +1710,12 @@ int read_commandline(int argc, char *argv[]){
   sprintf(tmp_line,"-olDist     : \t Distance threshold for overlap measure\n");
   strcat(usage,tmp_line);
 
+  //if no command line args are entered
+  if (argc==1) {
+    printf("\nError: No command entered.\n");
+    printf("\n%s",usage);
+    return(24);
+  }
 
   //print command line Args
   strcpy(exePath,argv[0]);
@@ -1843,11 +1861,19 @@ int read_commandline(int argc, char *argv[]){
     }
 
     if(strcmp(argv[nb_arg],"-l1")==0){
-      rnc1=argv[nb_arg+1];
+      if(sscanf(argv[nb_arg+1],"%d", &nbResnumc) !=0){
+        nb_arg++;
+        for(int h=0; h<nbResnumc; h++) rnc1.push_back(argv[++nb_arg]);
+      }
+      else  rnc1.push_back(argv[++nb_arg]);
     }
 
     if(strcmp(argv[nb_arg],"-l2")==0){
-      rnc2=argv[nb_arg+1];
+      if(sscanf(argv[nb_arg+1],"%d", &nbResnumc) !=0){
+        nb_arg++;
+        for(int h=0; h<nbResnumc; h++)  rnc2.push_back(argv[++nb_arg]);
+      }
+      else  rnc2.push_back(argv[++nb_arg]);
     }
 
     if(strcmp(argv[nb_arg],"-l")==0){
@@ -1857,6 +1883,11 @@ int read_commandline(int argc, char *argv[]){
     if(strcmp(argv[nb_arg],"-pr")==0){
       printDetails=1;
     }
+  }
+
+  if (nrg_file1.empty()|| nrg_file2.empty()) {
+    cout<<"Error! one or both of the mif files are missing!"<<endl;
+    return(24);
   }
 
   return(0);
@@ -1873,9 +1904,6 @@ int get_info(string str1, string str2){
   int i;
   const char* prefix1; //Mif file 1 prefix
   const char* prefix2; //Mif file 2 prefix
-  const char* prefix3; //Pairwise prefix
-  const char* p1_pre; //Protein file 1 prefix
-  const char* p2_pre; //Protein file 2 prefix
 
   //Store Mif 1 filename without the .isomif in prefix1
   string empt ("");

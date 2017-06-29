@@ -54,8 +54,8 @@ struct nodeI{
 struct pwRun{
   string mif1;
   string mif2;
-  string rnc1;
-  string rnc2;
+  vector<string> rnc1;
+  vector<string> rnc2;
   int getrmsd;
 };
 
@@ -102,7 +102,7 @@ struct mif {
   vector<int> ssm;
   int caSize;
   vector<pseudoC> pseudoL;
-  string rnc;
+  vector<string> rnc;
   vector<atom> lig;
 };
 
@@ -219,9 +219,10 @@ map<int,int> topCliques;
 map<string,mif> mifs;
 vector<atom> lig1;
 vector<atom> lig2;
-string rnc1;
-string rnc2;
+vector<string> rnc1;
+vector<string> rnc2;
 int getrmsd=0;
+int nbResnumc =1;
 vector<pwRun> pw;
 FILE* fpout;
 stringstream matchFileOut;
@@ -241,7 +242,7 @@ void clearStep(int);
 void printNodes();
 int read_commandline(int, char*[]);
 bool fexists(const char*);
-int createVrtxVec(string, vector<vertex>&, vector<atom>&, vector<int>&, vector<int>&, int&, vector<pseudoC>&, string, vector<atom>&);
+int createVrtxVec(string, vector<vertex>&, vector<atom>&, vector<int>&, vector<int>&, int&, vector<pseudoC>&, vector<string>, vector<atom>&);
 void createNodes(int, vector<node>&, int);
 void rem_spaces(char*);
 int get_info(string, string);
