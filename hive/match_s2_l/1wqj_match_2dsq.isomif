@@ -1,0 +1,32 @@
+REMARK command: ./isomif -p1 hive/mif_s2_l/1wqj.mif -l1 CYS32B -p2 hive/mif_s2_l/2dsq.mif -l2 CYS32B -o hive/match_s2_l/ -c 2 -l 1
+REMARK commandJob: ./isomif -p1 hive/mif_s2_l/1wqj.mif -p2 hive/mif_s2_l/2dsq.mif -p1 hive/mif_s2_l/1wqj.mif -l1 CYS32B -p2 hive/mif_s2_l/2dsq.mif -l2 CYS32B -o hive/match_s2_l/ -c 2 -l 1
+REMARK mif_file_1: hive/mif_s2_l/1wqj.mif
+REMARK mif_file_2: hive/mif_s2_l/2dsq.mif
+REMARK nb_of_probes: 6
+REMARK C-alpha_dDist:  3.00
+REMARK pseudocenter_dDist:  1.00
+REMARK dDist:  3.00
+REMARK jtt_threshold: 5
+REMARK max_nodes: 150000
+REMARK commont int : 1
+REMARK wsimfn: 0
+REMARK tag1: 1wqj
+REMARK tag2: 2dsq
+REMARK rnc1: CYS32B
+REMARK rnc2: CYS32B
+REMARK ncliques_scored: 1
+REMARK ncliques_explored: 1
+REMARK CLIQUE CG 2 NODES 8 NODESM 8 NODESMW 0.0000 NORMNODES 0.0000 NORMNODESRMSD 0.0000 TANI 0.1633 TANIM 0.1379 TANIMW 0.0000 TANINORM 0.0000 NRG 0.000 SS1 28 SS2 29 SS1M 32 SS2M 34 LIGRMSD 11.583
+0   10.500   50.000   21.000   21.500   -9.500   -6.500
+3   10.500   50.000   19.000   19.500   -7.500   -6.500
+3    8.500   52.000   19.000   19.500   -9.500   -6.500
+0    2.500   46.000   11.000   15.500   -7.500    5.500
+0    2.500   46.000    9.000   13.500   -7.500    7.500
+0    4.500   44.000    9.000   15.500   -9.500    5.500
+0    2.500   50.000    7.000   11.500   -5.500    3.500
+0    2.500   50.000    5.000    9.500   -7.500    7.500
+REMARK ROTMAT    -0.0707   -0.5835    0.8090   -0.8441    0.4671    0.2632   -0.5315   -0.6643   -0.5256
+REMARK CENTRES    5.5000   48.5000   12.5000   15.7500   -8.0000    1.2500
+REMARK DET 1
+REMARK DETORI 1
+REMARK END

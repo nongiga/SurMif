@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2qqk.pdb
+ATOM    148  C   SPH Z   1      17.270 -32.669 -36.362  1.00  1.78 
+ATOM    152  C   SPH Z   1      17.748 -32.325 -36.861  1.00  1.98 
+ATOM    151  C   SPH Z   1      17.495 -31.708 -36.827  1.00  1.63 

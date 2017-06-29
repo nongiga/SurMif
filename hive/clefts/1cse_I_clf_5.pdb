@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1cse.pdb
+ATOM   2204  O   SER I  41      40.076 -16.970  -4.984  1.00  9.83           O  
+ATOM   2208  CA  PRO I  42      41.037 -17.217  -2.467  1.00 21.60           C  
+ATOM   2214  N   VAL I  43      38.796 -17.377  -1.727  1.00  5.95           N  

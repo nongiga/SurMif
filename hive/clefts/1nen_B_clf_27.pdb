@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1nen.pdb
+ATOM   5285  N   VAL B  99      96.610  97.911 124.779  1.00 68.68           N  
+ATOM   5288  O   VAL B  99      98.909  97.920 126.881  1.00 74.16           O  
+ATOM   5289  CB  VAL B  99      98.051  95.911 124.936  1.00 68.49           C  

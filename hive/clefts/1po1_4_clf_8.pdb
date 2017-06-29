@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1po1.pdb
+ATOM   6530  O   THR 4  54      31.304  22.144 113.925  1.00 21.61           O  
+ATOM   6535  CA  GLU 4  55      32.422  22.135 111.429  1.00 21.79           C  
+ATOM   6589  CD2 LEU 4  61      31.738  16.961 111.895  1.00 40.92           C  

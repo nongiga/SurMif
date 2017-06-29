@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1nez.pdb
+ATOM   3926  CB  PHE G 112      35.439 -16.551-351.148  1.00 33.86           C  
+ATOM   3936  O   SER G 113      34.171 -19.774-352.635  1.00 30.32           O  
+ATOM   3951  CG2 VAL G 115      33.632 -22.584-348.576  1.00 41.06           C  

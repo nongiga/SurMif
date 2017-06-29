@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/1fiq.pdb
+ATOM   8332  CD  ARG C1175      35.872  17.122  80.877  1.00 39.06           C  
+ATOM   8335  NH1 ARG C1175      36.272  15.181  78.862  1.00 63.11           N  

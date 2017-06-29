@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1cow.pdb
+ATOM   2068  C   SPH Z   1     107.604  36.046  58.000  1.00  1.71 
+ATOM   2088  C   SPH Z   1     107.055  35.522  57.078  1.00  1.55 
+ATOM   2069  C   SPH Z   1     107.045  35.799  57.670  1.00  1.75 

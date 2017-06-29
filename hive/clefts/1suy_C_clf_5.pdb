@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/1suy.pdb
+ATOM   3903  O   ARG C 423      -5.388  -2.339  12.382  1.00  0.61           O  
+ATOM   3947  CB  ALA C 425      -6.211   1.693  12.013  1.00  0.79           C  
+ATOM   3949  HA  ALA C 425      -5.875   1.283   9.939  1.00  0.56           H  
+ATOM   3951  HB2 ALA C 425      -6.118   0.931  12.773  1.00  1.40           H  
+ATOM   3952  HB3 ALA C 425      -7.232   1.732  11.665  1.00  1.42           H  

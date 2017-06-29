@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2dqn.pdb
+ATOM   4738  CB  HIS B 132      25.794  63.422   5.038  1.00 88.21           C  
+ATOM   4756  O   GLY B 134      28.860  68.002   5.909  1.00 86.69           O  
+ATOM   4764  OE1 GLU B 135      32.403  68.077   5.037  1.00 92.58           O  
+ATOM   4769  O   TYR B 136      27.546  66.065   8.576  1.00 80.59           O  

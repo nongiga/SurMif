@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1ffv.pdb
+ATOM    396  C   SPH Z   1      55.979  73.713  75.106  1.00  1.71 
+ATOM    398  C   SPH Z   1      55.831  73.917  74.795  1.00  1.56 
+ATOM    397  C   SPH Z   1      55.889  74.418  75.366  1.00  2.07 

@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1hl6.pdb
+ATOM    118  C   ARG A  25      48.649  24.560  52.178  1.00 39.22           C  
+ATOM    120  CB  ARG A  25      50.993  24.191  52.825  1.00 42.50           C  
+ATOM    157  CB  LYS A  29      45.506  24.830  55.349  1.00 52.72           C  
+ATOM    159  CD  LYS A  29      46.191  26.471  57.105  1.00 58.73           C  

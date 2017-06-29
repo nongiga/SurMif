@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1ntm.pdb
+ATOM     31  OH  TYR A   4      45.890 112.349 105.092  1.00 18.90           O  
+ATOM   3004  O   LEU A 392      40.050 111.148 104.954  1.00 21.44           O  
+ATOM   3037  N   GLU A 396      41.058 110.893 107.565  1.00 22.28           N  
+ATOM   3038  CA  GLU A 396      42.131 111.750 108.049  1.00 22.61           C  

@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1c8o.pdb
+ATOM   2388  CE1 TYR B 320      14.185  37.438  63.413  1.00 29.88           C  
+ATOM   2469  CB  PHE B 331      16.531  43.172  64.988  1.00 20.71           C  
+ATOM   2470  CG  PHE B 331      15.903  43.966  66.081  1.00 21.91           C  
+ATOM   2471  CD1 PHE B 331      16.343  43.834  67.387  1.00 21.63           C  

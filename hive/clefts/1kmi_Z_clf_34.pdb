@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1kmi.pdb
+ATOM   1399  O   VAL Z  59     135.903  31.208  20.628  1.00101.22           O  
+ATOM   1401  CG1 VAL Z  59     136.142  28.617  21.452  1.00 83.76           C  
+ATOM   1411  NE2 GLN Z  60     139.716  32.283  23.603  1.00163.00           N  
+ATOM   1431  CB  ALA Z  63     133.418  32.833  22.350  1.00 93.51           C  

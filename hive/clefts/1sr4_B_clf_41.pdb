@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1sr4.pdb
+ATOM   2582  CB  ARG B 190      26.425  11.054   4.527  1.00 31.54           C  
+ATOM   2585  NE  ARG B 190      25.669   8.232   3.886  1.00 41.62           N  
+ATOM   2594  CG1 VAL B 191      23.272  12.845   7.877  1.00 22.01           C  

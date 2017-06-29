@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/1pcz.pdb
+ATOM    611  CA  ALA A  81      58.720  46.440 111.288  1.00 47.64           C  
+ATOM    747  CG  PRO A  98      62.879  41.283 111.129  1.00 48.56           C  

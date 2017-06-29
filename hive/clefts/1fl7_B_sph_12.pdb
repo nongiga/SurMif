@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1fl7.pdb
+ATOM    105  C   SPH Z   1      32.122  83.183  16.021  1.00  1.65 
+ATOM    108  C   SPH Z   1      31.899  83.478  16.334  1.00  1.92 
+ATOM    107  C   SPH Z   1      32.408  83.952  16.336  1.00  1.51 
+ATOM    106  C   SPH Z   1      32.013  83.795  15.712  1.00  1.84 

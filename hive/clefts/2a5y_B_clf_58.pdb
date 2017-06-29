@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2a5y.pdb
+ATOM   3218  CB  SER B 222      66.299  29.668  81.934  1.00 63.89           C  
+ATOM   3219  OG  SER B 222      66.528  30.675  82.900  1.00 67.27           O  
+ATOM   3236  N   HIS B 225      68.375  29.180  87.795  1.00 93.69           N  
+ATOM   3241  CG  HIS B 225      65.880  29.186  89.533  1.00119.14           C  

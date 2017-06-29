@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2qqk.pdb
+ATOM   4679  CD1 ILE H  51       5.265 -24.232 -39.775  1.00 54.04           C  
+ATOM   4693  CA  PRO H  52A      8.872 -27.803 -40.179  1.00 54.95           C  
+ATOM   4694  C   PRO H  52A      9.021 -28.926 -41.204  1.00 57.62           C  
+ATOM   4695  O   PRO H  52A      8.595 -28.731 -42.332  1.00 64.22           O  

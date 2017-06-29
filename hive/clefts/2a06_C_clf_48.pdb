@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2a06.pdb
+ATOM   8654  CD1 LEU C 275      62.767  95.072  53.245  1.00 37.27           C  
+ATOM   9127  C   THR C 336      67.133  96.523  53.419  1.00 33.25           C  
+ATOM   9128  O   THR C 336      66.196  96.025  52.783  1.00 34.99           O  

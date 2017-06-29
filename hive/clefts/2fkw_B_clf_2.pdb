@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/2fkw.pdb
+ATOM    440  O   GLU B   6      -0.889   6.612  61.037  1.00 50.60           O  
+ATOM    465  CB  GLU B   9      -0.259   3.960  58.440  1.00 45.99           C  
+ATOM    475  CG  GLU B  10      -4.240   7.877  59.919  1.00 55.56           C  
+ATOM    476  CD  GLU B  10      -4.014   8.240  61.418  1.00 64.67           C  
+ATOM    478  OE2 GLU B  10      -4.323   7.377  62.319  1.00 68.59           O  

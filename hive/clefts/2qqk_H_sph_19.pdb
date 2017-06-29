@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2qqk.pdb
+ATOM    683  C   SPH Z   1      21.394   5.717  -6.198  1.00  1.59 
+ATOM    685  C   SPH Z   1      20.872   6.089  -5.784  1.00  1.76 
+ATOM    684  C   SPH Z   1      21.555   6.041  -6.122  1.00  1.54 

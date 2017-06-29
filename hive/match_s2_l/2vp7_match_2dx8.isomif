@@ -1,0 +1,27 @@
+REMARK command: ./isomif -p1 hive/mif_s2_l/2vp7.mif -l1 GLU383A -p2 hive/mif_s2_l/2dx8.mif -l2 GLU383A -o hive/match_s2_l/ -c 2 -l 1
+REMARK commandJob: ./isomif -p1 hive/mif_s2_l/2vp7.mif -p2 hive/mif_s2_l/2dx8.mif -p1 hive/mif_s2_l/2vp7.mif -l1 GLU383A -p2 hive/mif_s2_l/2dx8.mif -l2 GLU383A -o hive/match_s2_l/ -c 2 -l 1
+REMARK mif_file_1: hive/mif_s2_l/2vp7.mif
+REMARK mif_file_2: hive/mif_s2_l/2dx8.mif
+REMARK nb_of_probes: 6
+REMARK C-alpha_dDist:  3.00
+REMARK pseudocenter_dDist:  1.00
+REMARK dDist:  3.00
+REMARK jtt_threshold: 5
+REMARK max_nodes: 150000
+REMARK commont int : 1
+REMARK wsimfn: 0
+REMARK tag1: 2vp7
+REMARK tag2: 2dx8
+REMARK rnc1: GLU383A
+REMARK rnc2: GLU383A
+REMARK ncliques_scored: 1
+REMARK ncliques_explored: 1
+REMARK CLIQUE CG 2 NODES 3 NODESM 3 NODESMW 0.0000 NORMNODES 0.0000 NORMNODESRMSD 0.0000 TANI 0.0556 TANIM 0.0462 TANIMW 0.0000 TANINORM 0.0000 NRG 0.000 SS1 5 SS2 52 SS1M 5 SS2M 63 LIGRMSD 0.000
+3   24.500    4.000   35.500   64.000   30.000    1.500
+0   18.500    2.000   35.500   60.000   32.000   -2.500
+0   18.500    4.000   35.500   60.000   32.000   -4.500
+REMARK ROTMAT     0.5228    0.7257    0.4472   -0.2614   -0.3629    0.8944    0.8114   -0.5845    0.0000
+REMARK CENTRES   20.5000    3.3333   35.5000   61.3333   31.3333   -1.8333
+REMARK DET 1
+REMARK DETORI 1
+REMARK END

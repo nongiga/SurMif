@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1c48.pdb
+ATOM   1793  O   ASP D 417      34.249 -16.899  24.330  1.00 24.88           O  
+ATOM   1800  C   ASP D 418      35.712 -15.266  21.918  1.00 23.53           C  
+ATOM   1937  NE1 TRP D 434      36.945 -11.542  24.653  1.00 44.28           N  

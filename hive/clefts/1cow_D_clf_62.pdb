@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/1cow.pdb
+ATOM  13540  CG2 THR D 324     114.320  60.782  56.961  1.00  1.00           C  
+ATOM  13573  NE2 HIS D 328     113.837  57.646  53.065  1.00 12.96           N  

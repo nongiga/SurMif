@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1azs.pdb
+ATOM   2782  C   SPH Z   1      14.764 -12.250  -3.048  1.00  1.58 
+ATOM   2784  C   SPH Z   1      15.186 -11.981  -3.628  1.00  1.95 
+ATOM   2783  C   SPH Z   1      14.899 -12.944  -2.943  1.00  1.58 

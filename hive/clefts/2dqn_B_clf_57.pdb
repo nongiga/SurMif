@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2dqn.pdb
+ATOM   4511  C   GLY B 103      15.058  27.284   1.122  1.00 52.25           C  
+ATOM   4512  O   GLY B 103      16.240  27.155   0.788  1.00 51.88           O  
+ATOM   4519  CD1 TYR B 104      13.537  24.788  -0.756  1.00 55.48           C  

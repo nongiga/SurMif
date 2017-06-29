@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1k6z.pdb
+ATOM    246  CD2 PHE A1034       9.820   4.079  16.561  1.00 35.83           C  
+ATOM    248  CE2 PHE A1034       8.860   5.062  16.721  1.00 30.40           C  
+ATOM    939  NH1 ARG A1127      12.136   8.879  16.118  1.00 29.02           N  

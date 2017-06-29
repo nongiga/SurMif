@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1ntm.pdb
+ATOM    291  C   SPH Z   1      14.669  95.951  88.066  1.00  1.52 
+ATOM    299  C   SPH Z   1      14.641  96.721  88.242  1.00  1.75 
+ATOM    293  C   SPH Z   1      14.140  97.212  88.103  1.00  1.70 

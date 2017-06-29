@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1wqj.pdb
+ATOM    603  O   GLY I   7       5.168  56.069   9.255  1.00 23.99           O  
+ATOM    632  CG2 VAL I  11       6.978  55.198  12.418  1.00 26.78           C  
+ATOM    746  CE2 PHE I  25       9.663  57.885  13.532  1.00 26.49           C  

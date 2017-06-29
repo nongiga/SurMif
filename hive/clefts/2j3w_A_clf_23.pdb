@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2j3w.pdb
+ATOM    750  CA  GLN A  91     103.536  23.270  20.483  1.00 41.61           C  
+ATOM    751  C   GLN A  91     103.058  21.815  20.511  1.00 40.42           C  
+ATOM    767  N   ASP A  93     101.204  19.731  22.506  1.00 42.18           N  

@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1c8o.pdb
+ATOM     99  C   SPH Z   1      15.438  39.968  65.618  1.00  1.54 
+ATOM    102  C   SPH Z   1      14.830  40.688  66.639  1.00  1.53 
+ATOM    101  C   SPH Z   1      15.358  40.257  66.781  1.00  1.72 
+ATOM    100  C   SPH Z   1      15.658  39.902  66.271  1.00  1.72 

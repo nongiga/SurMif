@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1suy.pdb
+ATOM    127  C   SPH Z   1      -6.984  -6.467   7.667  1.00  1.52 
+ATOM    131  C   SPH Z   1      -7.375  -6.265   7.389  1.00  1.80 
+ATOM    130  C   SPH Z   1      -6.972  -5.953   7.568  1.00  1.50 

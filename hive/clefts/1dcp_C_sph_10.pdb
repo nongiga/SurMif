@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1dcp.pdb
+ATOM      7  C   SPH Z   1      19.900  68.361  14.718  1.00  1.52 
+ATOM     10  C   SPH Z   1      20.321  68.329  15.216  1.00  1.53 
+ATOM      9  C   SPH Z   1      22.378  67.896  14.242  1.00  1.53 
+ATOM      8  C   SPH Z   1      20.277  69.014  13.302  1.00  1.80 

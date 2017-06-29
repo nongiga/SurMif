@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2acz.pdb
+ATOM   7208  CA  GLU C 104      72.326  81.055 110.439  1.00 70.58           C  
+ATOM   7229  CB  LYS C 107      75.514  81.555 107.059  1.00 64.85           C  
+ATOM   7231  CD  LYS C 107      76.773  80.671 109.041  1.00 75.02           C  

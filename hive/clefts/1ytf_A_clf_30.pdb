@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1ytf.pdb
+ATOM   1354  CD2 PHE A 152      20.980  21.949 -12.025  1.00  8.90           C  
+ATOM   1356  CE2 PHE A 152      21.026  21.960 -10.629  1.00  7.27           C  
+ATOM   1373  N   PHE A 155      17.706  26.084 -10.159  1.00 11.29           N  
+ATOM   1377  CB  PHE A 155      19.062  24.624  -8.691  1.00  2.00           C  

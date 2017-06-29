@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1zav.pdb
+ATOM   1189  CA  GLY A 146      12.999  -2.129  20.718  1.00 47.53           C  
+ATOM   1190  C   GLY A 146      12.333  -1.121  19.805  1.00 47.70           C  
+ATOM   1191  O   GLY A 146      11.902  -0.056  20.247  1.00 46.08           O  

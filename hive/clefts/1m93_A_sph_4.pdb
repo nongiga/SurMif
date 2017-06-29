@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1m93.pdb
+ATOM     68  C   SPH Z   1      23.095  32.895  62.341  1.00  1.71 
+ATOM     70  C   SPH Z   1      25.840  30.807  62.203  1.00  1.77 
+ATOM     91  C   SPH Z   1      27.441  29.470  62.958  1.00  1.50 

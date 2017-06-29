@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1kmi.pdb
+ATOM   2143  C   MET Z 153     145.474  21.536   6.428  1.00125.44           C  
+ATOM   2145  CB  MET Z 153     143.067  22.152   6.369  1.00126.85           C  
+ATOM   2155  OD1 ASP Z 154     146.362  23.506   3.126  1.00127.87           O  

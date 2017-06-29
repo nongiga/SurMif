@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2acz.pdb
+ATOM   6394  N   MET C   1     104.031 108.709 122.194  1.00130.86           N  
+ATOM   6395  CA  MET C   1     104.904 109.767 122.786  1.00131.10           C  
+ATOM   6408  CG2 ILE C   2     101.867 113.710 122.229  1.00129.46           C  

@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2df4.pdb
+ATOM   7246  CA  ASP C  46      35.951  20.555  33.736  1.00 68.69           C  
+ATOM   7251  OD1 ASP C  46      36.283  18.223  32.108  1.00 71.11           O  
+ATOM   7253  N   THR C  47      34.516  21.436  32.012  1.00 67.00           N  

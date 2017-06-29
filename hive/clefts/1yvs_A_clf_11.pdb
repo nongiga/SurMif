@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/1yvs.pdb
+ATOM      6  CG1 VAL A   3     -22.535  -0.206  60.480  1.00 50.47           C  
+ATOM     13  CG1 ILE A   4     -23.689   3.125  58.032  1.00 28.15           C  
+ATOM     83  CE2 TYR A  13     -28.199   4.609  60.415  1.00 21.21           C  
+ATOM    153  CB  PRO A  21     -24.080   3.909  62.370  1.00 22.00           C  
+ATOM    156  N   ASP A  22     -25.222   1.802  64.498  1.00 20.00           N  

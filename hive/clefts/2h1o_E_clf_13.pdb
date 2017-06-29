@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/2h1o.pdb
+ATOM   6044  O   ARG E  20      -3.056 -25.839  14.494  1.00 33.52           O  
+ATOM   6046  CG  ARG E  20      -2.025 -23.106  15.565  1.00 34.24           C  

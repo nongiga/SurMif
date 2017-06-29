@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1cd3.pdb
+ATOM   6524  O   GLN F 265      43.179  -1.162 101.790  1.00  7.61           O  
+ATOM   6526  CG  GLN F 265      44.732   0.969 103.805  1.00  8.97           C  
+ATOM   6544  OG1 THR F 267      40.642   0.948  98.978  1.00 10.48           O  

@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1rk8.pdb
+ATOM      2  C   SPH Z   1      92.182  65.188  -3.303  1.00  1.71 
+ATOM      4  C   SPH Z   1      92.320  65.932  -3.356  1.00  1.74 
+ATOM      3  C   SPH Z   1      92.466  66.587  -3.206  1.00  1.78 

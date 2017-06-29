@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2pg1.pdb
+ATOM   6055  CB  LYS I 116     -15.604  18.709  -1.234  1.00 72.21           C  
+ATOM   6057  CD  LYS I 116     -13.540  18.580  -2.653  1.00 79.55           C  
+ATOM   6069  CA  THR I 118     -15.883  14.591   2.362  1.00 28.73           C  
+ATOM   6073  OG1 THR I 118     -13.868  15.906   2.389  1.00 30.23           O  

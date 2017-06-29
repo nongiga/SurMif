@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1ppj.pdb
+ATOM     95  C   SPH Z   1      36.123  55.954 117.125  1.00  1.62 
+ATOM     98  C   SPH Z   1      38.365  55.562 117.252  1.00  1.64 
+ATOM     97  C   SPH Z   1      37.281  56.632 117.003  1.00  1.69 
+ATOM     96  C   SPH Z   1      38.438  56.079 116.116  1.00  1.57 

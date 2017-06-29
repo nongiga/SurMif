@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/1dan.pdb
+ATOM    494  O   GLY L  58      22.296  35.778  60.908  1.00 37.66           O  
+ATOM    496  CA  GLY L  59      24.613  34.388  60.436  1.00 40.24           C  
+ATOM    589  O   PHE L  71      24.012  31.245  59.869  1.00 34.84           O  
+ATOM    599  C   CYS L  72      21.959  31.806  56.988  1.00 33.21           C  
+ATOM    603  N   LEU L  73      21.513  33.053  56.839  1.00 34.16           N  

@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1dm0.pdb
+ATOM     79  C   ALA A  10      72.031  14.482  32.961  1.00 38.26           C  
+ATOM     80  O   ALA A  10      70.988  14.998  33.267  1.00 41.92           O  
+ATOM     83  CA  LYS A  11      73.083  15.668  34.783  1.00 38.08           C  
+ATOM     86  CB  LYS A  11      74.069  15.216  35.858  1.00 40.64           C  

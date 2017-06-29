@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2z5c.pdb
+ATOM   5478  CE1 HIS F  91      53.120  20.985  59.314  1.00 55.99           C  
+ATOM   5479  NE2 HIS F  91      52.926  21.053  60.622  1.00 55.63           N  
+ATOM   5667  O   SER F 115      54.439  20.114  63.940  1.00 59.62           O  
+ATOM   5721  NH1 ARG F 122      55.628  15.910  59.459  1.00 84.60           N  

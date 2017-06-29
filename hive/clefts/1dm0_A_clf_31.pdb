@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1dm0.pdb
+ATOM   1305  CG  ARG A 172      59.990  17.529  35.217  1.00 16.95           C  
+ATOM   1336  NE2 GLN A 175      64.284  17.607  34.200  1.00 27.60           N  
+ATOM   1341  CB  ARG A 176      61.858  12.980  32.564  1.00 33.83           C  
+ATOM   1372  NH1 ARG A 179      65.364  12.378  35.023  1.00 65.41           N  

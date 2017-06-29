@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1ppj.pdb
+ATOM  29759  CA  THR T  63       6.135  62.231  89.056  1.00 52.61           C  
+ATOM  29762  CB  THR T  63       7.395  61.359  89.128  1.00 51.33           C  
+ATOM  29763  OG1 THR T  63       8.539  62.207  89.243  1.00 49.94           O  
+ATOM  29764  CG2 THR T  63       7.541  60.518  87.869  1.00 50.14           C  

@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1ffu.pdb
+ATOM     61  C   SPH Z   1      20.498  41.448 116.316  1.00  1.70 
+ATOM     64  C   SPH Z   1      19.937  40.953 115.393  1.00  1.87 
+ATOM     63  C   SPH Z   1      20.680  41.746 115.176  1.00  1.59 
+ATOM     62  C   SPH Z   1      20.363  41.377 115.575  1.00  1.94 

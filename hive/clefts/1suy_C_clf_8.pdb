@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1suy.pdb
+ATOM   3899  HB3 ALA C 422      -4.812  -1.173   6.681  1.00  1.14           H  
+ATOM   3946  O   ALA C 425      -4.344   3.278   9.749  1.00  0.64           O  
+ATOM   3964  HB2 LYS C 426      -2.278   3.220   9.347  1.00  1.10           H  

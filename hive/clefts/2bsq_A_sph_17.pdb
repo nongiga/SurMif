@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2bsq.pdb
+ATOM    428  C   SPH Z   1      14.231 -11.791  68.913  1.00  1.69 
+ATOM    430  C   SPH Z   1      14.120 -12.761  68.588  1.00  1.60 
+ATOM    429  C   SPH Z   1      14.161 -11.972  68.725  1.00  1.68 

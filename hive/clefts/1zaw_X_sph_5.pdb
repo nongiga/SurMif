@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1zaw.pdb
+ATOM     32  C   SPH Z   1      38.974  21.975 -14.162  1.00  1.61 
+ATOM     34  C   SPH Z   1      37.318  21.632 -12.607  1.00  1.86 
+ATOM     33  C   SPH Z   1      37.733  21.069 -12.902  1.00  1.62 

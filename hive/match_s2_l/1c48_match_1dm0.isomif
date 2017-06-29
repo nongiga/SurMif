@@ -1,0 +1,24 @@
+REMARK command: ./isomif -p1 hive/mif_s2_l/1c48.mif -l1 GLN144C -p2 hive/mif_s2_l/1dm0.mif -l2 GLN144B -o hive/match_s2_l/ -c 2 -l 1
+REMARK commandJob: ./isomif -p1 hive/mif_s2_l/1c48.mif -p2 hive/mif_s2_l/1dm0.mif -p1 hive/mif_s2_l/1c48.mif -l1 GLN144C -p2 hive/mif_s2_l/1dm0.mif -l2 GLN144B -o hive/match_s2_l/ -c 2 -l 1
+REMARK mif_file_1: hive/mif_s2_l/1c48.mif
+REMARK mif_file_2: hive/mif_s2_l/1dm0.mif
+REMARK nb_of_probes: 6
+REMARK C-alpha_dDist:  3.00
+REMARK pseudocenter_dDist:  1.00
+REMARK dDist:  3.00
+REMARK jtt_threshold: 5
+REMARK max_nodes: 150000
+REMARK commont int : 1
+REMARK wsimfn: 0
+REMARK tag1: 1c48
+REMARK tag2: 1dm0
+REMARK rnc1: GLN144C
+REMARK rnc2: GLN144B
+REMARK ncliques_scored: 0
+REMARK ncliques_explored: 0
+REMARK CLIQUE CG 2 NODES 0 NODESM 0 NODESMW 0.0000 NORMNODES 0.0000 NORMNODESRMSD 0.0000 TANI 0.0000 TANIM 0.0000 TANIMW 0.0000 TANINORM 0.0000 NRG 2908217147392.000 SS1 0 SS2 0 SS1M 0 SS2M 0 LIGRMSD 0.000
+REMARK ROTMAT     0.0000    0.0000    0.0000    0.0000    0.0000    0.0000    0.0000    0.0000    0.0000
+REMARK CENTRES    0.0000    0.0000    0.0000    0.0000    0.0000    0.0000
+REMARK DET 0
+REMARK DETORI 0
+REMARK END

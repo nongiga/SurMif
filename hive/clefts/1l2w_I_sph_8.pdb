@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1l2w.pdb
+ATOM      0  C   SPH Z   1      -8.141 -21.228  15.410  1.00  1.56 
+ATOM      2  C   SPH Z   1      -8.370 -22.342  16.935  1.00  1.70 
+ATOM      1  C   SPH Z   1      -8.392 -22.037  16.275  1.00  1.61 

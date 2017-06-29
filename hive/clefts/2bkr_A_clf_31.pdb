@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2bkr.pdb
+ATOM    883  CE  LYS A 112      31.129  20.221  10.027  1.00 27.25           C  
+ATOM    918  CE1 PHE A 116      31.642  15.002  12.437  1.00 20.01           C  
+ATOM   1177  CG2 VAL A 150      31.120  13.555   8.668  1.00 21.31           C  

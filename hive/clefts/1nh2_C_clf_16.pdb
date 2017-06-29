@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1nh2.pdb
+ATOM   2888  C   GLU C 284      14.987  -1.455   4.099  1.00 19.36           C  
+ATOM   2895  N   TRP C 285      14.668  -0.272   3.582  1.00 19.60           N  
+ATOM   2896  CA  TRP C 285      15.235   0.222   2.325  1.00 21.17           C  
+ATOM   2899  CB  TRP C 285      14.178   1.083   1.600  1.00 17.33           C  

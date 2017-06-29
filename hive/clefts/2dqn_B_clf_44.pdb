@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/2dqn.pdb
+ATOM   6707  CD1 LEU B 375     -22.397  46.922 -21.876  1.00 95.00           C  
+ATOM   6735  CA  GLY B 379     -23.469  43.225 -25.304  1.00 94.82           C  

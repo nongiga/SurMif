@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1azs.pdb
+ATOM   2954  N   VAL C  36      11.465 -22.211  43.821  1.00 89.58           N  
+ATOM   2977  CB  ARG C  38      14.178 -23.338  39.303  1.00 97.29           C  
+ATOM   2978  CG  ARG C  38      15.559 -23.914  39.562  1.00 97.29           C  

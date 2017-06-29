@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2c1t.pdb
+ATOM   6934  C   TYR D  15      29.704  -6.117  -0.851  1.00 55.20           C  
+ATOM   6936  CB  TYR D  15      27.664  -5.764   0.465  1.00 51.27           C  
+ATOM   6939  CD2 TYR D  15      27.920  -3.242   0.567  1.00 46.40           C  

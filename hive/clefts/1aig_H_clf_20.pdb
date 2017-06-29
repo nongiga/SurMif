@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1aig.pdb
+ATOM   5714  CD  ARG H 154      90.134  96.940   7.096  1.00 42.55           C  
+ATOM   5740  O   LEU H 158      90.846  96.905   3.313  1.00 55.60           O  
+ATOM   5741  CB  LEU H 158      87.976  96.720   3.380  1.00 54.93           C  
+ATOM   6097  NH2 ARG H 202      91.530  92.941   8.561  1.00 70.35           N  

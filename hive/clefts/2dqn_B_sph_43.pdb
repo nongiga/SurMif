@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2dqn.pdb
+ATOM   1886  C   SPH Z   1      30.463  56.402  -5.302  1.00  1.56 
+ATOM   1888  C   SPH Z   1      32.043  56.745  -4.828  1.00  1.60 
+ATOM   1887  C   SPH Z   1      31.085  56.628  -5.355  1.00  1.56 

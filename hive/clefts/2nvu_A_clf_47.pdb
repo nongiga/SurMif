@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/2nvu.pdb
+ATOM     82  CB  ASP A  14      80.651 -24.434 -27.129  1.00 45.29           C  
+ATOM     91  CG  ARG A  15      81.064 -24.838 -22.173  1.00 40.17           C  

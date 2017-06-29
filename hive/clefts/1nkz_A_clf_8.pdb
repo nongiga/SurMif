@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/1nkz.pdb
+ATOM    299  CE3 TRP A  40      25.479  -2.949   8.064  1.00 16.10           C  
+ATOM    301  CZ3 TRP A  40      25.677  -2.612   9.380  1.00 17.91           C  
+ATOM    330  CB  TYR A  44      24.833  -8.692   8.136  1.00 18.15           C  
+ATOM    331  CG  TYR A  44      25.663  -9.404   9.187  1.00 16.00           C  
+ATOM    333  CD2 TYR A  44      25.268  -9.403  10.524  1.00 15.59           C  

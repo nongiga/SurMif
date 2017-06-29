@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2bkr.pdb
+ATOM   1347  CA  ALA A 173      36.428   9.994  26.092  1.00 20.49           C  
+ATOM   1370  CG  GLN A 176      36.736  12.387  29.879  1.00 27.50           C  
+ATOM   1444  OE1 GLU A 184      40.517  11.182  28.348  1.00 49.10           O  
+ATOM   1520  OH  TYR A 194      39.363   5.492  28.816  1.00 28.10           O  

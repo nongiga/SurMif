@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/1dm0.pdb
+ATOM    315  N   ASP A  47      60.156  41.952  27.584  1.00 52.98           N  
+ATOM    316  CA  ASP A  47      60.522  40.971  26.549  1.00 54.58           C  
+ATOM    533  NE  ARG A  73      62.432  37.403  30.776  1.00 53.64           N  
+ATOM    534  CZ  ARG A  73      63.326  37.788  31.697  1.00 63.34           C  
+ATOM    536  NH2 ARG A  73      63.104  38.889  32.407  1.00 66.11           N  

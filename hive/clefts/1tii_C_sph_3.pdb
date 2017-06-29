@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1tii.pdb
+ATOM      9  C   SPH Z   1      43.803   6.410  -4.523  1.00  1.51 
+ATOM     16  C   SPH Z   1      44.606   7.253  -3.401  1.00  2.03 
+ATOM     10  C   SPH Z   1      43.842   5.792  -4.291  1.00  1.54 

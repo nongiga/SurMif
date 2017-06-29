@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2iy0.pdb
+ATOM   2888  CA  ASP C 482       7.370   9.114  10.912  1.00 39.52           C  
+ATOM   2891  CB  ASP C 482       6.435   9.234   9.706  1.00 39.41           C  
+ATOM   2892  CG  ASP C 482       6.919   8.412   8.508  1.00 40.64           C  
+ATOM   2893  OD1 ASP C 482       8.139   8.099   8.428  1.00 40.50           O  

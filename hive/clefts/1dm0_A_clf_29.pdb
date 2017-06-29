@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1dm0.pdb
+ATOM     33  O   THR A   4      73.063  25.849  29.363  1.00 32.16           O  
+ATOM     34  CB  THR A   4      75.932  26.763  28.992  1.00 37.55           C  
+ATOM    126  CA  SER A  16      71.617  23.616  32.858  1.00 34.12           C  
+ATOM    129  CB  SER A  16      72.373  23.431  31.536  1.00 35.16           C  

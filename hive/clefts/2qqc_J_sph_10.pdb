@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2qqc.pdb
+ATOM    806  C   SPH Z   1      41.127  -4.655 -41.184  1.00  2.36 
+ATOM    808  C   SPH Z   1      40.499  -3.884 -41.837  1.00  2.05 
+ATOM    807  C   SPH Z   1      41.107  -4.136 -41.641  1.00  1.87 

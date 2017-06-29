@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1dm0.pdb
+ATOM    208  CG  PRO A  27      58.437  30.734  42.946  1.00 28.35           C  
+ATOM    218  N   GLN A  29      53.725  29.065  44.588  1.00 51.32           N  
+ATOM    222  CB  GLN A  29      53.796  29.058  47.036  1.00 71.15           C  

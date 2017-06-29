@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/1dcp.pdb
+ATOM   1984  CZ  PHE C  47      43.637  47.397  24.761  1.00  6.27           C  
+ATOM   2002  C   MET C  50      37.883  48.692  24.767  1.00 12.17           C  
+ATOM   2004  CB  MET C  50      39.527  50.518  24.718  1.00  1.74           C  
+ATOM   2008  N   THR C  51      38.220  47.823  25.705  1.00  1.15           N  
+ATOM   2009  CA  THR C  51      37.966  46.435  25.479  1.00  1.00           C  

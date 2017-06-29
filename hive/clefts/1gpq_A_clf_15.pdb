@@ -1,0 +1,7 @@
+#REMARK  PARENTFILE  set_pdb/1gpq.pdb
+ATOM     26  CA  THR A   5      -1.100  34.400  36.720  1.00 14.05           C  
+ATOM     32  N   ILE A   6      -1.993  32.571  35.406  1.00 12.39           N  
+ATOM    274  CD1 TYR A  38       4.342  34.413  36.923  1.00  9.04           C  
+ATOM    283  O   THR A  39       4.135  36.122  33.779  1.00 13.73           O  
+ATOM    397  CB  MET A  54      -0.254  35.371  31.649  1.00 17.95           C  
+ATOM    404  O   SER A  55       3.086  32.249  32.157  1.00 10.96           O  

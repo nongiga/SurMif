@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/3b6f.pdb
+ATOM    523  CA  SER A  96     -36.090 -17.919  48.423  1.00157.22           C  
+ATOM    546  CB  TYR A  99     -32.361 -19.853  50.099  1.00155.11           C  
+ATOM    547  CG  TYR A  99     -31.396 -19.077  50.970  1.00155.37           C  
+ATOM    549  CD2 TYR A  99     -31.823 -17.965  51.690  1.00155.52           C  

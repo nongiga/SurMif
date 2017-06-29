@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1kmi.pdb
+ATOM   1367  C   TYR Z  56     141.512  29.299  19.973  1.00108.56           C  
+ATOM   1368  O   TYR Z  56     141.070  30.132  20.758  1.00110.06           O  
+ATOM   1372  CD2 TYR Z  56     142.360  28.916  23.648  1.00148.48           C  

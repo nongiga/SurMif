@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1yvs.pdb
+ATOM    481  CD  LYS A  66      38.357  10.663  70.334  1.00 39.08           C  
+ATOM    482  CE  LYS A  66      39.340  11.712  70.846  1.00 44.99           C  
+ATOM    498  CB  ARG A  69      33.711  10.205  71.629  1.00 27.22           C  
+ATOM    704  CG  ASP A  93      34.300  12.936  67.700  1.00 27.98           C  

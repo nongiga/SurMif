@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1b8m.pdb
+ATOM    725  NE1 TRP A 100      -2.872  34.466  -1.665  1.00 22.59           N  
+ATOM    726  CE2 TRP A 100      -2.007  34.100  -0.666  1.00 22.59           C  
+ATOM    728  CZ2 TRP A 100      -1.103  34.873   0.082  1.00 22.59           C  

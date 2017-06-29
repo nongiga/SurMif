@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1b8m.pdb
+ATOM    141  NZ  LYS A  26      11.155  31.364  -5.514  1.00 19.69           N  
+ATOM    220  CA  LEU A  39       7.142  32.310  -4.615  1.00 19.49           C  
+ATOM    226  CD2 LEU A  39       5.686  31.756  -7.224  1.00 22.65           C  

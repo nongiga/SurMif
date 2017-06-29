@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2atp.pdb
+ATOM   1424  OG  SER B  53      29.545  -8.105  56.630  1.00 59.38           O  
+ATOM   1425  N   SER B  54      27.002  -7.606  58.391  1.00 64.09           N  
+ATOM   1429  CB  SER B  54      26.806  -5.173  58.628  1.00 65.92           C  
+ATOM   1430  OG  SER B  54      25.750  -5.055  57.688  1.00 65.73           O  

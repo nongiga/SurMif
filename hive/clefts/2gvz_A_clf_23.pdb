@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2gvz.pdb
+ATOM    687  C   MET A 464      46.859 -15.170  73.775  1.00100.41           C  
+ATOM    688  O   MET A 464      47.948 -14.904  74.287  1.00 99.48           O  
+ATOM    692  CE  MET A 464      44.706 -13.071  77.481  1.00 98.79           C  
+ATOM    724  OE1 GLU A 468      51.106 -17.742  78.879  1.00 86.66           O  

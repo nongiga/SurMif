@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2j3r.pdb
+ATOM    859  C   SPH Z   1      35.615  44.882   3.109  1.00  1.57 
+ATOM    861  C   SPH Z   1      35.674  44.754   1.911  1.00  1.78 
+ATOM    860  C   SPH Z   1      35.408  44.550   2.526  1.00  1.89 

@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/1b8m.pdb
+ATOM    412  O   GLY A  62      20.730  14.499  21.497  1.00 37.45           O  
+ATOM    414  CA  TYR A  63      19.327  14.210  23.869  1.00 20.41           C  
+ATOM    415  C   TYR A  63      18.334  13.083  23.747  1.00 20.41           C  
+ATOM    416  O   TYR A  63      18.406  12.108  24.509  1.00 20.41           O  
+ATOM    446  CG  GLU A  66      20.199   7.146  22.596  1.00 89.57           C  

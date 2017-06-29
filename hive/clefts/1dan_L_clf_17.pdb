@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1dan.pdb
+ATOM    211  CZ  PHE L  24      47.981  17.841  81.740  1.00 34.41           C  
+ATOM    301  CA  ALA L  34      46.678  12.019  83.045  1.00 63.22           C  
+ATOM    304  CB  ALA L  34      48.019  11.412  82.664  1.00 65.36           C  

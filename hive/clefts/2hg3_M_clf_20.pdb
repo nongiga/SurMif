@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2hg3.pdb
+ATOM   2500  CA  GLY M  33      32.902  72.011  52.840  1.00 56.28           C  
+ATOM   2616  N   GLY M  48      36.367  71.735  56.023  1.00 51.87           N  
+ATOM   2617  CA  GLY M  48      35.775  72.925  56.656  1.00 52.52           C  

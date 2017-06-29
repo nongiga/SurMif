@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1fl7.pdb
+ATOM    888  C   CYS B  32      20.333  60.767  -1.546  1.00 26.32           C  
+ATOM    889  O   CYS B  32      19.765  60.594  -0.462  1.00 26.32           O  
+ATOM    893  CA  TYR B  33      19.538  58.646  -2.490  1.00 22.22           C  

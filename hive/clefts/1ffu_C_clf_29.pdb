@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1ffu.pdb
+ATOM   7693  ND2 ASN C  55       9.662  54.296 109.057  1.00 28.64           N  
+ATOM   7747  NH2 ARG C  61       7.341  51.894 109.252  1.00 45.10           N  
+ATOM   7858  CG2 VAL C  77       4.456  58.099 109.187  1.00 26.47           C  

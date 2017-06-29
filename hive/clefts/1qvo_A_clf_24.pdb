@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1qvo.pdb
+ATOM   1503  O   PRO A 184       9.740  -7.539  29.458  1.00 19.20           O  
+ATOM   1521  CE  LYS A 186       9.845  -3.019  31.234  1.00 35.26           C  
+ATOM   1690  O   GLY A 207      10.746  -4.586  27.577  1.00 14.99           O  

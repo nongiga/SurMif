@@ -1,0 +1,7 @@
+#REMARK  PARENTFILE  set_pdb/3ink.pdb
+ATOM     27  CB  LYS C   9      52.042  36.988  39.143  1.00  0.00           C  
+ATOM     29  CD  LYS C   9      49.408  37.205  39.334  1.00  0.00           C  
+ATOM     37  OG1 THR C  10      54.250  41.039  39.353  1.00  0.00           O  
+ATOM     64  NE2 GLN C  13      49.336  40.245  38.458  1.00  0.00           N  
+ATOM    740  O   GLU C  95      48.210  43.094  42.599  1.00  0.00           O  
+ATOM    753  CD2 LEU C  96      51.146  44.457  38.957  1.00  0.00           C  

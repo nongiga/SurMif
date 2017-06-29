@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1fiq.pdb
+ATOM   4034  N   ASP C 621      26.649  45.104 133.180  1.00 52.18           N  
+ATOM   4038  CB  ASP C 621      26.790  47.515 133.566  1.00 55.76           C  
+ATOM   4532  OG1 THR C 688      32.859  45.285 133.811  1.00 68.53           O  

@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1udr.pdb
+ATOM    615  CG  PRO A  82      31.254  62.819  27.840  1.00 16.06           C  
+ATOM    616  CD  PRO A  82      31.001  61.891  26.688  1.00 16.87           C  
+ATOM    948  O   LEU A 127      31.025  71.140  27.005  1.00 46.63           O  
+ATOM    949  CB  LEU A 127      32.138  68.534  28.214  1.00 38.16           C  

@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1tqe.pdb
+ATOM    619  C   SPH Z   1      -8.030 -14.445  -7.990  1.00  2.15 
+ATOM    624  C   SPH Z   1      -9.316 -11.933  -6.266  1.00  1.92 
+ATOM    621  C   SPH Z   1      -8.875 -11.913  -6.886  1.00  1.58 
+ATOM    620  C   SPH Z   1      -7.844 -13.493  -7.938  1.00  1.56 

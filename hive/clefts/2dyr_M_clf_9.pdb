@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2dyr.pdb
+ATOM  14048  CA  ILE M  17      27.123 313.897 212.492  1.00 25.59           C  
+ATOM  14071  CB  SER M  20      27.083 313.518 208.018  1.00 23.91           C  
+ATOM  14079  CG2 VAL M  21      29.088 317.676 210.048  1.00 24.56           C  

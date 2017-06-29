@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1dcp.pdb
+ATOM   1951  CA  ASN C  44      43.399  50.060  33.545  1.00  9.19           C  
+ATOM   1953  O   ASN C  44      41.342  49.437  32.391  1.00  4.85           O  
+ATOM   1978  CB  PHE C  47      43.199  49.473  28.547  1.00  3.85           C  

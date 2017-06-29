@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1cd3.pdb
+ATOM   3159  C   SPH Z   1      48.408 -19.660 115.682  1.00  1.52 
+ATOM   3163  C   SPH Z   1      47.836 -20.228 115.312  1.00  1.54 
+ATOM   3160  C   SPH Z   1      47.079 -20.849 115.420  1.00  1.58 

@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/1udr.pdb
+ATOM      4  O   LYS A   4      20.559  60.574  35.552  1.00 37.53           O  
+ATOM     16  CD  GLU A   5      16.371  60.261  33.007  0.00 29.16           C  
+ATOM     18  OE2 GLU A   5      16.669  59.052  33.107  0.00 27.40           O  
+ATOM    234  CB  ASN A  31      18.896  55.972  38.275  1.00 31.43           C  
+ATOM    238  N   ASN A  32      20.609  55.926  35.233  1.00 24.91           N  

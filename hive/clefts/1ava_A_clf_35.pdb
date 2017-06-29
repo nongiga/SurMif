@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1ava.pdb
+ATOM   1172  CD1 LEU A 152      58.838  57.513 103.110  1.00 20.34           C  
+ATOM   1458  OG  SER A 185      54.552  59.255 106.038  1.00 19.43           O  
+ATOM   1468  CB  ASP A 187      52.295  58.692 103.144  1.00 27.31           C  

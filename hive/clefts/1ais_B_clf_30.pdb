@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1ais.pdb
+ATOM   2206  C   THR B1120      -6.528  23.684  77.465  1.00 73.02           C  
+ATOM   2209  OG1 THR B1120      -6.771  25.474  75.194  1.00 76.85           O  
+ATOM   2210  CG2 THR B1120      -5.809  26.531  77.092  1.00 74.79           C  
+ATOM   2212  CA  ALA B1121      -4.653  22.736  78.662  1.00 73.14           C  

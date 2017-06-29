@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2dyp.pdb
+ATOM   3229  C   GLU D  11     -41.009   2.158  39.743  1.00 56.43           C  
+ATOM   3230  O   GLU D  11     -41.845   2.789  39.088  1.00 56.36           O  
+ATOM   3632  NH1 ARG D  61     -45.757   2.577  36.080  1.00 94.10           N  

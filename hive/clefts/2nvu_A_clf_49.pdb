@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2nvu.pdb
+ATOM    337  CD  LYS A  47      82.797 -11.010 -12.871  1.00 55.31           C  
+ATOM    338  CE  LYS A  47      82.946 -12.473 -12.513  1.00 57.27           C  
+ATOM    529  CD2 PHE A  74      88.085  -9.271 -11.001  1.00 46.93           C  

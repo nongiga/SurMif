@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2i2u.pdb
+ATOM    448  C   SPH Z   1      93.689 111.170 -56.254  1.00  1.72 
+ATOM    450  C   SPH Z   1      92.514 110.962 -56.379  1.00  1.83 
+ATOM    449  C   SPH Z   1      93.163 110.878 -56.605  1.00  2.13 

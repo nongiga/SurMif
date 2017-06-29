@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2jj1.pdb
+ATOM  21964  C   ALA G  28       8.930  73.086   2.954  1.00 65.14           C  
+ATOM  21966  CB  ALA G  28       9.398  70.670   3.457  1.00 63.35           C  
+ATOM  21967  N   ALA G  29       8.353  73.099   1.750  1.00 66.24           N  
+ATOM  21968  CA  ALA G  29       8.578  74.161   0.766  1.00 67.32           C  

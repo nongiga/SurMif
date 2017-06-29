@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1sr4.pdb
+ATOM   3188  CD1 LEU B 266      36.446  47.720  10.496  1.00 16.60           C  
+ATOM   3223  CD1 ILE B 270      38.908  46.920   8.513  1.00 20.63           C  
+ATOM   3263  CE1 PHE B 275      38.956  48.340   5.027  1.00 13.76           C  

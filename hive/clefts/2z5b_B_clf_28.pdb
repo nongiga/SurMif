@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2z5b.pdb
+ATOM   1322  CG  MET B  48      -5.919  45.518  -6.896  1.00 36.77           C  
+ATOM   1324  CE  MET B  48      -5.854  47.760  -5.224  1.00 32.86           C  
+ATOM   1598  CD2 LEU B 101      -6.363  40.725  -1.495  1.00 38.95           C  

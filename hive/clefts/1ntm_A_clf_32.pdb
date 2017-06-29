@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/1ntm.pdb
+ATOM   1314  CG  PRO A 170      35.251  70.471 104.793  1.00 14.66           C  
+ATOM   1338  ND2 ASN A 173      31.941  68.537 103.244  1.00 27.33           N  

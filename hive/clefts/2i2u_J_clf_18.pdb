@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2i2u.pdb
+ATOM  44131  C   VAL J  96     105.155 101.461 -46.998  1.00 99.03           C  
+ATOM  44132  O   VAL J  96     105.875 100.531 -46.636  1.00 99.03           O  
+ATOM  44137  CA  ASP J  97     107.018 102.646 -48.030  1.00115.20           C  

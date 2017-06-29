@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/1udr.pdb
+ATOM    793  O   VAL A 108      40.693  55.271  42.580  1.00 24.63           O  
+ATOM    847  CG2 THR A 115      38.193  60.304  43.732  1.00 22.91           C  

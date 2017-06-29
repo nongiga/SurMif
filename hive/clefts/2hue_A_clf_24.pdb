@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/2hue.pdb
+ATOM   1049  O   ASN A 125     -64.591   8.137 -15.552  1.00 57.05           O  
+ATOM   1067  CD  PRO A 127     -63.435   5.455 -13.542  1.00 50.76           C  

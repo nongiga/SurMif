@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1ava.pdb
+ATOM   1391  NH1 ARG A 177      49.066  51.597 121.933  1.00 15.90           N  
+ATOM   1601  CG  GLU A 204      49.221  55.473 121.041  1.00 12.32           C  
+ATOM   1912  CD2 PHE A 244      44.890  53.634 120.557  1.00 11.52           C  
+ATOM   1914  CE2 PHE A 244      45.140  52.273 120.676  1.00 12.21           C  

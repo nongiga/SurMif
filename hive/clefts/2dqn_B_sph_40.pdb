@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2dqn.pdb
+ATOM    694  C   SPH Z   1      28.175  47.174  23.434  1.00  1.55 
+ATOM    714  C   SPH Z   1      29.534  47.811  21.745  1.00  1.61 
+ATOM    696  C   SPH Z   1      27.994  47.531  24.006  1.00  2.13 
+ATOM    695  C   SPH Z   1      27.676  48.146  23.942  1.00  1.93 

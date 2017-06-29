@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1k6z.pdb
+ATOM    133  O   ILE A1019      31.092  -6.507  16.989  1.00 55.67           O  
+ATOM    139  CA  PRO A1020      28.651  -8.024  16.774  1.00 43.96           C  
+ATOM    140  C   PRO A1020      29.403  -9.311  16.449  1.00 54.07           C  

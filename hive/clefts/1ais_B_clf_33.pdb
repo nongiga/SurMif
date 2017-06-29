@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1ais.pdb
+ATOM   2245  O   LEU B1125      -6.761  23.970  72.685  1.00 55.25           O  
+ATOM   2265  CZ  ARG B1127      -2.671  29.083  71.656  1.00 87.60           C  
+ATOM   2267  NH2 ARG B1127      -1.880  28.134  72.146  1.00 84.88           N  
+ATOM   2292  OE1 GLU B1130      -5.276  28.461  73.942  1.00 58.59           O  

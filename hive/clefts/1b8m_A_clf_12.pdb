@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/1b8m.pdb
+ATOM    225  CD1 LEU A  39       4.174  33.645  -6.592  1.00 22.65           C  
+ATOM    257  CG  PRO A  43       1.814  39.677  -5.024  1.00 47.06           C  
+ATOM    258  CD  PRO A  43       1.754  38.704  -3.913  1.00 47.06           C  
+ATOM    646  CD2 LEU A  90       1.577  35.194  -4.045  1.00 13.99           C  
+ATOM    711  CG2 ILE A  98       0.261  33.385  -8.016  1.00 18.90           C  

@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1qbk.pdb
+ATOM     59  C   SPH Z   1     -36.723 116.608  49.025  1.00  1.56 
+ATOM     62  C   SPH Z   1     -36.204 116.583  49.362  1.00  1.60 
+ATOM     61  C   SPH Z   1     -36.195 116.736  49.319  1.00  1.60 
+ATOM     60  C   SPH Z   1     -36.028 116.208  48.900  1.00  1.51 

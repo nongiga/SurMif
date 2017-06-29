@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2nvu.pdb
+ATOM    887  C   PHE A 120      65.031   4.333 -20.649  1.00 74.06           C  
+ATOM    889  CB  PHE A 120      65.497   4.701 -18.224  1.00 71.70           C  
+ATOM    901  SG  CYS A 121      61.472   5.573 -22.515  1.00 80.88           S  
+ATOM   1070  CD2 LEU A 143      62.930   3.459 -16.465  1.00 69.40           C  

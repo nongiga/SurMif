@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/1aig.pdb
+ATOM   5699  CG  PRO H 152      96.811  96.565  11.506  1.00 52.18           C  
+ATOM   5761  CD1 ILE H 160      94.833  97.582   6.960  1.00 54.32           C  
+ATOM   6091  CB  ARG H 202      92.686  95.504  12.387  1.00 64.06           C  
+ATOM   6094  NE  ARG H 202      91.084  94.757   9.863  1.00 70.26           N  
+ATOM   6095  CZ  ARG H 202      91.087  93.433   9.717  1.00 70.45           C  

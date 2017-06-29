@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2fkw.pdb
+ATOM     29  C   SPH Z   1      -7.148  12.295  46.772  1.00  1.58 
+ATOM     32  C   SPH Z   1      -7.775  11.658  48.225  1.00  1.57 
+ATOM     31  C   SPH Z   1      -7.672  12.410  47.178  1.00  2.23 
+ATOM     30  C   SPH Z   1      -7.328  11.843  47.602  1.00  1.63 

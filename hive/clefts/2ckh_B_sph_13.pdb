@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2ckh.pdb
+ATOM      0  C   SPH Z   1      61.290 -16.995 -16.067  1.00  1.51 
+ATOM      1  C   SPH Z   1      60.188 -19.532 -15.526  1.00  1.85 
+ATOM     70  C   SPH Z   1      59.932 -19.216 -13.955  1.00  1.54 

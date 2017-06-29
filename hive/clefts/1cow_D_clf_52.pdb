@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1cow.pdb
+ATOM  13897  C   ARG D 372      84.935  59.671  53.544  1.00 56.74           C  
+ATOM  13899  CB  ARG D 372      86.092  60.028  51.357  1.00 49.69           C  
+ATOM  13906  N   GLY D 373      83.863  58.908  53.384  1.00 60.77           N  
+ATOM  13907  CA  GLY D 373      82.669  59.166  54.156  1.00 63.34           C  

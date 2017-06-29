@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1cow.pdb
+ATOM   1990  C   SPH Z   1     107.561  24.712  67.887  1.00  1.59 
+ATOM   1992  C   SPH Z   1     107.432  24.646  68.091  1.00  1.62 
+ATOM   1991  C   SPH Z   1     107.910  24.194  67.626  1.00  1.80 

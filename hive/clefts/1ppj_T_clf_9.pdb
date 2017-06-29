@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1ppj.pdb
+ATOM  29319  CG1 VAL T  10      51.144  78.484 122.154  1.00 37.78           C  
+ATOM  29346  CB  VAL T  13      51.311  74.652 123.905  1.00 39.85           C  
+ATOM  29347  CG1 VAL T  13      50.774  73.434 123.161  1.00 42.32           C  

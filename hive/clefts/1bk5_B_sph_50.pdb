@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1bk5.pdb
+ATOM    989  C   SPH Z   1      57.170  27.437  39.230  1.00  1.60 
+ATOM    995  C   SPH Z   1      57.979  27.431  40.448  1.00  1.62 
+ATOM    991  C   SPH Z   1      58.225  27.349  39.907  1.00  1.74 

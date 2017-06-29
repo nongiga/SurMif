@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1ffv.pdb
+ATOM  10477  NE2 GLN D 142      58.468  71.417  51.639  1.00 25.75           N  
+ATOM  10507  CD  LYS D 146      59.807  72.058  57.835  1.00 31.93           C  
+ATOM  10509  NZ  LYS D 146      60.344  74.466  57.513  1.00 32.83           N  

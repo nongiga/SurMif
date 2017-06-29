@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1p3g.pdb
+ATOM   7047  C   GLY B  56     -32.338   9.396 -57.573  1.00 45.15           C  
+ATOM   7049  N   VAL B  57     -32.347  10.692 -57.845  1.00 36.68           N  
+ATOM   7055  CG2 VAL B  57     -30.308  12.977 -58.687  1.00 27.67           C  

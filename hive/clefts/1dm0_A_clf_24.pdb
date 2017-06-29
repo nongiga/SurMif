@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1dm0.pdb
+ATOM    251  O   SER A  33      57.154  18.736  44.968  1.00 37.05           O  
+ATOM    266  CB  THR A  36      59.445  20.208  42.262  1.00 41.16           C  
+ATOM   1748  CB  LEU A 233      55.282  18.889  39.720  1.00 15.62           C  
+ATOM   1750  CD1 LEU A 233      54.505  19.787  41.928  1.00 11.49           C  

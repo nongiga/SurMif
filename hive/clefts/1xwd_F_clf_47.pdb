@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1xwd.pdb
+ATOM   5009  NE2 HIS F  24       6.416 -50.358  37.291  1.00 70.24           N  
+ATOM   5078  CG  GLN F  33       6.622 -46.646  33.576  1.00 57.34           C  
+ATOM   5086  CB  GLU F  34       4.339 -44.570  36.082  1.00 65.55           C  

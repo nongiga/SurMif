@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1dm0.pdb
+ATOM   1031  N   THR A 137      75.053  14.587  14.318  1.00 37.87           N  
+ATOM   1032  CA  THR A 137      74.672  14.742  12.928  1.00 41.59           C  
+ATOM   1036  OG1 THR A 137      74.204  12.583  11.965  1.00 47.70           O  

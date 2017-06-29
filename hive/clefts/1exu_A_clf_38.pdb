@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1exu.pdb
+ATOM    850  OD1 ASP A 121      83.466  20.498 106.659  1.00 51.34           O  
+ATOM    864  CB  LYS A 123      86.469  20.537 105.613  1.00 71.62           C  
+ATOM    868  NZ  LYS A 123      88.897  22.745 108.043  1.00 84.99           N  
+ATOM    873  CB  GLN A 124      84.109  17.738 108.716  1.00 73.86           C  

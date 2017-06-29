@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2gvz.pdb
+ATOM    610  O   ALA A 453      29.200 -15.889  68.715  1.00 95.61           O  
+ATOM    643  CE1 HIS A 457      32.256 -13.588  73.629  1.00 98.87           C  
+ATOM   1256  ND2 ASN A 537      28.289 -11.818  73.144  1.00 96.30           N  

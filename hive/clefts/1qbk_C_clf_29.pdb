@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1qbk.pdb
+ATOM   7945  CG2 VAL C 124     -17.842 128.850  42.539  1.00 38.96           C  
+ATOM   7947  CA  ASP C 125     -18.651 131.679  38.949  1.00 47.30           C  
+ATOM   7950  CB  ASP C 125     -19.266 130.850  37.824  1.00 53.32           C  

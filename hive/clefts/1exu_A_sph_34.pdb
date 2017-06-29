@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1exu.pdb
+ATOM   1143  C   SPH Z   1      67.322  25.919  66.686  1.00  1.55 
+ATOM   1146  C   SPH Z   1      67.229  26.599  66.555  1.00  1.57 
+ATOM   1145  C   SPH Z   1      67.222  26.153  66.113  1.00  1.63 

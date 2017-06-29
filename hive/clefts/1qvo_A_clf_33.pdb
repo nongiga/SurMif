@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/1qvo.pdb
+ATOM    272  CB  VAL A  34      21.262   0.393   6.958  1.00  7.37           C  
+ATOM    273  CG1 VAL A  34      22.536  -0.281   7.448  1.00  8.83           C  
+ATOM    274  CG2 VAL A  34      20.324  -0.616   6.341  1.00  5.29           C  
+ATOM    482  OH  TYR A  59      25.209  -3.461   5.778  1.00 10.97           O  
+ATOM    519  CG  GLU A  63      25.626  -1.425   2.106  1.00  8.96           C  

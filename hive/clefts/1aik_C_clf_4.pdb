@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/1aik.pdb
+ATOM    619  CA  ASN C 651      15.261   3.761  -7.435  1.00 49.91           C  
+ATOM    621  O   ASN C 651      15.988   3.912  -9.726  1.00 47.51           O  
+ATOM    623  CG  ASN C 651      13.276   3.154  -6.125  1.00 53.41           C  
+ATOM    657  CB  GLU C 654      17.815   0.928 -10.199  1.00 59.12           C  
+ATOM    672  H   LYS C 655      16.858   3.551 -11.458  1.00  0.00           H  

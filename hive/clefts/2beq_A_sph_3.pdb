@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2beq.pdb
+ATOM     14  C   SPH Z   1       5.611   3.003  18.380  1.00  1.52 
+ATOM     16  C   SPH Z   1       6.050   3.618  18.429  1.00  2.03 
+ATOM     15  C   SPH Z   1       5.077   3.030  17.852  1.00  1.51 

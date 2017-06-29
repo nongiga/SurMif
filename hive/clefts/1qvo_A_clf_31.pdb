@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1qvo.pdb
+ATOM    297  N   ASP A  37      18.126   8.168   2.733  1.00 13.48           N  
+ATOM    300  O   ASP A  37      18.539  10.867   1.731  1.00 16.61           O  
+ATOM    334  OG  SER A  42      23.771  10.805   4.107  1.00 21.27           O  
+ATOM    347  O   ARG A  44      23.096   7.366   3.316  1.00 12.29           O  

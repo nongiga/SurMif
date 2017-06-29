@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1cow.pdb
+ATOM   1485  C   SPH Z   1      98.886  52.086  74.421  1.00  1.54 
+ATOM   2441  C   SPH Z   1      98.805  51.981  74.287  1.00  1.53 
+ATOM   1514  C   SPH Z   1      97.559  52.411  75.245  1.00  1.57 

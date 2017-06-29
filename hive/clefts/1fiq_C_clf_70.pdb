@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1fiq.pdb
+ATOM   4792  O   LYS C 721      56.502  -6.539 107.791  1.00 94.37           O  
+ATOM   4794  CG  LYS C 721      55.484  -8.325 110.078  1.00 88.10           C  
+ATOM   4796  CE  LYS C 721      53.975 -10.329 110.034  1.00 99.26           C  

@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1pcz.pdb
+ATOM    804  SD  MET A 105      62.031  45.824  92.275  1.00 37.46           S  
+ATOM   1247  CA  SER A 163      65.199  45.154  90.898  1.00 36.45           C  
+ATOM   1250  CB  SER A 163      66.731  45.169  90.885  1.00 36.80           C  
+ATOM   1252  N   GLU A 164      64.610  47.255  89.901  1.00 37.24           N  

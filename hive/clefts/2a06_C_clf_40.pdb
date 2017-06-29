@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2a06.pdb
+ATOM   7686  C   TYR C 155      65.730  64.496  61.832  1.00 55.86           C  
+ATOM   7704  N   GLY C 157      64.197  67.783  61.645  1.00 46.10           N  
+ATOM   7708  N   THR C 158      62.455  67.953  59.195  1.00 41.29           N  

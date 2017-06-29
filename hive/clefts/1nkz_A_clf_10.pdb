@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1nkz.pdb
+ATOM    316  C   PRO A  42      20.417  -8.072   5.890  1.00 18.13           C  
+ATOM    318  CB  PRO A  42      18.424  -6.534   5.991  1.00 19.78           C  
+ATOM    321  N   ALA A  43      21.247  -7.523   4.998  1.00 16.47           N  
+ATOM    322  CA  ALA A  43      22.081  -8.363   4.143  1.00 16.89           C  

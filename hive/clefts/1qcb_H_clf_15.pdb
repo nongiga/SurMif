@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1qcb.pdb
+ATOM   3400  O   ALA H  52     -25.535   7.742  94.789  1.00 48.49           O  
+ATOM   3474  OG1 THR H  61     -21.994   9.751  95.730  1.00 21.96           O  
+ATOM   3507  NH1 ARG H  65     -20.996   6.355  98.765  1.00 15.00           N  

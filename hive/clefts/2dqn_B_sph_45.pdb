@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2dqn.pdb
+ATOM   2062  C   SPH Z   1      -6.900  28.745 -11.420  1.00  1.54 
+ATOM   2068  C   SPH Z   1      -7.474  28.344 -11.395  1.00  1.55 
+ATOM   2064  C   SPH Z   1      -9.507  29.750  -9.578  1.00  1.71 

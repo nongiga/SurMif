@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1xwd.pdb
+ATOM   5514  CB  ALA F  88      29.431 -32.526  38.740  1.00 43.49           C  
+ATOM   5521  OD1 ASP F  89      32.172 -35.583  39.068  1.00 60.05           O  
+ATOM   5522  OD2 ASP F  89      31.762 -35.197  41.152  1.00 59.18           O  

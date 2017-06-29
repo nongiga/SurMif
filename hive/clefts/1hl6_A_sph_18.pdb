@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1hl6.pdb
+ATOM    233  C   SPH Z   1      53.062  62.895  39.876  1.00  1.55 
+ATOM    240  C   SPH Z   1      54.151  62.910  39.090  1.00  1.60 
+ATOM    234  C   SPH Z   1      52.424  61.913  38.140  1.00  1.58 

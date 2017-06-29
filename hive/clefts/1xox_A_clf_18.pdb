@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1xox.pdb
+ATOM    247  HA  ASP A  16     -16.499 -41.761 -81.678  1.00  0.78           H  
+ATOM    309 HD12 ILE A  19     -18.080 -41.863 -84.243  1.00  1.32           H  
+ATOM    564  HG2 GLU A  36     -17.218 -40.859 -86.746  1.00  1.49           H  

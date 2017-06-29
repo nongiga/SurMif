@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2i2u.pdb
+ATOM  43886  CB  TYR J  65      90.874 114.293 -56.689  1.00130.08           C  
+ATOM  43888  CD1 TYR J  65      89.955 112.936 -58.618  1.00130.08           C  
+ATOM  43897  O   GLU J  66      93.323 112.119 -53.202  1.00150.68           O  

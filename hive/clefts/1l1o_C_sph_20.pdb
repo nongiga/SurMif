@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1l1o.pdb
+ATOM    526  C   SPH Z   1      39.531  -1.652  40.008  1.00  1.68 
+ATOM    528  C   SPH Z   1      39.785  -2.408  40.482  1.00  1.61 
+ATOM    527  C   SPH Z   1      39.255  -2.255  39.974  1.00  1.91 

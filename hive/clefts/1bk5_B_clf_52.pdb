@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1bk5.pdb
+ATOM   3737  CG  GLU B 145      38.895  41.702  14.732  1.00 47.24           C  
+ATOM   3738  CD  GLU B 145      37.840  41.476  15.788  1.00 49.64           C  
+ATOM   3740  OE2 GLU B 145      37.238  40.380  15.795  1.00 51.17           O  
+ATOM   3748  CE  MET B 146      40.983  37.099  11.509  1.00 54.53           C  

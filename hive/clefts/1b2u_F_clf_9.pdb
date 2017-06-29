@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1b2u.pdb
+ATOM   4258  C   LEU F  35      11.221  45.688  52.353  1.00 18.84           C  
+ATOM   4259  O   LEU F  35      11.984  44.813  52.749  1.00 17.62           O  
+ATOM   4286  CB  TRP F  39      13.102  41.445  52.394  1.00 29.32           C  
+ATOM   4580  CG2 VAL F  74      10.302  43.459  56.667  1.00 22.74           C  

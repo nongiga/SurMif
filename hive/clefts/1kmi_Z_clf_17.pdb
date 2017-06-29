@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1kmi.pdb
+ATOM   1973  C   LEU Z 132     124.192  46.588  11.484  1.00 83.03           C  
+ATOM   1975  CB  LEU Z 132     121.678  46.803  11.185  1.00 75.16           C  
+ATOM   1984  CG  LEU Z 133     126.198  49.998   9.780  1.00 88.94           C  
+ATOM   1986  CD2 LEU Z 133     126.856  49.368   8.569  1.00 89.12           C  

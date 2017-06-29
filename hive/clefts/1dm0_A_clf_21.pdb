@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1dm0.pdb
+ATOM   1448  CB  ALA A 194      51.101  10.141  20.430  1.00 15.89           C  
+ATOM   1479  OD1 ASP A 198      47.949  14.769  21.614  1.00 29.02           O  
+ATOM   1678  NH1 ARG A 223      45.386  11.494  21.383  1.00 19.38           N  

@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1qvo.pdb
+ATOM    254  C   SPH Z   1       8.234  15.881  -0.194  1.00  1.72 
+ATOM    264  C   SPH Z   1       8.096  15.232  -0.225  1.00  1.78 
+ATOM    258  C   SPH Z   1       8.149  16.209   0.376  1.00  2.18 
+ATOM    257  C   SPH Z   1       8.592  15.717   0.368  1.00  1.76 

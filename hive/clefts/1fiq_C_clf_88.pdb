@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1fiq.pdb
+ATOM   4860  CB  VAL C 730      56.676   8.979 102.831  1.00 64.24           C  
+ATOM   4862  CG2 VAL C 730      57.371   8.387 101.620  1.00 64.66           C  
+ATOM   6366  O   TRP C 926      50.873   8.801  99.978  1.00 51.06           O  
+ATOM   6395  CB  GLU C 929      53.094  11.537  99.230  1.00 49.17           C  

@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1aig.pdb
+ATOM   5241  CZ  ARG H  89      64.243 130.309   1.801  1.00 77.23           C  
+ATOM   5243  NH2 ARG H  89      62.971 130.240   2.176  1.00 78.17           N  
+ATOM   5259  O   VAL H  92      61.407 130.407  -0.785  1.00 75.35           O  

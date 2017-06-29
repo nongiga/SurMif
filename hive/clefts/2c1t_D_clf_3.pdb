@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2c1t.pdb
+ATOM   6870  CB  ASP D   7      17.704  -4.938  -7.668  1.00 47.21           C  
+ATOM   6874  N   ALA D   8      17.681  -6.648  -4.949  1.00 22.47           N  
+ATOM   6877  O   ALA D   8      18.544  -6.377  -2.507  1.00 20.24           O  

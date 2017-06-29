@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1qvo.pdb
+ATOM   1504  CB  PRO A 184       9.978 -10.701  29.927  1.00 21.43           C  
+ATOM   2161  CB  LEU A 266       6.814 -13.916  30.068  1.00 42.55           C  
+ATOM   2194  CD1 LEU A 270       3.854 -10.836  32.814  1.00 52.27           C  

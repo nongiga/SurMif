@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1qbk.pdb
+ATOM   7273  CG1 VAL C  40     -40.078 126.608  34.015  1.00 79.42           C  
+ATOM   7278  O   ALA C  41     -40.402 125.314  38.653  1.00 82.78           O  
+ATOM   7293  CD1 LEU C  43     -45.147 123.536  38.572  1.00 88.91           C  

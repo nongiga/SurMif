@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1zav.pdb
+ATOM    306  C   SPH Z   1      30.332  -3.205 -17.672  1.00  1.69 
+ATOM    308  C   SPH Z   1      30.961  -3.439 -18.865  1.00  1.83 
+ATOM    307  C   SPH Z   1      30.491  -2.627 -17.846  1.00  1.83 

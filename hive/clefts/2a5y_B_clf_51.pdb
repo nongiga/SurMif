@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2a5y.pdb
+ATOM   3025  NZ  LYS B 198      74.054  31.517  89.799  1.00 89.43           N  
+ATOM   3047  CE1 PHE B 201      75.759  28.451  87.804  1.00 36.70           C  
+ATOM   3249  O   VAL B 226      72.709  27.120  89.035  1.00 49.69           O  

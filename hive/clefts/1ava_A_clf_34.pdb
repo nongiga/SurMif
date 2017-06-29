@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1ava.pdb
+ATOM    801  CG2 ILE A 103      75.452  52.962 116.631  1.00 26.74           C  
+ATOM    802  CD1 ILE A 103      77.595  54.431 118.262  1.00 34.35           C  
+ATOM    803  N   TYR A 104      75.475  50.144 118.063  1.00 29.32           N  

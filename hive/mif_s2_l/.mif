@@ -1,0 +1,52 @@
+#cmd ./mif hive/reduce/2gl7.pdb -c B -l 28 SER425A- ASN430A- ARG474A- ASN387A- SER473A- HIS470A- VAL349A- CYS429A- ILE296A- LYS345A- ASP390A- ASP299A- TYR306A- PHE293A- ASN516A- VAL346A- PHE253A- ASN426A- HIS219A- LYS435A- ARG386A- ASN261A- TRP338A- LYS312A- ARG469A- THR257A- GLY307A- LYS292A- -o hive/mif_s2_l/ -s 2.0
+#proteinFile 
+#cleftFile 
+#resnumc 1 SER425A-
+#resnumc 2 ASN430A-
+#resnumc 3 ARG474A-
+#resnumc 4 ASN387A-
+#resnumc 5 SER473A-
+#resnumc 6 HIS470A-
+#resnumc 7 VAL349A-
+#resnumc 8 CYS429A-
+#resnumc 9 ILE296A-
+#resnumc 10 LYS345A-
+#resnumc 11 ASP390A-
+#resnumc 12 ASP299A-
+#resnumc 13 TYR306A-
+#resnumc 14 PHE293A-
+#resnumc 15 ASN516A-
+#resnumc 16 VAL346A-
+#resnumc 17 PHE253A-
+#resnumc 18 ASN426A-
+#resnumc 19 HIS219A-
+#resnumc 20 LYS435A-
+#resnumc 21 ARG386A-
+#resnumc 22 ASN261A-
+#resnumc 23 TRP338A-
+#resnumc 24 LYS312A-
+#resnumc 25 ARG469A-
+#resnumc 26 THR257A-
+#resnumc 27 GLY307A-
+#resnumc 28 LYS292A-
+#gridLigMinDist  3.00
+#chain B
+#ff original
+#nbOfProbes  6
+#probe[0]  hyd
+#probe[1]  arm
+#probe[2]  don
+#probe[3]  acc
+#probe[4]  pos
+#probe[5]  neg
+#zip 0
+#stepsize 2.00
+#gridStep 0.50
+#angThreshold  60.00
+#atom_probe_distance_threshold  8.0000
+#protein_grid_distance  2.5000 to  4.0000
+#grid_width -3933
+#grid_height -3933
+#gs 0 0 0 0
+#ss 0 0 0 0
+#ssm 0 0 0 0

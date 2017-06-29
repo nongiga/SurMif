@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/2dqn.pdb
+ATOM   5094  O   TYR B 176       0.299  37.259   1.345  1.00 56.72           O  
+ATOM   5105  C   THR B 177       1.715  38.304   4.014  1.00 55.22           C  
+ATOM   5106  O   THR B 177       1.345  38.201   5.185  1.00 53.47           O  
+ATOM   6058  CG  PRO B 293      -2.151  34.267   1.771  1.00 80.26           C  
+ATOM   6059  CD  PRO B 293      -1.125  33.510   2.547  1.00 79.39           C  

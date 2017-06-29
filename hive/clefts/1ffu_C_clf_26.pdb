@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1ffu.pdb
+ATOM   7779  OE2 GLU C  65     -12.650  50.889 120.163  1.00 44.79           O  
+ATOM   7794  CA  SER C  68     -11.873  50.236 125.975  1.00 34.90           C  
+ATOM   7954  CD  ARG C  90     -13.801  54.036 120.527  1.00 40.40           C  

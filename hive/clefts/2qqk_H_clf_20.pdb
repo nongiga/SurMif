@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2qqk.pdb
+ATOM   5532  ND2 ASN H 155      31.750  -1.800 -13.468  1.00100.98           N  
+ATOM   5783  CG  GLN H 192      34.997   0.279  -9.992  1.00108.72           C  
+ATOM   5784  CD  GLN H 192      35.802  -0.446 -11.055  1.00104.97           C  
+ATOM   5802  CE1 TYR H 194      31.242   0.225  -9.169  1.00111.46           C  

@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2c4f.pdb
+ATOM   3660  N   VAL T  75      37.148  22.206  38.516  1.00 11.67           N  
+ATOM   3663  O   VAL T  75      39.120  23.453  36.824  1.00 12.73           O  
+ATOM   3668  CA  PHE T  76      38.057  25.623  35.454  1.00 12.46           C  
+ATOM   3678  N   SER T  77      40.013  26.916  34.865  1.00 13.54           N  

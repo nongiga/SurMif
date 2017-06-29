@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2z5b.pdb
+ATOM    745  C   SPH Z   1      17.434  39.629 -14.795  1.00  1.62 
+ATOM    750  C   SPH Z   1      16.907  39.512 -15.099  1.00  2.01 
+ATOM    749  C   SPH Z   1      16.508  40.041 -15.082  1.00  1.59 

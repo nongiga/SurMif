@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1tqe.pdb
+ATOM   2592  OE1 GLN Q  56       6.246  -0.721 -12.958  1.00 62.06           O  
+ATOM   2637  CG  MET Q  62       9.352  -2.870 -13.940  1.00 62.33           C  
+ATOM   2647  OD2 ASP Q  63      12.985  -0.184 -13.120  1.00 75.89           O  

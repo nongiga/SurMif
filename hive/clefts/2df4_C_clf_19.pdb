@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/2df4.pdb
+ATOM   6932  CB  ARG C   6      51.667  47.560  20.968  1.00 94.37           C  
+ATOM   6934  CD  ARG C   6      53.251  49.480  21.202  1.00 95.00           C  
+ATOM   6935  NE  ARG C   6      52.497  50.260  20.218  1.00 95.00           N  
+ATOM   6936  CZ  ARG C   6      53.031  51.150  19.384  1.00 95.00           C  
+ATOM   6945  CD  GLU C   7      51.677  44.579  17.062  1.00 95.00           C  

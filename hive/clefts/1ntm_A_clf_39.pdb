@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1ntm.pdb
+ATOM   2858  CG2 THR A 373      41.680  96.098  91.216  1.00 12.69           C  
+ATOM   2883  CB  GLU A 377      38.640  96.684  95.626  1.00 22.38           C  
+ATOM   2884  CG  GLU A 377      38.492  95.419  96.414  1.00 28.58           C  
+ATOM   2885  CD  GLU A 377      39.652  95.163  97.333  1.00 41.69           C  

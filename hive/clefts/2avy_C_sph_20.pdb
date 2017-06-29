@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2avy.pdb
+ATOM    413  C   SPH Z   1     145.046  48.353   5.988  1.00  1.63 
+ATOM    418  C   SPH Z   1     144.471  48.017   6.326  1.00  1.54 
+ATOM    417  C   SPH Z   1     144.650  48.099   5.594  1.00  1.54 
+ATOM    414  C   SPH Z   1     145.048  48.861   6.352  1.00  2.13 

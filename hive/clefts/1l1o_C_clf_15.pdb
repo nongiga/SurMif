@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1l1o.pdb
+ATOM   2657  C   GLU C 534      24.525   6.228  50.369  1.00 76.21           C  
+ATOM   2665  CA  SER C 535      24.956   7.066  48.156  1.00 71.09           C  
+ATOM   3099  OD1 ASP C 593      20.212  11.051  48.489  1.00 65.77           O  

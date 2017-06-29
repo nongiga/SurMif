@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1b2u.pdb
+ATOM   4130  NE2AGLN F  19      21.182  56.853  55.538  0.50 33.21           N  
+ATOM   4153  CD  LYS F  22      22.112  54.341  53.177  1.00 26.20           C  
+ATOM   4154  CE  LYS F  22      22.921  54.286  51.862  1.00 26.87           C  

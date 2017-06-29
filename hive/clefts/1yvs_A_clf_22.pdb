@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/1yvs.pdb
+ATOM     68  C   ASP A  12     -27.157  10.836  57.590  1.00 25.90           C  
+ATOM     69  O   ASP A  12     -28.349  11.095  57.754  1.00 28.92           O  
+ATOM     75  CA  TYR A  13     -27.226   8.981  59.178  1.00 20.85           C  
+ATOM    107  CB  THR A  16     -31.659  10.159  58.291  1.00 29.34           C  
+ATOM    108  OG1 THR A  16     -31.303  10.815  57.071  1.00 30.70           O  

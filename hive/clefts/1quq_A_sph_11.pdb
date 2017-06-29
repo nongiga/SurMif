@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1quq.pdb
+ATOM    473  C   SPH Z   1      58.194  27.471  92.675  1.00  1.61 
+ATOM    577  C   SPH Z   1      56.327  27.152  90.835  1.00  1.62 
+ATOM    474  C   SPH Z   1      56.042  27.412  90.457  1.00  1.53 

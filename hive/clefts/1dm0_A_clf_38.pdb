@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1dm0.pdb
+ATOM    296  CG  MET A  40      53.865  32.703  35.250  1.00 39.72           C  
+ATOM    311  CB  ASP A  42      57.442  37.285  34.400  1.00 77.00           C  
+ATOM    312  CG  ASP A  42      58.515  37.009  35.408  1.00 83.13           C  

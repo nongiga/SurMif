@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2bsq.pdb
+ATOM    937  NE  ARG A 121      17.701 -30.635  53.785  1.00 41.80           N  
+ATOM    940  NH2 ARG A 121      18.049 -32.896  53.954  1.00 42.75           N  
+ATOM   1055  CB  TRP A 137      14.763 -30.488  50.403  1.00 32.25           C  
+ATOM   1073  CE1 HIS A 138      11.104 -31.955  53.487  1.00 39.12           C  

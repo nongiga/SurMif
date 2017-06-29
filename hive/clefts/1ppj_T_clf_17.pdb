@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1ppj.pdb
+ATOM  29645  CB  ALA T  49      18.827  62.013 106.327  1.00 50.87           C  
+ATOM  29651  CG  PRO T  50      15.984  64.903 108.589  1.00 43.34           C  
+ATOM  29652  CD  PRO T  50      17.262  64.671 107.817  1.00 45.77           C  

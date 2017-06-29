@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2dyr.pdb
+ATOM     28  C   SPH Z   1      28.766 322.640 197.221  1.00  1.65 
+ATOM     30  C   SPH Z   1      29.337 323.509 196.821  1.00  1.51 
+ATOM     29  C   SPH Z   1      28.714 323.279 196.982  1.00  1.96 

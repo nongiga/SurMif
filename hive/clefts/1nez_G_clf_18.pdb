@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1nez.pdb
+ATOM   3268  O   GLY G  30      41.042 -11.733-365.294  1.00 42.87           O  
+ATOM   3270  CA  SER G  31      41.396  -9.138-364.743  1.00 52.59           C  
+ATOM   3275  N   VAL G  32      42.908  -9.499-362.895  1.00 49.13           N  

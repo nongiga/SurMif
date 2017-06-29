@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2gl7.pdb
+ATOM     32  C   SPH Z   1      19.726   5.317  39.208  1.00  1.81 
+ATOM     43  C   SPH Z   1      17.500   3.773  39.428  1.00  1.50 
+ATOM     42  C   SPH Z   1      17.177   4.015  38.949  1.00  1.56 
+ATOM     41  C   SPH Z   1      17.655   4.138  38.944  1.00  1.55 

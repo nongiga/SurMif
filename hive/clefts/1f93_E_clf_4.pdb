@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1f93.pdb
+ATOM   3322  OE1 GLU E  11      36.376  48.761  49.581  1.00 36.48           O  
+ATOM   3344  CB  ALA E  14      34.910  46.391  44.765  1.00 34.47           C  
+ATOM   3373  OE1 GLU E  18      35.337  42.331  47.244  1.00 79.39           O  

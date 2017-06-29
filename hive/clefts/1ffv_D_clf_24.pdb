@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1ffv.pdb
+ATOM   9868  C   THR D  63      43.636  45.467  66.204  1.00 25.30           C  
+ATOM   9873  N   HIS D  64      43.072  45.726  67.381  1.00 25.80           N  
+ATOM   9874  CA  HIS D  64      43.515  45.089  68.616  1.00 25.94           C  

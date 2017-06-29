@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1ppj.pdb
+ATOM  29708  C   LEU T  57       8.111  63.146  97.456  1.00 56.44           C  
+ATOM  29710  CB  LEU T  57       8.257  62.637  99.906  1.00 55.79           C  
+ATOM  29744  CB  TRP T  61       4.136  62.978  95.560  1.00 60.96           C  

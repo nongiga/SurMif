@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1udr.pdb
+ATOM    688  C   GLU A  93      52.001  56.950  31.360  1.00 43.07           C  
+ATOM    701  OD1 ASN A  94      50.378  53.291  32.476  1.00 50.99           O  
+ATOM    724  CB  ALA A  97      49.395  56.438  27.895  1.00 23.60           C  

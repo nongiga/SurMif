@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/2z2t.pdb
+ATOM    179  CG  GLN A1567      37.276  42.031  32.222  1.00 24.31           C  
+ATOM    190  CD2 LEU A1568      39.229  35.861  32.645  1.00 18.47           C  

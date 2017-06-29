@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1ytf.pdb
+ATOM   1171  OE1 GLU A 129      24.738  24.575   2.739  1.00 23.36           O  
+ATOM   1178  CG  ASP A 130      27.959  21.486  -0.775  1.00 29.18           C  
+ATOM   1894  NH2 ARG A 220      25.588  24.198   5.289  1.00  2.78           N  

@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1bk5.pdb
+ATOM   4049  CG2 VAL B 187      37.254  36.693  23.511  1.00 47.87           C  
+ATOM   4359  OD1 ASN B 227      34.763  33.825  28.890  0.00 62.97           O  
+ATOM   4365  CB  LYS B 228      38.992  33.090  27.605  1.00 60.48           C  

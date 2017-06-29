@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2j3r.pdb
+ATOM   2119  N   SER B 135      37.439  47.708   3.597  1.00 64.81           N  
+ATOM   2121  C   SER B 135      39.028  45.862   4.169  1.00 56.83           C  
+ATOM   2122  O   SER B 135      38.666  45.210   3.186  1.00 56.76           O  

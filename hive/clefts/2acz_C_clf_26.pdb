@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2acz.pdb
+ATOM   6977  NE1 TRP C  75      82.100  87.864  83.848  1.00 44.64           N  
+ATOM   6978  CE2 TRP C  75      83.289  87.948  84.529  1.00 47.13           C  
+ATOM   6980  CZ2 TRP C  75      83.763  87.203  85.625  1.00 47.04           C  

@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1bk5.pdb
+ATOM   5272  CG  ARG B 347      56.489  22.148  61.812  1.00 54.83           C  
+ATOM   5579  CG  PRO B 387      61.667  21.639  62.336  1.00 40.34           C  
+ATOM   5580  CD  PRO B 387      61.904  21.005  63.692  1.00 39.33           C  

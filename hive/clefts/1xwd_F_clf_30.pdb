@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1xwd.pdb
+ATOM   5024  C   ASN F  27      17.825 -59.113  35.808  1.00 65.76           C  
+ATOM   5034  CB  ARG F  28      20.462 -58.120  37.377  1.00 61.48           C  
+ATOM   5037  NE  ARG F  28      23.212 -59.529  38.401  1.00 67.26           N  

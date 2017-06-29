@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/1fiq.pdb
+ATOM   5000  C   SPH Z   1      55.920  33.247  98.227  1.00  1.62 
+ATOM   5001  C   SPH Z   1      55.949  33.056  98.812  1.00  1.65 

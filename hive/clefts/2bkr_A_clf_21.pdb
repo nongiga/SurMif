@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2bkr.pdb
+ATOM    879  O   LYS A 112      26.238  20.581  10.680  1.00 14.57           O  
+ATOM    888  O   ASN A 113      24.041  18.313  10.632  1.00 16.13           O  
+ATOM   1144  O   LYS A 146      21.555  17.680   6.284  1.00 27.22           O  
+ATOM   1159  CB  ALA A 148      25.964  16.701   7.703  1.00 20.79           C  

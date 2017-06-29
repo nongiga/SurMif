@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1dm0.pdb
+ATOM    647  C   SPH Z   1      69.521   8.551  15.015  1.00  1.68 
+ATOM    651  C   SPH Z   1      67.826   9.186  16.229  1.00  1.60 
+ATOM    648  C   SPH Z   1      67.867   9.357  16.485  1.00  1.52 

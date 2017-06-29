@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/1rrp.pdb
+ATOM   4809  O   CYS D  89      22.131 -32.922  49.332  1.00 33.03           O  
+ATOM   5023  CG  ASP D 116      22.468 -35.812  45.181  1.00 51.40           C  

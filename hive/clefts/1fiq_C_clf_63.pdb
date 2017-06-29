@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/1fiq.pdb
+ATOM   8307  CD  LYS C1172      40.520  29.114  83.226  1.00 58.96           C  
+ATOM   8325  CD2 LEU C1174      39.751  24.871  81.726  1.00 30.63           C  

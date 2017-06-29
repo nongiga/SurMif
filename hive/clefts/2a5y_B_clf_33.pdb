@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2a5y.pdb
+ATOM   1533  CA  ARG B  16      87.360  16.135  53.709  1.00 51.97           C  
+ATOM   1537  CG  ARG B  16      89.776  15.283  53.669  1.00 54.78           C  
+ATOM   1563  CB  HIS B  19      84.800  17.248  49.982  1.00 61.83           C  
+ATOM   1564  CG  HIS B  19      84.976  17.270  48.492  1.00 69.29           C  

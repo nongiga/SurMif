@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2f2f.pdb
+ATOM   3318  OE1 GLU C  33      25.460  80.924  32.737  1.00 26.93           O  
+ATOM   3323  O   LEU C  34      23.642  79.963  36.573  1.00  5.96           O  
+ATOM   3340  CD  PRO C  36      20.114  82.145  36.659  1.00  2.00           C  

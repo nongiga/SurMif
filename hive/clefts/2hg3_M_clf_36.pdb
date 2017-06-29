@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2hg3.pdb
+ATOM   2959  O   LEU M  86      58.667  72.293  33.117  1.00 55.51           O  
+ATOM   2967  O   ARG M  87      61.901  72.111  32.476  1.00 54.14           O  
+ATOM   2983  N   LEU M  89      60.781  74.664  34.755  1.00 54.87           N  
+ATOM   2987  CB  LEU M  89      58.819  74.347  36.208  1.00 54.52           C  

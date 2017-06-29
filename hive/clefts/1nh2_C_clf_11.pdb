@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1nh2.pdb
+ATOM   2559  C   CYS C 246      -0.817 -11.149  -4.933  1.00 14.61           C  
+ATOM   2560  O   CYS C 246      -0.683 -10.425  -5.907  1.00 13.76           O  
+ATOM   2562  SG  CYS C 246       1.747 -11.102  -3.094  1.00 15.90           S  

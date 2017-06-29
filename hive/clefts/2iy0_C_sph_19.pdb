@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2iy0.pdb
+ATOM    555  C   SPH Z   1      17.935  -0.359  -9.194  1.00  1.52 
+ATOM    557  C   SPH Z   1      17.071  -0.763  -9.938  1.00  1.66 
+ATOM    556  C   SPH Z   1      18.188  -0.397  -9.717  1.00  1.52 

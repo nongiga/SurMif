@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1dan.pdb
+ATOM    550  C   SPH Z   1      24.861  27.799  65.818  1.00  1.56 
+ATOM    553  C   SPH Z   1      23.705  27.843  66.167  1.00  2.15 
+ATOM    552  C   SPH Z   1      24.417  27.951  65.971  1.00  1.85 
+ATOM    551  C   SPH Z   1      25.090  28.173  65.521  1.00  1.58 

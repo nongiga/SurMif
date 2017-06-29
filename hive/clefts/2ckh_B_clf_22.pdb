@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2ckh.pdb
+ATOM   2286  OD2 ASP B  62      65.329 -23.063  -1.921  1.00147.18           O  
+ATOM   2434  N   THR B  82      61.454 -26.260  -5.416  1.00142.99           N  
+ATOM   2437  O   THR B  82      61.297 -24.976  -2.861  1.00142.83           O  

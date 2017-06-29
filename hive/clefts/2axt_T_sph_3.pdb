@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2axt.pdb
+ATOM      1  C   SPH Z   1      39.881  34.322  31.407  1.00  1.52 
+ATOM      3  C   SPH Z   1      40.032  35.053  31.614  1.00  1.59 
+ATOM      2  C   SPH Z   1      41.347  34.631  30.674  1.00  1.59 

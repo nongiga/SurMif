@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2nvu.pdb
+ATOM   3193  C   SPH Z   1      60.687 -37.603 -30.584  1.00  1.57 
+ATOM   3195  C   SPH Z   1      61.070 -37.529 -30.043  1.00  1.55 
+ATOM   3194  C   SPH Z   1      60.917 -37.637 -31.156  1.00  1.51 

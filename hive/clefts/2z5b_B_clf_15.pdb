@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/2z5b.pdb
+ATOM   1228  ND2 ASN B  36       8.132  50.379   4.454  1.00 36.61           N  
+ATOM   1233  CB  THR B  37       7.778  49.456   0.097  1.00 35.34           C  
+ATOM   1366  OE2 GLU B  53       7.039  43.514   2.117  1.00 44.17           O  
+ATOM   1823  CB  SER B 140      10.626  46.623  -0.335  1.00 43.40           C  
+ATOM   1824  OG  SER B 140       9.383  46.085   0.046  1.00 45.16           O  

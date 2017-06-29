@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/2j3r.pdb
+ATOM   2023  OE1 GLU B 121      35.247  50.685  13.356  1.00 55.92           O  
+ATOM   2099  CG  PRO B 131      37.885  55.196   9.535  1.00 75.96           C  

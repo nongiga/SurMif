@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2qfa.pdb
+ATOM   1516  CA  ILE B  56      29.641  -8.329  27.855  1.00 16.98           C  
+ATOM   1520  CG1 ILE B  56      28.309  -8.093  25.727  1.00 18.86           C  
+ATOM   1547  CD2 LEU B  59      25.912 -10.913  30.109  1.00 22.73           C  

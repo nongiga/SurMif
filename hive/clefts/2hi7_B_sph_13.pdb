@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2hi7.pdb
+ATOM     40  C   SPH Z   1     -18.500  52.687  21.329  1.00  1.92 
+ATOM     42  C   SPH Z   1     -19.733  51.639  19.962  1.00  1.65 
+ATOM     41  C   SPH Z   1     -19.156  51.863  21.728  1.00  2.00 

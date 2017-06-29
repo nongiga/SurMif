@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2j3r.pdb
+ATOM   1344  CA  MET B  36      55.085  46.489   3.513  1.00 40.52           C  
+ATOM   1348  CG  MET B  36      56.299  46.825   5.719  1.00 40.93           C  
+ATOM   1371  CB  TYR B  39      56.895  45.005   0.172  1.00 41.61           C  

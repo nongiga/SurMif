@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/3ink.pdb
+ATOM    335  CE2 TYR C  45      41.404  65.745  39.290  1.00  0.00           C  
+ATOM    474  CD  GLU C  62      41.753  61.413  37.132  1.00  0.00           C  
+ATOM    475  OE1 GLU C  62      41.510  61.986  36.088  1.00  0.00           O  
+ATOM    476  OE2 GLU C  62      41.302  61.841  38.164  1.00  0.00           O  
+ATOM    499  CG  PRO C  65      36.945  60.929  37.461  1.00  0.00           C  

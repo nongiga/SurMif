@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2z5c.pdb
+ATOM   5332  O   ILE F  70      48.210  31.144  64.629  1.00 49.17           O  
+ATOM   5338  CA  ASP F  71      46.607  32.008  66.719  1.00 46.39           C  
+ATOM   5519  CG2 VAL F  97      44.732  29.502  60.756  1.00 39.31           C  

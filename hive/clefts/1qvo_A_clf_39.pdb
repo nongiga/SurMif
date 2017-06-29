@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1qvo.pdb
+ATOM   1843  CG2 THR A 225     -10.956 -10.627  21.109  1.00 44.54           C  
+ATOM   1867  CG2 THR A 228     -10.900  -7.127  23.466  1.00 39.59           C  
+ATOM   1883  CD1 LEU A 230      -8.054  -5.264  21.574  1.00 33.79           C  

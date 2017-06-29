@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2qfa.pdb
+ATOM   1413  C   ASN B  45      29.498   3.202  17.971  1.00 16.28           C  
+ATOM   1414  O   ASN B  45      29.336   2.152  18.609  1.00 16.70           O  
+ATOM   1449  CB AGLU B  49      30.754  -0.846  19.398  0.50 18.51           C  

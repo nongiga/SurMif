@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1udr.pdb
+ATOM    285  C   SPH Z   1      32.311  67.187  24.256  1.00  1.74 
+ATOM    290  C   SPH Z   1      30.184  65.064  25.069  1.00  1.75 
+ATOM    289  C   SPH Z   1      30.454  68.172  24.712  1.00  2.00 
+ATOM    288  C   SPH Z   1      32.037  67.862  24.071  1.00  2.01 

@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1quq.pdb
+ATOM     86  C   SPH Z   1      56.147  25.819  82.702  1.00  1.71 
+ATOM     90  C   SPH Z   1      56.826  26.355  81.310  1.00  1.81 
+ATOM     88  C   SPH Z   1      55.803  26.606  81.716  1.00  1.54 
+ATOM     87  C   SPH Z   1      56.129  26.751  82.213  1.00  1.55 

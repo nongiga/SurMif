@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1dcp.pdb
+ATOM   2338  C   ASN C  91      25.007  52.817  19.361  1.00  4.83           C  
+ATOM   2340  CB  ASN C  91      23.393  51.622  17.980  1.00 17.91           C  
+ATOM   2367  CB  PHE C  95      26.934  50.611  23.029  1.00 28.59           C  

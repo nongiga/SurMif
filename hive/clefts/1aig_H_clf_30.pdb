@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/1aig.pdb
+ATOM   5051  CB  PHE H  64      78.962 130.877  33.246  1.00 51.54           C  
+ATOM   5061  O   ILE H  65      83.254 130.639  35.731  1.00 52.59           O  

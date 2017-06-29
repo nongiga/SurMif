@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1ffv.pdb
+ATOM   9546  CB  GLU D  20      31.308  42.425  74.124  1.00 33.12           C  
+ATOM   9547  CG  GLU D  20      29.884  42.667  74.638  1.00 35.36           C  
+ATOM   9548  CD  GLU D  20      29.234  41.414  75.252  1.00 36.83           C  
+ATOM   9549  OE1 GLU D  20      29.735  40.282  75.061  1.00 37.12           O  

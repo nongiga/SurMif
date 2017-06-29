@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1rrp.pdb
+ATOM   4387  CA  PHE D  40      23.385 -47.975  58.751  1.00 32.00           C  
+ATOM   4391  CG  PHE D  40      24.996 -49.356  57.324  1.00100.15           C  
+ATOM   4393  CD2 PHE D  40      24.816 -50.557  56.634  1.00104.76           C  

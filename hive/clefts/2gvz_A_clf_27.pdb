@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2gvz.pdb
+ATOM     54  CD1 ILE A 382      31.375 -20.580  42.889  1.00 63.14           C  
+ATOM     71  CB  ILE A 384      33.319 -20.340  46.652  1.00 58.69           C  
+ATOM     73  CG2 ILE A 384      33.628 -19.257  47.674  1.00 60.66           C  
+ATOM    913  CE1 HIS A 493      29.951 -15.985  48.652  1.00 46.61           C  

@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/1zav.pdb
+ATOM     54  O   GLN A   6      18.837 -22.017 -28.206  1.00 43.53           O  
+ATOM     91  CG1 ILE A  10      20.612 -21.298 -25.575  1.00 48.26           C  

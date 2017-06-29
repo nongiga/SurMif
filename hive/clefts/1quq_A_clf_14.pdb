@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/1quq.pdb
+ATOM    351  CG1 VAL A  91      50.212  23.072  94.837  1.00 36.80           C  
+ATOM    445  OD2 ASP A 103      53.132  22.831  91.379  1.00 41.42           O  

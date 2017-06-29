@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1zaw.pdb
+ATOM   2169  O   ASP X   4      25.634  18.937 -16.314  1.00 59.49           O  
+ATOM   2195  CB  ILE X   7      27.732  22.216 -15.712  1.00 49.45           C  
+ATOM   2197  CG2 ILE X   7      28.370  22.466 -14.349  1.00 47.50           C  

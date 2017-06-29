@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2z2t.pdb
+ATOM     13  O   ASP A1547      11.864  35.676  19.956  1.00 34.22           O  
+ATOM     37  CB  GLN A1550      12.499  34.455  23.343  1.00 28.37           C  
+ATOM     38  CG  GLN A1550      13.297  33.178  23.727  1.00 31.27           C  
+ATOM     46  CB  GLN A1551      15.434  36.315  19.206  1.00 26.15           C  

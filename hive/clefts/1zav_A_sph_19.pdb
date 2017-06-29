@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1zav.pdb
+ATOM    240  C   SPH Z   1      12.614 -22.618 -14.227  1.00  1.98 
+ATOM    242  C   SPH Z   1      12.054 -22.894 -14.275  1.00  2.05 
+ATOM    241  C   SPH Z   1      13.147 -22.899 -14.394  1.00  2.17 

@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2nvu.pdb
+ATOM   4183  CG2 THR A 531      60.318 -15.240  -4.707  1.00 54.89           C  
+ATOM   4185  CA  PHE A 532      57.883 -13.483  -1.554  1.00 64.74           C  
+ATOM   4186  C   PHE A 532      57.212 -12.608  -2.596  1.00 68.02           C  

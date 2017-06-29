@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1ytf.pdb
+ATOM    541  C   SPH Z   1      21.240  35.897   6.807  1.00  1.50 
+ATOM    544  C   SPH Z   1      21.497  36.281   7.290  1.00  1.58 
+ATOM    543  C   SPH Z   1      20.811  36.208   6.405  1.00  1.78 
+ATOM    542  C   SPH Z   1      21.080  35.951   6.894  1.00  1.62 

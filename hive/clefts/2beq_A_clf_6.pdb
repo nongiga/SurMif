@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2beq.pdb
+ATOM    197  C   ALA A 940       0.578  -0.140  23.137  1.00 26.72           C  
+ATOM    199  CB  ALA A 940       2.601  -0.095  24.631  1.00 26.63           C  
+ATOM    200  N   LEU A 941       0.849   0.556  22.039  1.00 25.41           N  
+ATOM    201  CA  LEU A 941      -0.154   1.389  21.436  1.00 25.45           C  

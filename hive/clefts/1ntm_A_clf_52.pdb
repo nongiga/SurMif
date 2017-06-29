@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/1ntm.pdb
+ATOM   1025  CG1 VAL A 133      41.140  73.716  89.589  1.00 11.70           C  
+ATOM   1047  CB  GLN A 136      45.015  70.350  92.118  1.00 19.96           C  

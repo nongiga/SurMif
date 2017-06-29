@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/2iwt.pdb
+ATOM    785  CB  THR A 112      26.218  17.277  40.309  1.00 79.00           C  
+ATOM    787  CG2 THR A 112      26.662  18.207  41.435  1.00 79.81           C  

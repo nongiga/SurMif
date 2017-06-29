@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/4cpa.pdb
+ATOM   5361  CA  TRP J  28     -15.089 -15.442 -14.486  1.00 10.97           C  
+ATOM   5365  CG  TRP J  28     -13.641 -14.387 -12.851  1.00  9.78           C  
+ATOM   5366  CD1 TRP J  28     -13.844 -13.125 -13.338  1.00 10.86           C  
+ATOM   5367  CD2 TRP J  28     -12.518 -14.323 -11.998  1.00  9.15           C  

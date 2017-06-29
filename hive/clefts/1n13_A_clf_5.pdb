@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1n13.pdb
+ATOM    337  O   ILE A  51       9.543  -1.657  -9.008  1.00 13.56           O  
+ATOM    343  CA  SER A  52       6.896  -2.010  -9.732  1.00 16.50           C  
+ATOM    346  CB  SER A  52       6.123  -2.900  -8.756  1.00 17.36           C  

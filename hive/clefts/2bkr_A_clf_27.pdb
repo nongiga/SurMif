@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/2bkr.pdb
+ATOM    598  CA  GLU A  76       9.489  15.551  23.409  1.00 18.31           C  
+ATOM    602  CG  GLU A  76       7.691  17.330  23.732  1.00 20.30           C  
+ATOM    639  CG  PRO A  81      14.081  19.649  19.533  1.00 18.60           C  
+ATOM    640  CD  PRO A  81      14.562  18.881  20.752  1.00 17.69           C  
+ATOM   1104  CZ  PHE A 139      11.973  15.961  18.907  1.00 25.23           C  

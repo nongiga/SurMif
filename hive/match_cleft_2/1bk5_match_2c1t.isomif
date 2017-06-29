@@ -1,0 +1,38 @@
+REMARK command: ./isomif -p1 set_mif/1bk5.mif -p2 set_mif/2c1t.mif -o set_match/ -c 2
+REMARK commandJob: ./isomif -p1 set_mif/1bk5.mif -p2 set_mif/2c1t.mif -p1 set_mif/1bk5.mif -p2 set_mif/2c1t.mif -o set_match/ -c 2
+REMARK mif_file_1: set_mif/1bk5.mif
+REMARK mif_file_2: set_mif/2c1t.mif
+REMARK nb_of_probes: 6
+REMARK C-alpha_dDist:  3.00
+REMARK pseudocenter_dDist:  1.00
+REMARK dDist:  3.00
+REMARK jtt_threshold: 5
+REMARK max_nodes: 150000
+REMARK commont int : 1
+REMARK wsimfn: 0
+REMARK tag1: 1bk5
+REMARK tag2: 2c1t
+REMARK rnc1: 
+REMARK rnc2: 
+REMARK ncliques_scored: 1
+REMARK ncliques_explored: 2
+REMARK CLIQUE CG 2 NODES 13 NODESM 14 NODESMW 0.0000 NORMNODES 0.0000 NORMNODESRMSD 0.0000 TANI 0.0594 TANIM 0.0363 TANIMW 0.0000 TANINORM 0.0000 NRG 0.000 SS1 217 SS2 15 SS1M 377 SS2M 23 LIGRMSD 0.000
+0   65.000   38.000   46.000    8.500    7.500  -33.500
+1   64.000   37.000   40.000    5.500    6.500  -34.500
+0   66.000   39.000   45.000    7.500    8.500  -34.500
+0   64.000   38.000   44.000    7.500    6.500  -34.500
+0   62.000   39.000   40.000    5.500    5.500  -35.500
+0   64.000   37.000   46.000    8.500    7.500  -34.500
+0   62.000   40.000   42.000    6.500    5.500  -35.500
+1   62.000   39.000   43.000    6.500    6.500  -33.500
+1   62.000   36.000   43.000    5.500    7.500  -33.500
+2   64.000   38.000   43.000    6.500    5.500  -34.500
+1   63.000   38.000   41.000    5.500    5.500  -34.500
+1   62.000   40.000   40.000    4.500    5.500  -34.500
+1   64.000   39.000   40.000    6.500    4.500  -34.500
+2   64.000   39.000   40.000    6.500    4.500  -34.500
+REMARK ROTMAT     0.7901    0.2824    0.5441   -0.4514   -0.3325    0.8280    0.4147   -0.8998   -0.1352
+REMARK CENTRES   63.4286   38.3571   42.3571    6.5000    6.2143  -34.4286
+REMARK DET 1
+REMARK DETORI 1
+REMARK END

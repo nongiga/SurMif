@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1s5l.pdb
+ATOM     24  C   SPH Z   1      25.531  38.414  19.321  1.00  1.67 
+ATOM     26  C   SPH Z   1      23.850  39.271  17.835  1.00  1.63 
+ATOM     25  C   SPH Z   1      26.168  38.662  19.247  1.00  1.63 

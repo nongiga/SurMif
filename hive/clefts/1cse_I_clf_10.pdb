@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/1cse.pdb
+ATOM   2151  CA  TYR I  35      32.289  -9.043  -6.399  1.00 10.07           C  
+ATOM   2162  N   PHE I  36      34.007  -8.533  -8.086  1.00  3.00           N  

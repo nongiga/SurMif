@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1ava.pdb
+ATOM   2167  CD1 TRP A 277      33.953  59.403 110.751  1.00 13.35           C  
+ATOM   2182  N   ALA A 279      32.652  56.638 114.026  1.00 15.09           N  
+ATOM   2764  CG  GLU A 349      29.074  55.194 112.666  1.00 31.13           C  

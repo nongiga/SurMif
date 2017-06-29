@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1rrp.pdb
+ATOM     19  C   SPH Z   1      -8.373 -32.848  51.704  1.00  1.58 
+ATOM     22  C   SPH Z   1      -9.351 -32.270  52.070  1.00  1.70 
+ATOM     21  C   SPH Z   1      -8.286 -32.778  51.135  1.00  1.81 
+ATOM     20  C   SPH Z   1      -8.197 -31.898  51.782  1.00  1.74 

@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1b2u.pdb
+ATOM   4222  OH  TYR F  30      22.518  45.892  45.991  1.00 26.45           O  
+ATOM   4328  O   GLY F  44      22.892  40.397  48.839  1.00 31.76           O  
+ATOM   4339  CE3 TRP F  45      24.939  44.394  48.619  1.00 35.77           C  

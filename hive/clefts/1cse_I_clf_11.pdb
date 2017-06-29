@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/1cse.pdb
+ATOM   2225  CB  THR I  44      34.214 -17.417   2.523  1.00 15.78           C  
+ATOM   2226  OG1 THR I  44      33.472 -16.454   1.653  1.00 10.33           O  
+ATOM   2227  CG2 THR I  44      35.079 -16.655   3.574  1.00  8.64           C  
+ATOM   2260  CZ  ARG I  48      28.203 -15.122   4.783  1.00 22.48           C  
+ATOM   2262  NH2 ARG I  48      28.555 -15.703   5.912  1.00 18.19           N  

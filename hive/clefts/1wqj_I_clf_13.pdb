@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1wqj.pdb
+ATOM    635  C   ASP I  12       6.375  48.810  10.186  1.00 18.57           C  
+ATOM    636  O   ASP I  12       6.755  47.766  10.732  1.00 20.08           O  
+ATOM    667  CB  PHE I  16       8.142  44.551   9.943  1.00 23.46           C  

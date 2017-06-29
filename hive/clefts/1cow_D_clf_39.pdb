@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1cow.pdb
+ATOM  11388  CB  GLU D  37     138.452  38.741  61.332  1.00 37.15           C  
+ATOM  11396  O   VAL D  38     139.914  38.129  65.820  1.00 35.36           O  
+ATOM  11408  NE2 GLN D  39     142.395  37.008  62.714  1.00 77.27           N  
+ATOM  11441  CA  ARG D  44     134.402  35.852  65.583  1.00 43.15           C  

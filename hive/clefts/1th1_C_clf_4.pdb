@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1th1.pdb
+ATOM   8002  CD  GLU C1494       9.972   1.040  -2.800  1.00 56.02           C  
+ATOM   8009  CB  SER C1495      14.336   4.700  -4.169  1.00 70.69           C  
+ATOM   8234  CB  GLN C1529      11.050   5.328 -13.628  1.00 92.65           C  

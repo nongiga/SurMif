@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1tii.pdb
+ATOM   5341  CA  TYR C 215      44.777  10.705   1.999  1.00 17.15           C  
+ATOM   5346  CD1 TYR C 215      46.117  13.353   0.946  1.00 23.34           C  
+ATOM   5375  CD  ARG C 218      48.331   6.797   1.262  1.00 17.63           C  

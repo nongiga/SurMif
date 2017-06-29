@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1hl6.pdb
+ATOM    466  CA  LYS A  92      51.562  66.007  50.599  1.00 45.96           C  
+ATOM    467  C   LYS A  92      52.895  65.272  50.417  1.00 44.06           C  
+ATOM    468  O   LYS A  92      53.699  65.212  51.348  1.00 43.83           O  

@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1ntm.pdb
+ATOM   1408  C   SPH Z   1      31.583  88.451 118.415  1.00  1.60 
+ATOM   1410  C   SPH Z   1      31.113  88.076 119.436  1.00  1.73 
+ATOM   1409  C   SPH Z   1      30.993  88.290 118.857  1.00  1.72 

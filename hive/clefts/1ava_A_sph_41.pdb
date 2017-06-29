@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1ava.pdb
+ATOM    110  C   SPH Z   1      32.735  36.691 121.913  1.00  1.62 
+ATOM    112  C   SPH Z   1      32.527  37.023 121.304  1.00  1.58 
+ATOM    111  C   SPH Z   1      32.799  36.521 121.751  1.00  1.67 

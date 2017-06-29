@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/2pg1.pdb
+ATOM   6206  O   THR I 134     -45.388 -23.236   4.618  1.00 52.90           O  
+ATOM   6214  CB  GLN I 135     -47.522 -25.095   3.223  1.00 44.89           C  

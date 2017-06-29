@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1fl7.pdb
+ATOM    834  CA  THR B  25      32.064  80.977   2.010  1.00 78.80           C  
+ATOM    837  CB  THR B  25      33.279  80.136   2.463  1.00 57.45           C  
+ATOM    838  OG1 THR B  25      34.143  79.910   1.349  1.00 57.45           O  
+ATOM   1255  OH  TYR B  76      37.173  82.946   1.906  1.00 40.68           O  

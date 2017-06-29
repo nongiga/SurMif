@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1ntm.pdb
+ATOM    552  OD1 ASN A  73      35.863  79.708  73.927  1.00 34.95           O  
+ATOM    554  N   ALA A  74      33.348  80.913  75.373  1.00 25.89           N  
+ATOM    555  CA  ALA A  74      33.155  82.215  74.750  1.00 25.79           C  
+ATOM    558  CB  ALA A  74      31.816  82.280  74.021  1.00 25.98           C  

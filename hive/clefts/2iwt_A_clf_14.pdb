@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/2iwt.pdb
+ATOM    207  CG1 VAL A  38      19.879  10.030  44.771  1.00 59.70           C  
+ATOM    368  CD2 LEU A  59      25.010  14.525  43.505  1.00 78.47           C  
+ATOM    779  CD1 LEU A 111      22.579  11.494  40.474  1.00 55.15           C  
+ATOM    806  CB  VAL A 115      21.309  15.825  43.757  1.00 90.95           C  
+ATOM    808  CG2 VAL A 115      21.294  15.382  45.212  1.00 90.52           C  

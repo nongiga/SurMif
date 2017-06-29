@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/3ink.pdb
+ATOM     45  CD  GLN C  11      56.099  39.449  30.746  1.00  0.00           C  
+ATOM     47  NE2 GLN C  11      55.645  38.823  29.681  1.00  0.00           N  
+ATOM    968  CG2 ILE C 129      56.551  44.057  28.940  1.00  0.00           C  

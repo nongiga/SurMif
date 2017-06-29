@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2z5c.pdb
+ATOM   5546  CA  LEU F 101      37.786  25.791  61.211  1.00 45.92           C  
+ATOM   5548  O   LEU F 101      35.743  24.539  61.399  1.00 46.17           O  
+ATOM   5581  CB  ASP F 104      33.554  25.753  65.831  1.00 56.68           C  
+ATOM   5582  CG  ASP F 104      32.918  27.104  66.050  1.00 60.48           C  

@@ -1,0 +1,7 @@
+#REMARK  PARENTFILE  set_pdb/1yvs.pdb
+ATOM    372  CG2 ILE A  51      12.807   9.266  71.126  1.00 19.80           C  
+ATOM    386  CB  ASP A  54      17.996   9.612  74.156  1.00 21.57           C  
+ATOM    387  CG  ASP A  54      16.772  10.287  74.720  1.00 20.23           C  
+ATOM    389  OD2 ASP A  54      15.710  10.309  74.073  1.00 21.24           O  
+ATOM    543  CD  GLU A  73      18.643   6.642  70.787  1.00 43.20           C  
+ATOM    544  OE1 GLU A  73      17.721   7.299  70.268  1.00 46.19           O  

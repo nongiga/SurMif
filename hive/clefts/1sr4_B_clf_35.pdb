@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1sr4.pdb
+ATOM   2167  CD1 PHE B 132      37.940  15.961   9.157  1.00 22.85           C  
+ATOM   2186  CG2 VAL B 134      40.381  18.105   4.620  1.00 17.33           C  
+ATOM   2518  CG2 THR B 179      36.953  14.780   4.750  1.00 25.13           C  

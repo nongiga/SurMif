@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1p3g.pdb
+ATOM   7124  CA  ILE B  66     -33.668   8.383 -43.217  1.00 42.37           C  
+ATOM   7129  CG2 ILE B  66     -35.222   6.388 -43.458  1.00 32.59           C  
+ATOM   7154  CB  ALA B  69     -33.928   9.830 -39.231  1.00 30.84           C  
+ATOM   7253  CG1 VAL B  81     -37.824   9.102 -37.880  1.00 41.52           C  

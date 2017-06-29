@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1qvo.pdb
+ATOM   1744  CA  THR A 214      -0.889 -10.826  22.887  1.00 19.73           C  
+ATOM   1750  N   LEU A 215      -2.384  -9.505  24.265  1.00 21.40           N  
+ATOM   1884  CD2 LEU A 230      -5.800  -6.340  21.425  1.00 33.94           C  

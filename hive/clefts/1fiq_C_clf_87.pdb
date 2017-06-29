@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/1fiq.pdb
+ATOM   4678  O   PHE C 707      40.177  16.838 127.245  1.00 59.66           O  
+ATOM   6169  NH2 ARG C 899      43.473  12.522 126.404  1.00 97.78           N  

@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2avy.pdb
+ATOM  32935  CG1 VAL C  14     132.442  53.945   0.176  1.00 54.66           C  
+ATOM  34226  CA  ARG C 178     128.259  54.140  -1.974  1.00 63.56           C  
+ATOM  34229  CB  ARG C 178     127.628  55.516  -2.205  1.00 63.56           C  
+ATOM  34454  CG1 ILE C 206     128.765  57.846   2.308  1.00 54.79           C  

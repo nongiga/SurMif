@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2hg3.pdb
+ATOM   3989  C   TYR M 210      65.320  61.667  64.162  1.00 50.36           C  
+ATOM   3990  O   TYR M 210      64.504  60.749  64.089  1.00 50.40           O  
+ATOM   3991  CB  TYR M 210      67.562  61.420  63.140  1.00 49.84           C  
+ATOM   4018  CB  LEU M 214      63.568  58.114  66.502  1.00 52.68           C  

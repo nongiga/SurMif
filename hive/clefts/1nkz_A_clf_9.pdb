@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1nkz.pdb
+ATOM    376  N   LYS A  50      29.258 -14.638  -1.628  1.00 47.75           N  
+ATOM    385  N   LYS A  51      30.954 -14.495  -4.083  1.00 51.09           N  
+ATOM    387  C   LYS A  51      30.942 -13.288  -6.245  1.00 51.39           C  
+ATOM    388  O   LYS A  51      30.109 -12.396  -6.066  1.00 51.95           O  

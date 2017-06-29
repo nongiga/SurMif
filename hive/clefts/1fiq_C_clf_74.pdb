@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1fiq.pdb
+ATOM   3858  CD1 TYR C 599       1.936  34.282 117.909  1.00 21.35           C  
+ATOM   3888  OE1 GLU C 602       5.156  35.584 117.048  1.00 25.43           O  
+ATOM   5021  CG2 ILE C 750       7.364  31.536 117.021  1.00 24.74           C  

@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/1kmi.pdb
+ATOM     45  C   SPH Z   1     159.601 -31.122  30.444  1.00  1.53 
+ATOM     46  C   SPH Z   1     161.215 -30.614  29.161  1.00  1.68 

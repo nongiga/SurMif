@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/1qcb.pdb
+ATOM    300  C   SPH Z   1      -9.587   9.629  99.253  1.00  1.50 
+ATOM    303  C   SPH Z   1      -9.522   9.181  98.086  1.00  1.56 

@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2j3w.pdb
+ATOM    497  CE2 TYR A  60     102.764  14.986  20.233  1.00 24.64           C  
+ATOM    515  CE  LYS A  62     105.341  13.301  23.489  1.00 42.29           C  
+ATOM    793  CD  LYS A  96      98.967  14.085  21.577  1.00 31.77           C  

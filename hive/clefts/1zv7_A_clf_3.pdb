@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1zv7.pdb
+ATOM    128  CA  ARG A  18       1.302  19.186  38.433  1.00 10.13           C  
+ATOM    132  CG  ARG A  18      -0.513  20.941  38.509  1.00 14.10           C  
+ATOM    158  CB  GLU A  21       5.436  20.096  39.642  1.00 11.24           C  
+ATOM    159  CG  GLU A  21       6.114  21.193  40.425  1.00 17.51           C  

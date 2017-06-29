@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1yvs.pdb
+ATOM    168  C   SPH Z   1       2.651   9.722  75.264  1.00  1.53 
+ATOM    171  C   SPH Z   1       0.822  10.234  76.956  1.00  1.76 
+ATOM    170  C   SPH Z   1       0.216  10.648  77.122  1.00  1.76 

@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2qfa.pdb
+ATOM     94  C   SPH Z   1      31.952  -9.753  23.154  1.00  1.51 
+ATOM     96  C   SPH Z   1      31.538  -9.885  22.653  1.00  1.71 
+ATOM     95  C   SPH Z   1      32.558  -9.510  23.031  1.00  1.65 

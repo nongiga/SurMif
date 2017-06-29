@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1ava.pdb
+ATOM   2891  OE1 GLU A 365      15.446  59.856 124.566  1.00 40.53           O  
+ATOM   3043  CG  PRO A 385      12.478  59.671 128.052  1.00 43.64           C  
+ATOM   3044  CD  PRO A 385      12.940  60.456 129.239  1.00 43.11           C  

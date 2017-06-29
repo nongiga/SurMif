@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1cd3.pdb
+ATOM   5242  CE1 HIS F 105      32.608   3.172 130.653  1.00  2.00           C  
+ATOM   5243  NE2 HIS F 105      31.448   2.564 130.646  1.00  6.48           N  
+ATOM   5635  CG  GLN F 153      34.230  -1.125 131.618  1.00 27.73           C  

@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1ais.pdb
+ATOM   2367  O   GLU B1139     -18.860  42.138  75.380  1.00 89.31           O  
+ATOM   2369  CG  GLU B1139     -18.494  40.567  72.361  1.00 98.21           C  
+ATOM   2391  CD  ARG B1142     -15.935  45.376  73.819  1.00 99.28           C  

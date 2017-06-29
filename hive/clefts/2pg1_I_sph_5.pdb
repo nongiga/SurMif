@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2pg1.pdb
+ATOM      0  C   SPH Z   1     -19.431  30.021   4.024  1.00  1.75 
+ATOM      2  C   SPH Z   1     -19.730  30.002   4.717  1.00  2.22 
+ATOM      1  C   SPH Z   1     -18.896  30.029   4.503  1.00  1.67 

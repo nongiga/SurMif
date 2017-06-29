@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1kmi.pdb
+ATOM   2299  C   GLN Z 204     151.697  50.814  11.280  1.00150.70           C  
+ATOM   2300  O   GLN Z 204     152.812  51.120  10.855  1.00150.72           O  
+ATOM   2301  CB  GLN Z 204     151.619  49.646  13.483  1.00153.24           C  

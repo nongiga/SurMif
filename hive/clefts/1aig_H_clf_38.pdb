@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/1aig.pdb
+ATOM   5056  CE2 PHE H  64      75.708 129.545  31.851  1.00 48.73           C  
+ATOM   5137  CG1 VAL H  75      73.099 131.164  29.058  1.00 55.19           C  

@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1tii.pdb
+ATOM   5366  CD  LYS C 217      44.054   4.749   7.749  1.00 38.40           C  
+ATOM   5396  CD2 PHE C 220      47.960   8.098  11.580  1.00 31.19           C  
+ATOM   5398  CE2 PHE C 220      48.237   7.530  12.799  1.00 31.83           C  

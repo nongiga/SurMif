@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2dx8.pdb
+ATOM    683  ND1 HIS B 366      65.079  45.100   7.592  1.00 33.28           N  
+ATOM    685  CE1 HIS B 366      64.756  45.936   8.559  1.00 37.53           C  
+ATOM    711  SG  CYS B 369      67.596  44.419   4.421  1.00 43.52           S  

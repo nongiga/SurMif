@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/1dan.pdb
+ATOM    280  CE1 PHE L  31      37.595  16.220  85.040  1.00 38.15           C  
+ATOM    282  CZ  PHE L  31      37.702  17.584  84.785  1.00 42.87           C  
+ATOM    320  O   ARG L  36      40.691  14.450  81.475  1.00 46.34           O  
+ATOM    356  CB  PHE L  40      39.228  17.956  81.212  1.00 37.45           C  
+ATOM    358  CD1 PHE L  40      37.548  19.749  81.792  1.00 33.01           C  

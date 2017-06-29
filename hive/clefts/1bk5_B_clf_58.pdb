@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1bk5.pdb
+ATOM   4995  CA  SER B 309      50.611  23.486  51.266  1.00 32.41           C  
+ATOM   4996  C   SER B 309      49.893  23.014  50.001  1.00 31.65           C  
+ATOM   5282  CB  LEU B 348      54.312  21.290  55.892  1.00 43.27           C  

@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1fiq.pdb
+ATOM   4586  C   SPH Z   1      37.590  27.568  82.294  1.00  1.54 
+ATOM   4588  C   SPH Z   1      37.394  27.795  80.924  1.00  1.94 
+ATOM   4587  C   SPH Z   1      37.270  27.839  81.657  1.00  1.83 

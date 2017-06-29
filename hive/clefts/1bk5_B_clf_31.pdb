@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1bk5.pdb
+ATOM   4710  CG  GLU B 272      50.794  27.174  33.471  1.00 48.35           C  
+ATOM   4735  CG2 VAL B 275      52.377  27.667  39.204  1.00 31.34           C  
+ATOM   5038  CD1 LEU B 314      55.044  23.109  37.855  1.00 35.63           C  

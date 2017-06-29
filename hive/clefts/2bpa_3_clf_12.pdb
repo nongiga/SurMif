@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/2bpa.pdb
+ATOM   4929  NE  ARG 3  24      21.933 -27.092  89.460  1.00 34.43           N  
+ATOM   4936  O   LYS 3  25      20.933 -24.736  93.740  1.00 37.01           O  

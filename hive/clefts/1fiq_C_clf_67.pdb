@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1fiq.pdb
+ATOM   9345  CG  ASN C1307      52.515  32.052  99.227  1.00 58.82           C  
+ATOM   9346  OD1 ASN C1307      52.812  33.022  98.522  1.00 54.54           O  
+ATOM   9398  CB  THR C1314      57.957  33.017  95.367  1.00 76.96           C  
+ATOM   9400  CG2 THR C1314      56.584  33.093  94.721  1.00 73.83           C  

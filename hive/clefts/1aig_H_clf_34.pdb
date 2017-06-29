@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1aig.pdb
+ATOM   5683  CA  GLY H 150     100.700  99.784  17.114  1.00 52.80           C  
+ATOM   5778  CE  LYS H 163     103.880 102.681  13.504  1.00 78.39           C  
+ATOM   5783  O   VAL H 164      99.991 103.110  16.604  1.00 50.82           O  
+ATOM   5788  CA  VAL H 165     101.000 105.511  17.457  1.00 48.64           C  

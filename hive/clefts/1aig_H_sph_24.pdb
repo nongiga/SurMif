@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1aig.pdb
+ATOM   1623  C   SPH Z   1      86.455  93.294   0.658  1.00  1.53 
+ATOM   1625  C   SPH Z   1      85.670  93.741  -1.225  1.00  1.77 
+ATOM   1624  C   SPH Z   1      85.826  93.207  -0.702  1.00  1.56 

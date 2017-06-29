@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1pcz.pdb
+ATOM    374  C   SPH Z   1      63.311  41.480 115.821  1.00  1.60 
+ATOM    377  C   SPH Z   1      64.663  40.557 116.441  1.00  1.52 
+ATOM    376  C   SPH Z   1      64.132  41.024 116.684  1.00  1.83 
+ATOM    375  C   SPH Z   1      63.984  41.570 116.171  1.00  2.06 

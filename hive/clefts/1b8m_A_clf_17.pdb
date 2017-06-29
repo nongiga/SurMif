@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1b8m.pdb
+ATOM    420  CD2 TYR A  63      20.507  16.973  25.340  1.00 18.61           C  
+ATOM    468  CZ  ARG A  69      14.600  15.822  26.822  1.00 22.56           C  
+ATOM    469  NH1 ARG A  69      15.845  15.376  26.916  1.00 22.56           N  

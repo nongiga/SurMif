@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2dyp.pdb
+ATOM    327  C   SPH Z   1     -57.223  18.600  50.865  1.00  1.52 
+ATOM    627  C   SPH Z   1     -57.622  19.181  50.767  1.00  2.01 
+ATOM    626  C   SPH Z   1     -57.913  18.583  50.571  1.00  1.90 
+ATOM    328  C   SPH Z   1     -59.147  16.972  50.722  1.00  1.55 

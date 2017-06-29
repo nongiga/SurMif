@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/2fkw.pdb
+ATOM    535  C   ASP B  17      -5.490   8.799  45.912  1.00 44.26           C  
+ATOM    537  CB  ASP B  17      -6.616   8.401  47.969  1.00 46.54           C  
+ATOM    541  N   GLY B  18      -4.660   9.804  46.208  1.00 43.11           N  
+ATOM    542  CA  GLY B  18      -4.380  10.862  45.213  1.00 41.70           C  
+ATOM    569  CG2 VAL B  21      -8.322  10.641  43.456  1.00 41.80           C  

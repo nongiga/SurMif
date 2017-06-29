@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/1fiq.pdb
+ATOM     53  C   SPH Z   1       6.806  19.319  91.979  1.00  1.83 
+ATOM     58  C   SPH Z   1       8.307  21.026  90.995  1.00  1.55 
+ATOM     57  C   SPH Z   1       7.574  21.479  90.880  1.00  2.15 
+ATOM     55  C   SPH Z   1       6.283  19.371  91.432  1.00  1.95 
+ATOM     54  C   SPH Z   1       6.958  19.666  91.660  1.00  1.70 

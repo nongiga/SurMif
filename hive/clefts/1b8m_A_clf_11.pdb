@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/1b8m.pdb
+ATOM    263  CB  VAL A  44       0.025  42.751   0.961  1.00 36.32           C  
+ATOM    265  CG2 VAL A  44       1.372  43.484   1.149  1.00 36.32           C  
+ATOM    269  O   SER A  45      -0.832  46.494   1.056  1.00108.71           O  
+ATOM    276  CB  LYS A  46       0.254  48.934   1.599  1.00102.93           C  
+ATOM    278  CD  LYS A  46      -1.332  49.564   3.434  1.00102.93           C  

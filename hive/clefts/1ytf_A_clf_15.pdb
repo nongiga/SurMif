@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/1ytf.pdb
+ATOM    816  CG  LYS A  83       2.554   4.597 -17.357  1.00 24.02           C  
+ATOM    817  CD  LYS A  83       1.210   4.233 -17.964  1.00 25.31           C  
+ATOM    838  CB  ALA A  86       6.104   5.282 -13.044  1.00  7.85           C  
+ATOM    902  CD2 TYR A  94       1.942   7.154 -13.180  1.00  2.00           C  
+ATOM    904  CE2 TYR A  94       1.078   7.933 -13.934  1.00  2.00           C  

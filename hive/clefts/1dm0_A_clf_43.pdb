@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/1dm0.pdb
+ATOM    393  CA  ILE A  57      77.604  16.464  22.137  1.00 48.18           C  
+ATOM    397  CG1 ILE A  57      75.891  17.752  20.883  1.00 44.42           C  
+ATOM    990  CA  ARG A 132      73.578  11.614  20.768  1.00 42.16           C  
+ATOM    996  NE  ARG A 132      76.569  12.584  24.120  1.00 39.03           N  
+ATOM   1022  CD1 LEU A 135      71.295  16.118  21.387  1.00 27.34           C  

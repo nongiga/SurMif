@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2iy0.pdb
+ATOM   3214  CB  LYS C 524      18.680 -18.250  -0.354  1.00 30.59           C  
+ATOM   3216  CD  LYS C 524      17.494 -19.560  -2.108  1.00 28.54           C  
+ATOM   3221  C   SER C 525      20.194 -20.350   4.008  1.00 33.05           C  
+ATOM   3233  OE2 GLU C 526      21.659 -24.751   2.268  1.00 38.11           O  

@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1bk5.pdb
+ATOM   4871  OE1 GLN B 293      52.565  47.838  56.796  1.00 47.34           O  
+ATOM   5162  C   LEU B 332      54.303  43.891  61.306  1.00 49.21           C  
+ATOM   5164  CB  LEU B 332      54.317  46.077  62.511  1.00 51.39           C  
+ATOM   5199  CG2 VAL B 336      50.614  42.356  59.536  1.00 45.37           C  

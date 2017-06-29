@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2nvu.pdb
+ATOM    445  O   GLY A  62      79.556  11.046  -9.067  1.00 68.30           O  
+ATOM    609  CB  ASN A  84      83.819   9.458 -12.491  1.00 62.12           C  
+ATOM    612  ND2 ASN A  84      81.458   9.304 -11.991  1.00 60.37           N  

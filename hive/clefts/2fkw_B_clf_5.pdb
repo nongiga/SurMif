@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/2fkw.pdb
+ATOM    628  C   HIS B  30      -6.149   7.293  26.395  1.00 44.94           C  
+ATOM    630  CB  HIS B  30      -4.281   6.836  28.043  1.00 45.45           C  
+ATOM    636  N   PHE B  31      -7.313   6.950  26.959  1.00 46.45           N  
+ATOM    637  CA  PHE B  31      -8.451   6.517  26.148  1.00 47.95           C  
+ATOM    709  CH2 TRP B  39      -1.706   4.876  24.248  1.00 42.01           C  

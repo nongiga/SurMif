@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2h1o.pdb
+ATOM   6243  O   VAL E  46      18.202 -20.303  33.258  1.00 41.00           O  
+ATOM   6258  N   LEU E  48      19.796 -21.997  36.028  1.00 41.39           N  
+ATOM   6262  CB  LEU E  48      19.852 -21.031  38.260  1.00 39.80           C  

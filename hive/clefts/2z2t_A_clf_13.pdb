@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2z2t.pdb
+ATOM     60  N   ASN A1553      16.820  38.331  24.281  1.00 22.81           N  
+ATOM     61  CA  ASN A1553      17.503  37.813  25.461  1.00 23.28           C  
+ATOM     64  CB  ASN A1553      16.566  37.053  26.408  1.00 24.06           C  

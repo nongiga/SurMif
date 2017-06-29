@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2qqk.pdb
+ATOM   4465  O   ALA H  24      19.323 -20.793 -35.334  1.00 61.46           O  
+ATOM   4867  O   LYS H  75      17.457 -19.471 -40.192  1.00 61.70           O  
+ATOM   4877  CB  ASN H  76      18.057 -22.392 -39.144  1.00 63.57           C  

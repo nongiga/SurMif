@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/1zv7.pdb
+ATOM     64  O   VAL A  10      -5.083  20.337  30.366  1.00  8.51           O  
+ATOM     86  C   GLN A  13      -2.061  18.546  31.907  1.00  9.14           C  
+ATOM     89  CG  GLN A  13      -0.902  18.647  29.205  1.00  9.64           C  
+ATOM     93  N   LYS A  14      -2.867  19.508  32.336  1.00  8.84           N  
+ATOM     94  CA  LYS A  14      -2.453  20.413  33.398  1.00  9.35           C  

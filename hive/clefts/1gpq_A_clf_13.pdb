@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/1gpq.pdb
+ATOM    180  CB  HIS A  26      -9.115  20.916  27.292  1.00 22.71           C  
+ATOM    186  N   LYS A  27      -8.491  18.231  29.058  1.00 24.15           N  
+ATOM    188  C   LYS A  27      -6.518  18.089  30.430  1.00 22.72           C  
+ATOM    202  CD2 LEU A  28      -4.930  21.815  28.864  1.00 19.38           C  
+ATOM    716  CG2 THR A  95      -6.257  21.533  23.183  1.00 13.58           C  

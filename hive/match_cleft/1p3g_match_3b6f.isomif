@@ -1,0 +1,30 @@
+REMARK command: surmif -p1 set_mif/1p3g.mif -p2 set_mif/3b6f.mif -o set_match/ -c 2
+REMARK commandJob: surmif -p1 set_mif/1p3g.mif -p2 set_mif/3b6f.mif -p1 set_mif/1p3g.mif -p2 set_mif/3b6f.mif -o set_match/ -c 2
+REMARK mif_file_1: set_mif/1p3g.mif
+REMARK mif_file_2: set_mif/3b6f.mif
+REMARK nb_of_probes: 6
+REMARK C-alpha_dDist:  3.00
+REMARK pseudocenter_dDist:  1.00
+REMARK dDist:  3.00
+REMARK jtt_threshold: 5
+REMARK max_nodes: 150000
+REMARK commont int : 1
+REMARK wsimfn: 0
+REMARK tag1: 1p3g
+REMARK tag2: 3b6f
+REMARK rnc1: 
+REMARK rnc2: 
+REMARK ncliques_scored: 1
+REMARK ncliques_explored: 1
+REMARK CLIQUE CG 2 NODES 6 NODESM 6 NODESMW 0.0000 NORMNODES 0.0000 NORMNODESRMSD 0.0000 TANI 0.0135 TANIM 0.0087 TANIMW 0.0000 TANINORM 0.0000 NRG 0.000 SS1 6 SS2 443 SS1M 10 SS2M 688 LIGRMSD 0.000
+0  -37.500   19.500  -39.000  -39.500  -27.500   71.500
+0  -38.500   15.500  -39.000  -38.500  -27.500   72.500
+0  -38.500   17.500  -38.000  -39.500  -27.500   72.500
+0  -39.500   17.500  -38.000  -39.500  -26.500   70.500
+0  -35.500   17.500  -40.000  -40.500  -25.500   72.500
+0  -36.500   17.500  -40.000  -41.500  -27.500   69.500
+REMARK ROTMAT    -0.8852   -0.4548    0.0977    0.2180   -0.5910   -0.7767    0.4110   -0.6663    0.6223
+REMARK CENTRES  -37.6667   17.5000  -39.0000  -39.8333  -27.0000   71.5000
+REMARK DET 1
+REMARK DETORI 1
+REMARK END

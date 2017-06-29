@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1kmi.pdb
+ATOM   1077  O   ILE Z  18     163.133  -6.768  27.043  1.00 58.70           O  
+ATOM   1080  CG2 ILE Z  18     162.345  -6.125  29.985  1.00 52.50           C  
+ATOM   1083  CA  ALA Z  19     165.151  -8.608  27.333  1.00 63.84           C  
+ATOM   1107  CA  GLY Z  22     164.667  -3.931  24.621  1.00 67.20           C  

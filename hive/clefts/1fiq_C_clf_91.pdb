@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1fiq.pdb
+ATOM   7919  CA  ASP C1123     -17.419  -0.874 109.091  1.00 37.90           C  
+ATOM   7924  OD1 ASP C1123     -18.468  -3.683 108.963  1.00 48.49           O  
+ATOM   7936  NH2 ARG C1124     -20.392  -1.517 114.756  1.00 45.51           N  

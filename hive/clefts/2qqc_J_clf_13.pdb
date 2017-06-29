@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2qqc.pdb
+ATOM   5268  O   ASP J  83      52.015  30.351 -44.277  1.00 39.75           O  
+ATOM   5269  CB  ASP J  83      50.133  28.541 -45.523  1.00 38.22           C  
+ATOM   5800  O   LYS J 152      53.937  27.999 -45.289  1.00 35.88           O  

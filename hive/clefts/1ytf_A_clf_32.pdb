@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1ytf.pdb
+ATOM    681  O   PRO A  65      22.893  24.114  13.424  1.00 10.77           O  
+ATOM    686  CA  THR A  66      21.834  21.517  13.295  1.00  9.56           C  
+ATOM    692  N   LEU A  67      21.257  21.499  10.915  1.00  2.49           N  
+ATOM    697  CG  LEU A  67      21.732  23.319   8.432  1.00  6.68           C  

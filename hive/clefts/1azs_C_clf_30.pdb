@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1azs.pdb
+ATOM   3437  O   GLU C 118      23.742  29.512   9.990  1.00 54.11           O  
+ATOM   3452  CA  ALA C 120      19.958  32.462   9.472  1.00 59.77           C  
+ATOM   3455  CB  ALA C 120      18.661  31.661   9.349  1.00 56.63           C  
+ATOM   3776  CA  GLY C 158      20.498  27.879  10.307  1.00 46.84           C  

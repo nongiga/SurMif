@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/2dsq.pdb
+ATOM   2099  CG2 ILE G 153      -1.706   1.119 -12.243  1.00 62.37           C  
+ATOM   2102  CA  GLU G 154       1.122  -1.679 -10.559  1.00 61.37           C  

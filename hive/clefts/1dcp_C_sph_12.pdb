@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1dcp.pdb
+ATOM    153  C   SPH Z   1      25.341  48.779  14.378  1.00  1.59 
+ATOM    155  C   SPH Z   1      26.108  48.937  14.346  1.00  1.53 
+ATOM    154  C   SPH Z   1      24.680  49.223  15.193  1.00  1.55 

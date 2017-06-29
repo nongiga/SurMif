@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/2z2t.pdb
+ATOM     24  CG2 ILE A1548      11.560  40.784  18.661  1.00 32.36           C  
+ATOM     59  NE2 GLN A1552      16.604  41.917  19.577  1.00 26.91           N  

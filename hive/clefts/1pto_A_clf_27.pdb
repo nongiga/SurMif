@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/1pto.pdb
+ATOM   1692  CB  TYR A 227      -9.936  31.319 -16.616  1.00  2.00           C  
+ATOM   1719  OE1 GLU A 229      -6.223  32.099 -14.977  1.00  8.09           O  

@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1nez.pdb
+ATOM    577  C   SPH Z   1      47.905 -25.092-363.607  1.00  1.52 
+ATOM    579  C   SPH Z   1      49.245 -25.418-362.598  1.00  1.59 
+ATOM    578  C   SPH Z   1      49.760 -25.474-362.945  1.00  1.52 

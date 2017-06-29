@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/1zav.pdb
+ATOM      6  CG1 VAL A   0      28.227 -22.811 -35.155  1.00 62.89           C  
+ATOM     11  O   MET A   1      25.284 -21.817 -35.415  1.00 54.60           O  
+ATOM     23  CD2 LEU A   2      24.449 -21.981 -30.910  1.00 52.62           C  
+ATOM     57  CD  GLN A   6      21.922 -25.085 -31.978  1.00 50.39           C  
+ATOM     58  OE1 GLN A   6      22.366 -24.225 -32.735  1.00 52.69           O  

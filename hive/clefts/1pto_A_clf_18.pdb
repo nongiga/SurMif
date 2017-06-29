@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1pto.pdb
+ATOM    567  CA  GLU A  73     -14.351  18.967 -38.216  1.00 12.74           C  
+ATOM    571  CG  GLU A  73     -12.387  18.464 -36.592  1.00 23.70           C  
+ATOM    593  CB  ARG A  76     -16.799  16.289 -39.854  1.00  2.00           C  
+ATOM    594  CG  ARG A  76     -15.529  15.963 -40.565  1.00  2.00           C  

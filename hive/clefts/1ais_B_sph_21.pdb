@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1ais.pdb
+ATOM    931  C   SPH Z   1     -28.354  -2.013  59.718  1.00  1.57 
+ATOM    937  C   SPH Z   1     -31.056  -0.910  59.454  1.00  1.65 
+ATOM    934  C   SPH Z   1     -29.599  -2.146  59.704  1.00  1.67 
+ATOM    933  C   SPH Z   1     -28.981  -2.401  59.760  1.00  1.72 

@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1fiq.pdb
+ATOM   4748  CD  GLU C 715      48.006  -1.125 116.857  1.00 78.63           C  
+ATOM   4749  OE1 GLU C 715      49.236  -0.976 116.695  1.00 77.70           O  
+ATOM   4765  CA  ASP C 718      51.161  -5.221 113.300  1.00 91.02           C  
+ATOM   4769  CG  ASP C 718      52.968  -5.948 114.925  1.00 99.26           C  

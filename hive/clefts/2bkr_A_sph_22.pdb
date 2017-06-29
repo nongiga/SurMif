@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2bkr.pdb
+ATOM    834  C   SPH Z   1      27.043   5.720   5.538  1.00  1.51 
+ATOM    837  C   SPH Z   1      28.483   6.061   4.891  1.00  1.57 
+ATOM    835  C   SPH Z   1      27.403   5.665   4.854  1.00  1.85 

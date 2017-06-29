@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1aig.pdb
+ATOM   5560  CG  LYS H 132      99.210 115.555  27.928  1.00 57.36           C  
+ATOM   5561  CD  LYS H 132      99.765 115.725  29.342  1.00 58.33           C  
+ATOM   6246  O   THR H 223      99.391 118.088  24.346  1.00 59.44           O  

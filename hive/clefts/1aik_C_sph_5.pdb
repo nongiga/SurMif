@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/1aik.pdb
+ATOM     21  C   SPH Z   1      20.837   6.030  -3.870  1.00  1.56 
+ATOM     51  C   SPH Z   1      22.031   4.156  -4.658  1.00  1.92 
+ATOM     50  C   SPH Z   1      21.757   4.559  -4.707  1.00  1.73 
+ATOM     49  C   SPH Z   1      21.638   3.872  -4.658  1.00  1.78 
+ATOM     48  C   SPH Z   1      20.976   2.293  -5.870  1.00  1.55 

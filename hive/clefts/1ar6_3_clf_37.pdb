@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1ar6.pdb
+ATOM   4533  O   GLU 3  27      28.874  60.768  96.751  1.00 19.50           O  
+ATOM   4551  CA  ASP 3  29      31.574  57.511  97.824  1.00 16.43           C  
+ATOM   4554  CB  ASP 3  29      32.900  58.001  97.260  1.00 19.93           C  

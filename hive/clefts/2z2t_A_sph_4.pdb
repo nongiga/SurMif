@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2z2t.pdb
+ATOM     22  C   SPH Z   1      30.351  41.658  23.079  1.00  1.57 
+ATOM     24  C   SPH Z   1      30.387  41.729  23.063  1.00  1.63 
+ATOM     23  C   SPH Z   1      30.811  42.273  24.090  1.00  1.74 

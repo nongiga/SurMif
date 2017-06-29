@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1fiq.pdb
+ATOM   9162  O   HIS C1285      62.320  27.959  89.168  1.00 93.11           O  
+ATOM   9170  CA  THR C1286      62.013  25.666  90.632  1.00 99.26           C  
+ATOM   9364  CG1 VAL C1310      60.519  28.807  94.421  1.00 76.53           C  

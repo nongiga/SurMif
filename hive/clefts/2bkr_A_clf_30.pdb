@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2bkr.pdb
+ATOM    105  CD  ARG A  14      17.361  -9.095  37.127  1.00 21.73           C  
+ATOM    130  CG  ASP A  17      21.690  -7.318  33.496  1.00 23.71           C  
+ATOM    132  OD2 ASP A  17      20.828  -7.174  34.383  1.00 24.84           O  

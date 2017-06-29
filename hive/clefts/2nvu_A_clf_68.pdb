@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/2nvu.pdb
+ATOM   2523  OE1 GLU A 318      41.666 -26.849 -36.902  1.00 94.19           O  
+ATOM   2828  CB  ASN A 359      45.091 -22.973 -40.430  1.00102.98           C  

@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1zlh.pdb
+ATOM   2522  CB  ARG B  21      -1.790  32.164  15.608  1.00 16.99           C  
+ATOM   2531  C   LEU B  22       1.615  32.668  11.997  1.00 14.17           C  
+ATOM   2532  O   LEU B  22       0.591  32.137  11.563  1.00 14.47           O  

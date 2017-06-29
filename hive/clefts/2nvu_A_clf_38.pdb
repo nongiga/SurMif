@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/2nvu.pdb
+ATOM    416  OG1 THR A  58      74.754   2.326 -21.851  1.00 62.27           O  
+ATOM    417  CG2 THR A  58      74.915   3.842 -19.990  1.00 60.20           C  
+ATOM    754  OG  SER A 103      77.245   3.272 -23.183  1.00 60.78           O  
+ATOM    908  CD  ARG A 122      69.793   5.435 -23.995  1.00 82.89           C  
+ATOM    911  NH1 ARG A 122      70.359   8.215 -24.016  1.00 84.31           N  

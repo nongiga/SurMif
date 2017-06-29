@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1th1.pdb
+ATOM   7930  C   ASP C1486       9.673   1.963  22.939  1.00 50.10           C  
+ATOM   7947  N   LEU C1488       9.469   2.312  18.804  1.00 39.93           N  
+ATOM   7948  CA  LEU C1488      10.139   1.876  17.589  1.00 36.34           C  
+ATOM   7961  CD1 LEU C1489      12.262   6.250  16.789  1.00 38.10           C  

@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/2atp.pdb
+ATOM   1517  O   LYS B  66       6.269 -21.422  58.925  1.00 54.17           O  
+ATOM   1521  CE  LYS B  66       3.508 -22.239  53.622  1.00 62.76           C  
+ATOM   1538  CB  ASN B  68       8.291 -23.065  56.091  1.00 29.28           C  
+ATOM   1675  CB  ASN B  85       6.158 -27.900  56.135  1.00 46.59           C  
+ATOM   1678  ND2 ASN B  85       7.579 -27.536  58.062  1.00 50.29           N  

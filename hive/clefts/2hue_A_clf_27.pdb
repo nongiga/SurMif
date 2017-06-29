@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2hue.pdb
+ATOM    410  CD  ARG A  49     -66.385   9.561   5.351  1.00 51.59           C  
+ATOM    696  CG  PRO A  85     -63.910   3.687   2.999  1.00 38.27           C  
+ATOM    716  OE1 GLU A  88     -64.441   7.238   3.010  1.00 49.86           O  

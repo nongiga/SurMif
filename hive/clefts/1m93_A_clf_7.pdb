@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1m93.pdb
+ATOM    310  C   GLN A  41      40.698  49.891  68.880  1.00 43.66           C  
+ATOM    311  O   GLN A  41      39.997  49.270  68.089  1.00 47.14           O  
+ATOM    318  CA  LEU A  42      38.723  50.871  69.829  1.00 40.33           C  
+ATOM    324  CD2 LEU A  42      37.236  49.382  72.330  1.00 34.20           C  

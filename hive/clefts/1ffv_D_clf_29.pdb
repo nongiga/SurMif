@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1ffv.pdb
+ATOM  10183  CB  THR D 105      47.231  65.840  65.235  1.00 24.20           C  
+ATOM  10191  CG  PRO D 106      44.834  63.271  68.165  1.00 24.57           C  
+ATOM  10192  CD  PRO D 106      45.287  63.539  66.741  1.00 24.85           C  

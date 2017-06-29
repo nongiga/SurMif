@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/3b6f.pdb
+ATOM      0  C   SPH Z   1     -64.663 -25.662  86.727  1.00  1.51 
+ATOM      4  C   SPH Z   1     -63.836 -27.320  86.284  1.00  1.67 
+ATOM      3  C   SPH Z   1     -64.307 -26.788  86.461  1.00  1.80 
+ATOM      2  C   SPH Z   1     -64.511 -27.133  85.835  1.00  1.55 

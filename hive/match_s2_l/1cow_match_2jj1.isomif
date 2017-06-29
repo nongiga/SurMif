@@ -1,0 +1,37 @@
+REMARK command: ./isomif -p1 hive/mif_s2_l/1cow.mif -l1 PRO289A -p2 hive/mif_s2_l/2jj1.mif -l2 PRO289B -o hive/match_s2_l/ -c 2 -l 1
+REMARK commandJob: ./isomif -p1 hive/mif_s2_l/1cow.mif -p2 hive/mif_s2_l/2jj1.mif -p1 hive/mif_s2_l/1cow.mif -l1 PRO289A -p2 hive/mif_s2_l/2jj1.mif -l2 PRO289B -o hive/match_s2_l/ -c 2 -l 1
+REMARK mif_file_1: hive/mif_s2_l/1cow.mif
+REMARK mif_file_2: hive/mif_s2_l/2jj1.mif
+REMARK nb_of_probes: 6
+REMARK C-alpha_dDist:  3.00
+REMARK pseudocenter_dDist:  1.00
+REMARK dDist:  3.00
+REMARK jtt_threshold: 5
+REMARK max_nodes: 150000
+REMARK commont int : 1
+REMARK wsimfn: 0
+REMARK tag1: 1cow
+REMARK tag2: 2jj1
+REMARK rnc1: PRO289A
+REMARK rnc2: PRO289B
+REMARK ncliques_scored: 1
+REMARK ncliques_explored: 3
+REMARK CLIQUE CG 2 NODES 13 NODESM 13 NODESMW 0.0000 NORMNODES 0.0000 NORMNODESRMSD 0.0000 TANI 0.2549 TANIM 0.2167 TANIMW 0.0000 TANINORM 0.0000 NRG 0.000 SS1 44 SS2 20 SS1M 53 SS2M 20 LIGRMSD 3.969
+0  126.500   72.000   68.500   -6.000   19.500   10.500
+0  132.500   70.000   62.500   -2.000   23.500    8.500
+0  132.500   70.000   64.500    0.000   21.500    6.500
+0  132.500   72.000   62.500    0.000   21.500    8.500
+0  132.500   68.000   62.500    2.000   23.500    6.500
+0  132.500   68.000   64.500    0.000   23.500    8.500
+0  126.500   72.000   64.500   -4.000   17.500    8.500
+0  132.500   68.000   66.500   -2.000   25.500    8.500
+0  130.500   72.000   62.500    0.000   19.500    6.500
+0  132.500   72.000   64.500    0.000   21.500    4.500
+0  130.500   74.000   64.500   -2.000   19.500    8.500
+0  132.500   70.000   66.500    0.000   25.500    8.500
+0  128.500   74.000   64.500   -2.000   17.500    6.500
+REMARK ROTMAT     0.3008   -0.3131   -0.9008    0.6530   -0.6208    0.4338   -0.6951   -0.7187    0.0177
+REMARK CENTRES  130.9615   70.9231   64.5000   -1.2308   21.5000    7.7308
+REMARK DET 1
+REMARK DETORI 1
+REMARK END

@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/3ch5.pdb
+ATOM   1616  CB  PHE B 714     -10.290 -16.251 -41.382  1.00 46.84           C  
+ATOM   1627  N   ASP B 716     -12.043 -17.410 -37.552  1.00 47.09           N  
+ATOM   1651  CD2 PHE B 718      -7.649 -19.027 -38.486  1.00 40.04           C  

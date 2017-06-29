@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1fl7.pdb
+ATOM    873  O   GLY B  30      21.446  66.765   1.531  1.00 44.58           O  
+ATOM    875  CA  TYR B  31      19.949  65.319  -0.326  1.00 24.71           C  
+ATOM    876  C   TYR B  31      20.581  64.344  -1.327  1.00 24.71           C  
+ATOM    886  N   CYS B  32      20.601  63.071  -0.956  1.00 26.32           N  

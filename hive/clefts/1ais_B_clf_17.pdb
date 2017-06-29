@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1ais.pdb
+ATOM   3413  CB  ALA B1272     -21.157   3.629  79.272  1.00 18.79           C  
+ATOM   3419  CG  GLU B1273     -16.541   3.782  81.139  1.00 47.87           C  
+ATOM   3449  O   VAL B1277     -22.103   6.129  81.207  1.00 23.74           O  
+ATOM   3454  CA  THR B1278     -24.174   4.964  82.511  1.00 18.88           C  

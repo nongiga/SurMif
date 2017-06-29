@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2gvz.pdb
+ATOM    460  C   SPH Z   1      44.563 -25.410  62.814  1.00  1.59 
+ATOM    462  C   SPH Z   1      44.590 -26.161  61.950  1.00  1.79 
+ATOM    461  C   SPH Z   1      44.868 -25.904  62.493  1.00  1.57 

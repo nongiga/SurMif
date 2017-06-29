@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2c1t.pdb
+ATOM     34  C   SPH Z   1      19.737  -2.201 -13.530  1.00  3.47 
+ATOM     41  C   SPH Z   1      21.228  -2.344 -13.497  1.00  3.66 
+ATOM     40  C   SPH Z   1      20.162  -1.763 -13.684  1.00  3.73 

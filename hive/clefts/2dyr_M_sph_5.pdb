@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2dyr.pdb
+ATOM      2  C   SPH Z   1      33.408 306.624 222.997  1.00  1.78 
+ATOM      5  C   SPH Z   1      33.201 307.169 221.017  1.00  1.67 
+ATOM      4  C   SPH Z   1      33.408 307.283 222.688  1.00  1.60 
+ATOM      3  C   SPH Z   1      33.464 307.515 222.070  1.00  1.51 

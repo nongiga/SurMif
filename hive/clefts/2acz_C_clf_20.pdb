@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2acz.pdb
+ATOM   7125  CG  MET C  94      68.636  90.861 106.398  1.00 59.47           C  
+ATOM   7126  SD  MET C  94      70.440  90.915 106.548  1.00 63.07           S  
+ATOM   7174  O   GLU C 100      67.534  87.142 109.260  1.00 77.25           O  
+ATOM   7218  C   ALA C 105      70.610  83.820 107.616  1.00 64.34           C  

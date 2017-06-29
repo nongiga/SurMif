@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1zlh.pdb
+ATOM   2755  C   CYS B  54      -1.578   4.869  29.888  1.00 14.29           C  
+ATOM   2759  N   LYS B  55      -0.757   5.429  29.011  1.00 14.47           N  
+ATOM   2763  CB  LYS B  55       1.481   6.185  28.333  1.00 15.36           C  

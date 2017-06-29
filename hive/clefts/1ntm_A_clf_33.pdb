@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1ntm.pdb
+ATOM    617  CA  MET A  82      38.995  93.399  74.124  1.00 17.26           C  
+ATOM    618  C   MET A  82      40.127  93.905  75.008  1.00 17.61           C  
+ATOM    799  NZ  LYS A 104      37.649 100.460  71.336  1.00 25.86           N  
+ATOM    807  OD2 ASP A 105      37.327  97.257  75.604  1.00 39.53           O  

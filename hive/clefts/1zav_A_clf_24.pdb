@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1zav.pdb
+ATOM    479  CA  LYS A  58      25.883 -11.721 -23.378  1.00 63.15           C  
+ATOM    487  N   ASN A  59      24.790  -9.556 -23.363  1.00 62.16           N  
+ATOM    494  ND2 ASN A  59      26.409  -6.348 -23.289  1.00 65.13           N  
+ATOM    666  CA  PRO A  81      29.845  -7.274 -21.029  1.00 65.02           C  

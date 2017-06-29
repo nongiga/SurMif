@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1sr4.pdb
+ATOM   2237  CD2 LEU B 141      54.489  26.464  -7.418  1.00 28.39           C  
+ATOM   2398  CD2 LEU B 162      50.764  28.579  -3.005  1.00 16.83           C  
+ATOM   2409  OG1 THR B 164      50.886  31.922  -7.785  1.00 37.64           O  

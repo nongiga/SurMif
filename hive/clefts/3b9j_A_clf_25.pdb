@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/3b9j.pdb
+ATOM    301  CE  LYS A  40     -64.308   6.553  27.558  1.00 20.41           C  
+ATOM    840  C   GLY A 114     -61.678   4.778  22.362  1.00 15.08           C  
+ATOM    843  CA  PHE A 115     -60.868   4.364  24.605  1.00 14.23           C  
+ATOM    848  CD1 PHE A 115     -62.087   2.897  27.237  1.00 15.10           C  

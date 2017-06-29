@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2acz.pdb
+ATOM   6460  CD  GLN C   8      99.886 105.184 120.052  1.00 99.19           C  
+ATOM   6466  O   ARG C   9      99.093 101.300 121.741  1.00 71.65           O  
+ATOM   6485  CB  VAL C  11      95.774  98.427 119.038  1.00 65.28           C  
+ATOM   6487  CG2 VAL C  11      95.541  99.540 120.043  1.00 65.78           C  

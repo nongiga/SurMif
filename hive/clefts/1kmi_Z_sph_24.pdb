@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1kmi.pdb
+ATOM    250  C   SPH Z   1     110.309  50.105  25.439  1.00  1.63 
+ATOM    258  C   SPH Z   1     107.575  48.422  24.916  1.00  2.04 
+ATOM    256  C   SPH Z   1     107.790  48.790  24.456  1.00  1.71 
+ATOM    257  C   SPH Z   1     107.533  48.637  24.202  1.00  1.59 

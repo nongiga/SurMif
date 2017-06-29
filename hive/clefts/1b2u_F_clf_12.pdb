@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1b2u.pdb
+ATOM   4047  CA  GLN F  10      16.451  59.293  68.030  1.00 33.47           C  
+ATOM   4053  OE1 GLN F  10      18.889  61.411  68.723  1.00 39.40           O  
+ATOM   4070  NE  ARG F  12      12.745  63.286  67.706  1.00 41.42           N  

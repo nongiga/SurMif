@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/3ink.pdb
+ATOM    115  CD2 LEU C  19      45.964  42.340  24.160  1.00  0.00           C  
+ATOM    147  SD  MET C  23      40.112  44.356  23.915  1.00  0.00           S  
+ATOM    148  CE  MET C  23      41.017  43.911  25.371  1.00  0.00           C  
+ATOM    613  CD2 HIS C  79      38.493  42.784  21.723  1.00  0.00           C  

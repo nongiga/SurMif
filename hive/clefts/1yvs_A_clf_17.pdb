@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1yvs.pdb
+ATOM    218  CB  GLU A  29     -19.608   1.131  75.646  1.00 21.81           C  
+ATOM    247  CG  LEU A  33     -17.216  -4.152  75.557  1.00 23.72           C  
+ATOM    248  CD1 LEU A  33     -17.389  -4.107  74.033  1.00 22.78           C  

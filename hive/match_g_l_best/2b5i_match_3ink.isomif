@@ -1,0 +1,32 @@
+REMARK command: ./isomif -p1 hive/mif_g_l_best/2b5i.mif -l1 PHE42A -p2 hive/mif_g_l_best/3ink.mif -l2 PHE42D -o hive/match_g_l_best/ -c 2 -l 1
+REMARK commandJob: ./isomif -p1 hive/mif_g_l_best/2b5i.mif -p2 hive/mif_g_l_best/3ink.mif -p1 hive/mif_g_l_best/2b5i.mif -l1 PHE42A -p2 hive/mif_g_l_best/3ink.mif -l2 PHE42D -o hive/match_g_l_best/ -c 2 -l 1
+REMARK mif_file_1: hive/mif_g_l_best/2b5i.mif
+REMARK mif_file_2: hive/mif_g_l_best/3ink.mif
+REMARK nb_of_probes: 6
+REMARK C-alpha_dDist:  3.00
+REMARK pseudocenter_dDist:  1.00
+REMARK dDist:  3.00
+REMARK jtt_threshold: 5
+REMARK max_nodes: 150000
+REMARK commont int : 1
+REMARK wsimfn: 0
+REMARK tag1: 2b5i
+REMARK tag2: 3ink
+REMARK rnc1: PHE42A
+REMARK rnc2: PHE42D
+REMARK ncliques_scored: 1
+REMARK ncliques_explored: 5
+REMARK CLIQUE CG 2 NODES 8 NODESM 8 NODESMW 0.0000 NORMNODES 0.0000 NORMNODESRMSD 0.0000 TANI 0.3333 TANIM 0.1404 TANIMW 0.0000 TANINORM 0.0000 NRG 0.000 SS1 8 SS2 24 SS1M 9 SS2M 56 LIGRMSD 11.774
+0   19.500  -40.500   32.500   29.000   49.000   34.500
+0   20.500  -39.500   33.500   29.000   49.000   32.500
+0   17.500  -41.500   35.500   29.000   50.000   34.500
+0   20.500  -40.500   32.500   31.000   50.000   35.500
+2   17.500  -41.500   34.500   28.000   50.000   32.500
+0   18.500  -39.500   34.500   28.000   50.000   34.500
+0   20.500  -40.500   31.500   31.000   50.000   36.500
+0   20.500  -40.500   30.500   31.000   48.000   37.500
+REMARK ROTMAT     0.9728   -0.1762   -0.1502   -0.1415   -0.9659    0.2168   -0.1833   -0.1897   -0.9646
+REMARK CENTRES   19.3750  -40.5000   33.1250   29.5000   49.5000   34.7500
+REMARK DET 1
+REMARK DETORI 1
+REMARK END

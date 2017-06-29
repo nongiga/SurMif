@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2acz.pdb
+ATOM    245  C   SPH Z   1      78.103 100.627  86.663  1.00  1.51 
+ATOM    248  C   SPH Z   1      77.216 101.488  86.778  1.00  1.54 
+ATOM    247  C   SPH Z   1      78.224 101.371  86.558  1.00  1.61 
+ATOM    246  C   SPH Z   1      77.648 101.070  86.303  1.00  1.59 

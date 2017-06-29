@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2ckh.pdb
+ATOM   2384  CA  GLU B  76      62.503 -15.615  -8.625  1.00144.98           C  
+ATOM   2385  C   GLU B  76      62.455 -17.145  -8.666  1.00144.96           C  
+ATOM   2386  O   GLU B  76      63.491 -17.806  -8.786  1.00145.02           O  
+ATOM   2388  CG  GLU B  76      64.237 -13.719  -8.572  1.00144.93           C  

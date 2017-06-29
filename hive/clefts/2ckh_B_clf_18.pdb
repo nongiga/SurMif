@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/2ckh.pdb
+ATOM   2278  CZ  PHE B  61      63.237 -20.910  -5.237  1.00147.40           C  
+ATOM   2431  CG  ASP B  81      63.140 -23.575  -8.115  1.00143.81           C  
+ATOM   2433  OD2 ASP B  81      63.222 -22.363  -8.417  1.00144.18           O  

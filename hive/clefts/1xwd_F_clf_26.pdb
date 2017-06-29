@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1xwd.pdb
+ATOM   5752  CB  GLN F 117      34.363 -38.408  35.132  1.00 48.37           C  
+ATOM   5753  CG  GLN F 117      34.901 -36.990  35.104  1.00 52.96           C  
+ATOM   5761  CB  ASN F 118      36.935 -42.200  34.567  1.00 41.70           C  
+ATOM   5936  O   LYS F 140      36.801 -38.889  31.303  1.00 38.46           O  

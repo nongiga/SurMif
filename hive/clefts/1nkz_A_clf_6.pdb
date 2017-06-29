@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1nkz.pdb
+ATOM     27  OE1 GLN A   3      25.316  15.637  39.799  1.00 16.91           O  
+ATOM     43  CA  ILE A   6      22.292  11.047  44.118  1.00 18.28           C  
+ATOM     46  CB  ILE A   6      22.387  10.677  42.600  1.00 18.72           C  
+ATOM     49  CD1 ILE A   6      20.384  11.913  41.648  1.00 24.11           C  

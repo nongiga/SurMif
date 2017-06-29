@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2jj1.pdb
+ATOM  22004  CD  ARG G  33      10.712  80.532  -0.698  1.00 80.81           C  
+ATOM  22031  CZ  ARG G  36      14.818  80.836   1.326  1.00 98.03           C  
+ATOM  22032  NH1 ARG G  36      13.558  80.571   1.659  1.00 96.58           N  
+ATOM  22042  OE2 GLU G  37       9.183  85.804   1.938  1.00 94.37           O  

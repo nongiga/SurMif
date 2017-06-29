@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2qqc.pdb
+ATOM   5260  CA  SER J  82      48.972  26.145 -41.591  1.00 31.80           C  
+ATOM   5263  CB  SER J  82      49.227  26.724 -40.199  1.00 32.40           C  
+ATOM   5264  OG  SER J  82      49.515  28.110 -40.285  1.00 35.01           O  
+ATOM   5279  CG2 VAL J  84      48.982  31.698 -41.058  1.00 39.38           C  

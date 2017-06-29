@@ -1,0 +1,92 @@
+2z5c ./mif -p hive/reduce/2z5c.pdb -c F -l 3 LYS35D- PRO37D- TYR61D- -o hive/mif_s5_l/
+1qvo ./mif -p hive/reduce/1qvo.pdb -c A -l 3 LYS68D- GLU58D- ARG65D- -o hive/mif_s5_l/
+1ao7 ./mif -p hive/reduce/1ao7.pdb -c D -l 3 LYS68A- GLU58A- ARG65A- -o hive/mif_s5_l/
+2nvu ./mif -p hive/reduce/2nvu.pdb -c A -l 7 LYS48J- GLN40J- ASN51J- GLY75J- GLY76J- ARG74J- ARG42J- -o hive/mif_s5_l/
+2dyp ./mif -p hive/reduce/2dyp.pdb -c D -l 3 ILE1B- MET99B- LYS6B- -o hive/mif_s5_l/
+1exu ./mif -p hive/reduce/1exu.pdb -c A -l 3 ILE1B- MET99B- LYS6B- -o hive/mif_s5_l/
+1n13 ./mif -p hive/reduce/1n13.pdb -c A -l 8 PRO74B- LEU72B- MET69B- GLY70B- CYS104B- PRO56B- ILE54B- TRP136B- -o hive/mif_s5_l/
+1zv5 ./mif -p hive/reduce/1zv5.pdb -c A -l 8 ALA110L- GLU35L- GLN57L- VAL109L- ASN44L- ARG45L- ASP52L- ARG114L- -o hive/mif_s5_l/
+2j3w ./mif -p hive/reduce/2j3w.pdb -c A -l 3 PHE115E- GLY24E- VAL116E- -o hive/mif_s5_l/
+2avy ./mif -p hive/reduce/2avy.pdb -c C -l 8 LEU95N- MET88N- PRO93N- GLY94N- LYS75N- PHE76N- LYS97N- LYS96N- -o hive/mif_s5_l/
+2qqc ./mif -p hive/reduce/2qqc.pdb -c J -l 8 PRO74H- LEU72H- MET69H- GLY70H- CYS104H- PRO56H- ILE54H- TRP136H- -o hive/mif_s5_l/
+1be3 ./mif -p hive/reduce/1be3.pdb -c K -l 3 ARG16J- SER18J- THR17J- -o hive/mif_s5_l/
+1l2w ./mif -p hive/reduce/1l2w.pdb -c I -l 8 LEU47A- HIS41A- PHE49A- VAL88A- PHE69A- SER70A- ILE68A- GLN71A- -o hive/mif_s5_l/
+2i2u ./mif -p hive/reduce/2i2u.pdb -c J -l 8 LEU95N- MET88N- PRO93N- GLY94N- LYS75N- PHE76N- LYS97N- LYS96N- -o hive/mif_s5_l/
+1ppj ./mif -p hive/reduce/1ppj.pdb -c T -l 3 ALA23S- LYS63S- VAL59S- -o hive/mif_s5_l/
+1fl7 ./mif -p hive/reduce/1fl7.pdb -c B -l 8 TYR88A- TYR89A- LYS45A- ARG42A- MET47A- LYS51A- SER43A- THR86A- -o hive/mif_s5_l/
+1k6z ./mif -p hive/reduce/1k6z.pdb -c A -l 8 LEU47B- HIS41B- PHE49B- VAL88B- PHE69B- SER70B- ILE68B- GLN71B- -o hive/mif_s5_l/
+1ty4 ./mif -p hive/reduce/1ty4.pdb -c C -l 3 ARG154B- SER107B- PRO106B- -o hive/mif_s5_l/
+1hcf ./mif -p hive/reduce/1hcf.pdb -c X -l 8 PHE57A- TYR96A- LEU14A- THR122A- GLU13A- TYR55A- TRP23A- GLY12A- -o hive/mif_s5_l/
+1xwd ./mif -p hive/reduce/1xwd.pdb -c F -l 8 TYR88D- TYR89D- LYS45D- ARG42D- MET47D- LYS51D- SER43D- THR86D- -o hive/mif_s5_l/
+2acz ./mif -p hive/reduce/2acz.pdb -c C -l 3 TYR83D- PHE16D- ASP82D- -o hive/mif_s5_l/
+1c48 ./mif -p hive/reduce/1c48.pdb -c D -l 8 GLN144C- THR146C- ILE145C- SER142C- ARG169C- LEU139C- SER138C- MET148C- -o hive/mif_s5_l/
+1b8m ./mif -p hive/reduce/1b8m.pdb -c A -l 8 PHE57B- TYR96B- LEU14B- THR122B- GLU13B- TYR55B- TRP23B- GLY12B- -o hive/mif_s5_l/
+1nen ./mif -p hive/reduce/1nen.pdb -c B -l 3 TYR83D- PHE16D- ASP82D- -o hive/mif_s5_l/
+2iwt ./mif -p hive/reduce/2iwt.pdb -c A -l 3 CYS148B- GLU168B- TRP147B- -o hive/mif_s5_l/
+1ffv ./mif -p hive/reduce/1ffv.pdb -c D -l 8 ARG123E- TYR124E- VAL731E- MET723E- LEU727E- ASP128E- THR729E- ASP297E- -o hive/mif_s5_l/
+1dm0 ./mif -p hive/reduce/1dm0.pdb -c A -l 8 GLN144B- THR146B- ILE145B- SER142B- ARG169B- LEU139B- SER138B- MET148B- -o hive/mif_s5_l/
+1ava ./mif -p hive/reduce/1ava.pdb -c A -l 3 CYS148C- GLU168C- TRP147C- -o hive/mif_s5_l/
+2gvz ./mif -p hive/reduce/2gvz.pdb -c A -l 3 LYS906B- ARG913B- GLU917B- -o hive/mif_s5_l/
+1f93 ./mif -p hive/reduce/1f93.pdb -c E -l 9 LEU55A- LYS59A- THR51A- ASN44A- ARG45A- ARG52A- ALA54A- GLY48A- GLU58A- -o hive/mif_s5_l/
+1ffu ./mif -p hive/reduce/1ffu.pdb -c C -l 8 ARG123B- TYR124B- VAL731B- MET723B- LEU727B- ASP128B- THR729B- ASP297B- -o hive/mif_s5_l/
+1azs ./mif -p hive/reduce/1azs.pdb -c C -l 3 LYS906B- ARG913B- GLU917B- -o hive/mif_s5_l/
+1fiq ./mif -p hive/reduce/1fiq.pdb -c C -l 3 SER1225B- ARG680B- ASP828B- -o hive/mif_s5_l/
+1tqe ./mif -p hive/reduce/1tqe.pdb -c Q -l 9 MET62P- LEU66P- LEU54P- TYR72P- GLN56P- TYR69P- SER78P- PRO75P- GLU74P- -o hive/mif_s5_l/
+1dcp ./mif -p hive/reduce/1dcp.pdb -c C -l 9 LEU55A- LYS59A- THR51A- ASN44A- ARG45A- ARG52A- ALA54A- GLY48A- GLU58A- -o hive/mif_s5_l/
+3b9j ./mif -p hive/reduce/3b9j.pdb -c A -l 3 SER1225B- ARG680B- ASP828B- -o hive/mif_s5_l/
+2ot8 ./mif -p hive/reduce/2ot8.pdb -c C -l 3 TRP373A- LYS377A- ASP639A- -o hive/mif_s5_l/
+1cow ./mif -p hive/reduce/1cow.pdb -c D -l 9 PRO289A- ALA293A- ARG291A- ARG286A- PHE403A- GLU355A- PHE406A- SER408A- GLU292A- -o hive/mif_s5_l/
+2jj1 ./mif -p hive/reduce/2jj1.pdb -c G -l 9 PRO289B- ALA293B- ARG291B- ARG286B- PHE403B- GLU355B- PHE406B- SER408B- GLU292B- -o hive/mif_s5_l/
+1qbk ./mif -p hive/reduce/1qbk.pdb -c C -l 3 TRP373B- LYS377B- ASP639B- -o hive/mif_s5_l/
+2bsq ./mif -p hive/reduce/2bsq.pdb -c A -l 4 GLU11H- ALA16H- GLN43H- PHE19H- -o hive/mif_s5_l/
+1pcz ./mif -p hive/reduce/1pcz.pdb -c A -l 10 PRO135B- VAL119B- SER152B- GLN133B- GLU132B- ASP118B- LEU122B- ASN116B- ILE138B- PRO131B- -o hive/mif_s5_l/
+1ais ./mif -p hive/reduce/1ais.pdb -c B -l 10 PRO135A- VAL119A- SER152A- GLN133A- GLU132A- ASP118A- LEU122A- ASN116A- ILE138A- PRO131A- -o hive/mif_s5_l/
+2h1o ./mif -p hive/reduce/2h1o.pdb -c E -l 4 GLU11H- ALA16H- GLN43H- PHE19H- -o hive/mif_s5_l/
+1p3g ./mif -p hive/reduce/1p3g.pdb -c B -l 4 THR101G- VAL107G- LEU115G- ALA103G- -o hive/mif_s5_l/
+2dqn ./mif -p hive/reduce/2dqn.pdb -c B -l 10 ARG347A- TYR343A- THR363A- SER238A- ARG328A- TYR329A- THR239A- PHE99A- ILE102A- LEU339A- -o hive/mif_s5_l/
+2df4 ./mif -p hive/reduce/2df4.pdb -c C -l 10 ARG347A- TYR343A- THR363A- SER238A- ARG328A- TYR329A- THR239A- PHE99A- ILE102A- LEU339A- -o hive/mif_s5_l/
+3b6f ./mif -p hive/reduce/3b6f.pdb -c A -l 4 THR101G- VAL107G- LEU115G- ALA103G- -o hive/mif_s5_l/
+1nkz ./mif -p hive/reduce/1nkz.pdb -c A -l 4 TRP40C- VAL9C- GLN46C- ALA13C- -o hive/mif_s5_l/
+2b5i ./mif -p hive/reduce/2b5i.pdb -c D -l 10 PHE42A- PRO65A- LEU72A- TYR107A- TYR45A- LYS43A- GLU68A- LYS64A- GLU61A- GLU62A- -o hive/mif_s5_l/
+3ink ./mif -p hive/reduce/3ink.pdb -c C -l 10 PHE42D- PRO65D- LEU72D- TYR107D- TYR45D- LYS43D- GLU68D- LYS64D- GLU61D- GLU62D- -o hive/mif_s5_l/
+1m93 ./mif -p hive/reduce/1m93.pdb -c A -l 4 LEU214B- ASP216B- ILE284B- GLU211B- -o hive/mif_s5_l/
+1xox ./mif -p hive/reduce/1xox.pdb -c A -l 11 LEU96B- LEU102B- LEU98B- PHE101B- TRP10B- LEU6B- PHE93B- GLU95B- GLU94B- THR97B- GLY99B- -o hive/mif_s5_l/
+2qfa ./mif -p hive/reduce/2qfa.pdb -c B -l 11 LEU96A- LEU102A- LEU98A- PHE101A- TRP10A- LEU6A- PHE93A- GLU95A- GLU94A- THR97A- GLY99A- -o hive/mif_s5_l/
+2dsq ./mif -p hive/reduce/2dsq.pdb -c G -l 5 CYS32B- CYS6B- TYR49B- ILE4B- HIS5B- -o hive/mif_s5_l/
+1u3a ./mif -p hive/reduce/1u3a.pdb -c B -l 11 GLN164E- VAL150E- ALA31E- MET64E- THR168E- HIS32E- GLY149E- GLN35E- PRO151E- CYS30E- ARG148E- -o hive/mif_s5_l/
+2hi7 ./mif -p hive/reduce/2hi7.pdb -c B -l 11 GLN164A- VAL150A- ALA31A- MET64A- THR168A- HIS32A- GLY149A- GLN35A- PRO151A- CYS30A- ARG148A- -o hive/mif_s5_l/
+2e76 ./mif -p hive/reduce/2e76.pdb -c G -l 5 ALA9F- SER13F- MET6F- ALA10F- PHE14F- -o hive/mif_s5_l/
+2d2c ./mif -p hive/reduce/2d2c.pdb -c E -l 5 ALA9F- SER13F- MET6F- ALA10F- PHE14F- -o hive/mif_s5_l/
+1bk5 ./mif -p hive/reduce/1bk5.pdb -c B -l 12 TYR498A- ARG321A- TYR502A- TRP279A- ASP495A- GLU493A- GLN490A- GLN491A- GLY245A- LYS246A- ARG244A- ASN492A- -o hive/mif_s5_l/
+2c1t ./mif -p hive/reduce/2c1t.pdb -c D -l 12 TYR498B- ARG321B- TYR502B- TRP279B- ASP495B- GLU493B- GLN490B- GLN491B- GLY245B- LYS246B- ARG244B- ASN492B- -o hive/mif_s5_l/
+1ytf ./mif -p hive/reduce/1ytf.pdb -c A -l 5 TRP76D- ASP67D- LEU66D- TYR69D- PHE71D- -o hive/mif_s5_l/
+1suy ./mif -p hive/reduce/1suy.pdb -c C -l 12 LEU82A- LEU57A- ASP90A- LEU88A- ILE89A- SER52A- GLU97A- ASP50A- ARG100A- ARG85A- ALA93A- VAL53A- -o hive/mif_s5_l/
+1q6b ./mif -p hive/reduce/1q6b.pdb -c A -l 12 LEU82B- LEU57B- ASP90B- LEU88B- ILE89B- SER52B- GLU97B- ASP50B- ARG100B- ARG85B- ALA93B- VAL53B- -o hive/mif_s5_l/
+2iy0 ./mif -p hive/reduce/2iy0.pdb -c C -l 5 GLN596A- HIS533A- TRP465A- GLY599A- MET552A- -o hive/mif_s5_l/
+1zlh ./mif -p hive/reduce/1zlh.pdb -c B -l 12 SER197A- THR164A- ARG127A- TYR248A- HIS69A- ARG71A- ARG145A- HIS196A- LEU125A- TYR198A- PHE279A- GLU72A- -o hive/mif_s5_l/
+4cpa ./mif -p hive/reduce/4cpa.pdb -c J -l 12 SER197B- THR164B- ARG127B- TYR248B- HIS69B- ARG71B- ARG145B- HIS196B- LEU125B- TYR198B- PHE279B- GLU72B- -o hive/mif_s5_l/
+1l1o ./mif -p hive/reduce/1l1o.pdb -c C -l 5 ASP95A- ILE105A- GLU101A- LEU98A- PHE109A- -o hive/mif_s5_l/
+1sr4 ./mif -p hive/reduce/1sr4.pdb -c B -l 12 THR164A- PRO163A- LEU212A- VAL222A- ALA213A- ASP165A- PRO214A- ALA221A- SER166A- ASN223A- SER75A- GLY167A- -o hive/mif_s5_l/
+2f2f ./mif -p hive/reduce/2f2f.pdb -c C -l 12 THR164A- PRO163A- LEU212A- VAL222A- ALA213A- ASP165A- PRO214A- ALA221A- SER166A- ASN223A- SER75A- GLY167A- -o hive/mif_s5_l/
+1v55 ./mif -p hive/reduce/1v55.pdb -c N -l 6 TRP19Y- LEU44Y- LYS18Y- PHE33Y- LEU22Y- PHE37Y- -o hive/mif_s5_l/
+1rrp ./mif -p hive/reduce/1rrp.pdb -c D -l 6 ILE169C- LEU168C- LYS38C- GLY57C- PHE11C- ARG56C- -o hive/mif_s5_l/
+1po1 ./mif -p hive/reduce/1po1.pdb -c 4 -l 13 VAL561- LEU551- PRO2711- ARG1291- THR521- THR451- ARG2671- ALA461- SER1951- SER711- TYR1981- PRO1971- SER761- -o hive/mif_s5_l/
+1ar6 ./mif -p hive/reduce/1ar6.pdb -c 3 -l 13 VAL561- LEU551- PRO2711- ARG1291- THR521- THR451- ARG2671- ALA461- SER1951- SER711- TYR1981- PRO1971- SER761- -o hive/mif_s5_l/
+2qqk ./mif -p hive/reduce/2qqk.pdb -c H -l 6 TYR94L- TYR92L- TYR49L- ASN53L- SER91L- PHE96L- -o hive/mif_s5_l/
+2dyr ./mif -p hive/reduce/2dyr.pdb -c M -l 6 TRP19L- LEU44L- LYS18L- PHE33L- LEU22L- PHE37L- -o hive/mif_s5_l/
+1zaw ./mif -p hive/reduce/1zaw.pdb -c X -l 14 LEU21U- LYS28U- LEU18U- GLY30U- GLU11U- ILE10U- GLU17U- VAL15U- THR14U- LEU25U- SER16U- GLU20U- PHE29U- LEU13U- -o hive/mif_s5_l/
+1zav ./mif -p hive/reduce/1zav.pdb -c A -l 14 LEU21U- LYS28U- LEU18U- GLY30U- GLU11U- ILE10U- GLU17U- VAL15U- THR14U- LEU25U- SER16U- GLU20U- PHE29U- LEU13U- -o hive/mif_s5_l/
+1qcb ./mif -p hive/reduce/1qcb.pdb -c H -l 6 MET76D- MET69D- ALA70D- LYS66D- ALA98D- LEU73D- -o hive/mif_s5_l/
+2hfg ./mif -p hive/reduce/2hfg.pdb -c R -l 6 TYR94L- TYR92L- TYR49L- ASN53L- SER91L- PHE96L- -o hive/mif_s5_l/
+1nez ./mif -p hive/reduce/1nez.pdb -c G -l 18 VAL115H- PHE52H- VAL109H- GLN41H- THR64H- SER113H- SER114H- TYR55H- MET110H- GLN49H- ASN107H- PHE112H- PRO48H- SER108H- ILE105H- PRO50H- PHE101H- LEU39H- -o hive/mif_s5_l/
+2atp ./mif -p hive/reduce/2atp.pdb -c B -l 18 VAL115A- PHE52A- VAL109A- GLN41A- THR64A- SER113A- SER114A- TYR55A- MET110A- GLN49A- ASN107A- PHE112A- PRO48A- SER108A- ILE105A- PRO50A- PHE101A- LEU39A- -o hive/mif_s5_l/
+3b6f ./mif -p hive/reduce/3b6f.pdb -c D -l 7 TYR72B- TYR98B- THR71B- THR96B- HIS75B- ARG92B- GLY99B- -o hive/mif_s5_l/
+1tii ./mif -p hive/reduce/1tii.pdb -c C -l 6 MET76G- MET69G- ALA70G- LYS66G- ALA98G- LEU73G- -o hive/mif_s5_l/
+1aig ./mif -p hive/reduce/1aig.pdb -c H -l 20 TYR9L- ASP210L- PHE5L- ARG10L- GLY112L- MET206L- LYS204L- ASN199L- ALA1L- ALA198L- THR208L- TRP25L- LEU2L- LEU3L- ASP213L- LYS110L- PRO209L- LYS8L- THR226L- LEU111L- -o hive/mif_s5_l/
+2hg3 ./mif -p hive/reduce/2hg3.pdb -c M -l 20 TYR9L- ASP210L- PHE5L- ARG10L- GLY112L- MET206L- LYS204L- ASN199L- ALA1L- ALA198L- THR208L- TRP25L- LEU2L- LEU3L- ASP213L- LYS110L- PRO209L- LYS8L- THR226L- LEU111L- -o hive/mif_s5_l/
+1kmi ./mif -p hive/reduce/1kmi.pdb -c Z -l 7 PRO110Y- ILE20Y- ALA113Y- THR16Y- LEU24Y- ASN23Y- PHE14Y- -o hive/mif_s5_l/
+2hue ./mif -p hive/reduce/2hue.pdb -c A -l 7 TYR72C- TYR98C- THR71C- THR96C- HIS75C- ARG92C- GLY99C- -o hive/mif_s5_l/
+1r0r ./mif -p hive/reduce/1r0r.pdb -c I -l 23 PHE189E- ASN155E- ALA152E- GLY100E- GLY102E- GLY128E- GLY127E- TYR104E- TYR209E- THR33E- GLY219E- SER99E- THR220E- SER101E- SER125E- LEU126E- ASN218E- ILE107E- UNK221E- LEU96E- LEU217E- GLY154E- HIS64E- -o hive/mif_s5_l/
+1cse ./mif -p hive/reduce/1cse.pdb -c I -l 23 PHE189E- ASN155E- ALA152E- GLY100E- GLY102E- GLY128E- GLY127E- TYR104E- TYR209E- THR33E- GLY219E- SER99E- THR220E- SER101E- SER125E- LEU126E- ASN218E- ILE107E- UNK221E- LEU96E- LEU217E- GLY154E- HIS64E- -o hive/mif_s5_l/
+1th1 ./mif -p hive/reduce/1th1.pdb -c C -l 28 SER425A- ASN430A- ARG474A- ASN387A- SER473A- HIS470A- VAL349A- CYS429A- ILE296A- LYS345A- ASP390A- ASP299A- TYR306A- PHE293A- ASN516A- VAL346A- PHE253A- ASN426A- HIS219A- LYS435A- ARG386A- ASN261A- TRP338A- LYS312A- ARG469A- THR257A- GLY307A- LYS292A- -o hive/mif_s5_l/
+2gl7 ./mif -p hive/reduce/2gl7.pdb -c B -l 28 SER425A- ASN430A- ARG474A- ASN387A- SER473A- HIS470A- VAL349A- CYS429A- ILE296A- LYS345A- ASP390A- ASP299A- TYR306A- PHE293A- ASN516A- VAL346A- PHE253A- ASN426A- HIS219A- LYS435A- ARG386A- ASN261A- TRP338A- LYS312A- ARG469A- THR257A- GLY307A- LYS292A- -o hive/mif_s5_l/

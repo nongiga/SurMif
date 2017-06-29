@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1hcf.pdb
+ATOM   1874  N   LEU X 292     -11.242   3.600   7.012  1.00 35.41           N  
+ATOM   1877  O   LEU X 292      -9.885   1.081   7.314  1.00 38.11           O  
+ATOM   1878  CB  LEU X 292     -12.266   2.109   8.669  1.00 32.65           C  
+ATOM   2524  CG  LYS X 372     -15.581   0.030   6.379  1.00 39.92           C  

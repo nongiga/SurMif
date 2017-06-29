@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1ava.pdb
+ATOM    252  CA  ALA A  30      34.067  35.739 125.354  1.00 10.40           C  
+ATOM    254  O   ALA A  30      31.811  36.489 125.098  1.00 16.09           O  
+ATOM    273  O   ILE A  34      34.255  39.394 122.256  1.00 15.01           O  
+ATOM    639  CG1 VAL A  82      36.326  36.047 121.509  1.00 14.06           C  

@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1gpq.pdb
+ATOM    167  CB  GLN A  24     -15.390  23.657  28.855  1.00 16.72           C  
+ATOM    168  CG  GLN A  24     -16.547  22.717  28.509  1.00 20.77           C  
+ATOM    171  NE2 GLN A  24     -16.823  22.413  30.891  1.00 23.08           N  

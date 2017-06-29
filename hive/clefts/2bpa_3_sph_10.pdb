@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2bpa.pdb
+ATOM    178  C   SPH Z   1      37.732 -13.064  93.816  1.00  1.73 
+ATOM    181  C   SPH Z   1      39.035 -10.622  94.990  1.00  1.53 
+ATOM    180  C   SPH Z   1      37.524 -12.925  93.526  1.00  1.76 
+ATOM    179  C   SPH Z   1      37.867 -13.604  93.418  1.00  1.61 

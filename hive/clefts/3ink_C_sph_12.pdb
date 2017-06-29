@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/3ink.pdb
+ATOM     17  C   SPH Z   1      40.555  41.399  28.382  1.00  1.61 
+ATOM     19  C   SPH Z   1      40.334  40.755  28.267  1.00  1.74 
+ATOM     18  C   SPH Z   1      42.632  41.773  28.256  1.00  1.52 
+ATOM     27  C   SPH Z   1      44.445  41.018  27.715  1.00  1.73 
+ATOM     24  C   SPH Z   1      44.227  41.630  27.863  1.00  1.53 

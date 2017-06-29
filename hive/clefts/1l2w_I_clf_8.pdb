@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1l2w.pdb
+ATOM   7562  CA  SER I  22     -11.772 -23.576  17.121  1.00 59.22           C  
+ATOM   7580  C   GLU I  25      -9.778 -17.960  15.359  1.00 48.15           C  
+ATOM   7582  CB  GLU I  25      -9.812 -19.101  17.560  1.00 54.47           C  

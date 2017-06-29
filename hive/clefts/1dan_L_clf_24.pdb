@@ -1,0 +1,3 @@
+#REMARK  PARENTFILE  set_pdb/1dan.pdb
+ATOM    747  CD1 ILE L  90      28.130  36.203  37.419  1.00 28.91           C  
+ATOM    759  CG1 VAL L  92      28.546  33.409  35.437  1.00 27.04           C  

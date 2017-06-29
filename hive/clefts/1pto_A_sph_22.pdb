@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1pto.pdb
+ATOM    265  C   SPH Z   1       5.247  35.071 -45.063  1.00  1.54 
+ATOM    629  C   SPH Z   1       5.145  35.243 -45.173  1.00  1.50 
+ATOM    628  C   SPH Z   1       5.458  35.220 -44.848  1.00  1.64 
+ATOM    266  C   SPH Z   1       5.453  34.996 -45.212  1.00  1.54 

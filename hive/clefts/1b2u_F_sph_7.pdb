@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1b2u.pdb
+ATOM     54  C   SPH Z   1       8.971  50.780  56.074  1.00  1.60 
+ATOM     98  C   SPH Z   1       8.833  51.019  55.529  1.00  1.67 
+ATOM     97  C   SPH Z   1       8.093  50.569  56.516  1.00  1.63 
+ATOM     55  C   SPH Z   1       8.252  50.584  56.222  1.00  1.57 

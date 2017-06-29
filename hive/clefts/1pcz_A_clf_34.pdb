@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1pcz.pdb
+ATOM    403  OD1 ASP A  52      52.010  53.979 107.095  1.00 77.86           O  
+ATOM    593  CD  ARG A  78      56.635  53.306 106.492  1.00 41.38           C  
+ATOM    594  NE  ARG A  78      56.952  54.751 106.523  1.00 44.65           N  

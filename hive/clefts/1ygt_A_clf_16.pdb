@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1ygt.pdb
+ATOM    194  CB  GLN A  33      27.980  27.896  12.037  1.00 32.20           C  
+ATOM    213  CB  ASP A  35      31.511  23.904   8.916  1.00 41.99           C  
+ATOM    225  NZ  LYS A  36      32.005  23.334  12.959  1.00 44.28           N  

@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2avy.pdb
+ATOM  33125  CA  LYS C  37     151.601  31.208   1.688  1.00 67.11           C  
+ATOM  33126  C   LYS C  37     151.363  31.519   3.161  1.00 67.11           C  
+ATOM  33127  O   LYS C  37     150.850  30.685   3.908  1.00 67.11           O  
+ATOM  33128  CB  LYS C  37     153.099  31.018   1.441  1.00 67.11           C  

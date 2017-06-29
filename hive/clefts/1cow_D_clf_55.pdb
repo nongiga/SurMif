@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1cow.pdb
+ATOM  14103  O   GLU D 398      71.062  65.003  64.740  1.00 96.50           O  
+ATOM  14104  CB  GLU D 398      68.308  66.176  65.810  1.00 95.47           C  
+ATOM  14139  CB  LEU D 402      72.396  62.099  63.806  1.00 82.02           C  

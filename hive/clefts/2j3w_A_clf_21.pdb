@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/2j3w.pdb
+ATOM   1061  C   ARG A 128      88.651  22.714   5.300  1.00 31.71           C  
+ATOM   1062  O   ARG A 128      88.831  23.532   6.201  1.00 29.54           O  
+ATOM   1063  CB  ARG A 128      87.191  23.259   3.366  1.00 35.83           C  
+ATOM   1099  CB  PHE A 132      88.318  24.083   9.821  1.00 31.77           C  

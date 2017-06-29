@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1l1o.pdb
+ATOM   3191  CB  ARG C 604       8.980  19.322  32.337  1.00 46.02           C  
+ATOM   3192  CG  ARG C 604       7.706  18.604  32.431  1.00 49.76           C  
+ATOM   3229  CG  MET C 608      10.436  24.788  30.603  1.00 28.73           C  
+ATOM   3230  SD  MET C 608       9.250  25.539  29.476  1.00 23.37           S  

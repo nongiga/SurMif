@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/1b2u.pdb
+ATOM   4566  CA  GLN F  73       8.756  42.093  61.315  1.00 30.04           C  
+ATOM   4568  O   GLN F  73       9.743  40.253  60.127  1.00 29.71           O  
+ATOM   4569  CB  GLN F  73       7.400  42.505  60.746  1.00 34.73           C  
+ATOM   4570  CG  GLN F  73       6.340  42.561  61.842  1.00 41.38           C  
+ATOM   4601  NH1 ARG F  76       7.823  38.468  66.517  1.00 29.84           N  

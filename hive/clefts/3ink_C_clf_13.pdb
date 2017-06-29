@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/3ink.pdb
+ATOM    301  CD1 PHE C  42      33.746  65.686  30.709  1.00  0.00           C  
+ATOM    495  CA  PRO C  65      35.879  59.897  35.703  1.00  0.00           C  
+ATOM    498  CB  PRO C  65      37.057  60.817  35.981  1.00  0.00           C  

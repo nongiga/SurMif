@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1azs.pdb
+ATOM   3473  C   GLU C 123      21.023  37.700  16.733  1.00 64.35           C  
+ATOM   3474  O   GLU C 123      21.574  37.988  17.799  1.00 65.20           O  
+ATOM   3515  NE  ARG C 127      17.683  35.939  20.178  1.00 58.07           N  

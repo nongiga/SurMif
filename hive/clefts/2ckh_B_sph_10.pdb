@@ -1,0 +1,6 @@
+#REMARK  PARENTFILE  set_pdb/2ckh.pdb
+ATOM      9  C   SPH Z   1      59.702 -29.435   5.127  1.00  1.54 
+ATOM     24  C   SPH Z   1      60.342 -29.874   4.996  1.00  1.73 
+ATOM     20  C   SPH Z   1      60.486 -30.049   4.415  1.00  1.83 
+ATOM     15  C   SPH Z   1      60.227 -30.325   4.385  1.00  1.60 
+ATOM     14  C   SPH Z   1      60.207 -29.703   4.446  1.00  1.62 

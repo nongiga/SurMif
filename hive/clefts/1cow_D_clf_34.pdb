@@ -1,0 +1,5 @@
+#REMARK  PARENTFILE  set_pdb/1cow.pdb
+ATOM  11769  CG  PRO D  88     118.477  28.491  46.807  1.00 44.62           C  
+ATOM  11947  CE  LYS D 111     122.993  26.585  43.369  1.00 99.99           C  
+ATOM  12919  OH  TYR D 242     119.976  31.832  44.274  1.00 65.82           O  
+ATOM  12967  OE2 GLU D 247     117.384  30.960  44.666  1.00 72.30           O  

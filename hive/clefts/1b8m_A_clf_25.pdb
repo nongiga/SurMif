@@ -1,0 +1,4 @@
+#REMARK  PARENTFILE  set_pdb/1b8m.pdb
+ATOM    492  CA  LYS A  73      11.570   1.182  29.218  1.00 27.66           C  
+ATOM    494  O   LYS A  73      11.480  -1.166  28.705  1.00 27.66           O  
+ATOM    495  CB  LYS A  73      13.026   1.374  29.635  1.00 50.97           C  
