@@ -35,11 +35,9 @@ int main(int argc, char **argv)
   if(pairwiseF.compare("")!=0){ //Si un fichier contenant des paires protéine - cavité (getcleft) est défini
     getPairwise(); //on store les paires dans le vecteur px
 
-  }
-  else{ //S'il n'y a pas de fichier défini avec -pp
+  }else{ //S'il n'y a pas de fichier défini avec -pp
     pwRun npw;
     npw.pdbF= proteinFile;
-    npw.vcF=vcF;
     npw.cleftF= cleftFile;
     npw.rnc= resnumc;
     npw.ligF= ligFile;
@@ -57,7 +55,7 @@ int main(int argc, char **argv)
 
 
   //Do all the Mif calculations run for all pairs (one or more depending on -pp)
-  //On run refers to one protein PDB file and one cavity file, but we could adapt it to surface mode
+  //On run refers to one protein PDB file and on cavity file, but we could adapt it to surface mode
   for(int pwr=0; pwr<pw.size(); pwr++){
 
     //Set initial values of this pair run
@@ -65,7 +63,6 @@ int main(int argc, char **argv)
     cleftFile=pw[pwr].cleftF;
     resnumc=pw[pwr].rnc;
     ligFile=pw[pwr].ligF;
-    vcF=pw[pwr].vcF;
 
     //Get prefix if tag is empty (tag is the -t argument that defines an output filename base)
     if(tag.compare("")==0){
@@ -85,26 +82,26 @@ int main(int argc, char **argv)
     Protein protein=Protein(proteinFile);
 
     //Build the grid vertices
-    Grid grid=Grid(vcF, cleftFile,protein);
+    Grid grid=Grid(cleftFile,protein);
 
     //Calculate the MIFs at the vertices built
     getMif(grid.GRID,protein.PROTEIN,grid.vrtxIdList);
 
     //Create output files containing mif information (nrg of the probes, etc) in different format than the .mif file
-    getStats(grid.GRID,protein.LIGATOMS,grid.vrtxIdList);
+    // getStats(grid.GRID,protein.LIGATOMS,grid.vrtxIdList);
 
     //A function that finds the closest distance to each of the 20 amino acids at each vertex and stores this distance
     //These like other descriptors can be used in the graph matching (Env is for environment)
-    getEnv(grid.GRID,protein.PROTEIN,grid.vrtxIdList);
+    // getEnv(grid.GRID,protein.PROTEIN,grid.vrtxIdList);
 
     //Smooth is a function that looks if the potential of surrounding probes is passed the threshold and assigns this probe to the reference vrtx.
     //There is a smooth distance
-    if(smoothDist!=0) grid.smooth();
+    // if(smoothDist!=0) grid.smooth();
 
     //This function creates a vector of pseudocenters (defined in reference file).
     //A pseudocenter is a functional atom of the residues that could be important for certain interactions
     //The pseudocenters can be used in a first search step of the similarity algorithm
-    getPseudo(grid.GRID,protein.PROTEIN,grid.vrtxIdList);
+    //getPseudo(grid.GRID,protein.PROTEIN,grid.vrtxIdList);
 
     //Write the MIF and other information in the .mif output file
     grid.writeMif(protein.PROTEIN,protein.LIGATOMS);
@@ -161,7 +158,6 @@ int readCmdLine(int argc, char **argv){
   usage << "-ff                  : \t force field to use\n";
   usage << "-mat                 : \t epsilon matrix to use\n";
   usage << "-pb                  : \t probes threshold file to use\n";
-  usage << "-vc                  : \t Vcontact file to get surface of the protein, followed by the chain ID (according to pdb) of the surface to interact with\n";
   usage << "-a                   : \t angle threshold\n";
   usage << "-t                   : \t filename (tag) [pdb name by default]\n";
   usage << "-lf                  : \t ligand file with atom types\n";
@@ -187,18 +183,33 @@ int readCmdLine(int argc, char **argv){
       cout<< usage.str() << endl;
       return(24);
     }
-    if(strcmp(argv[nb_arg],"-p")==0)  proteinFile=string(argv[nb_arg+1]);
-    if(strcmp(argv[nb_arg],"-g")==0)  cleftFile=string(argv[nb_arg+1]);
-    if(strcmp(argv[nb_arg],"-x")==0)  printAtoms=0;
-    if(strcmp(argv[nb_arg],"-o")==0)  outBase=string(argv[nb_arg+1]);
-    if(strcmp(argv[nb_arg],"-ff")==0) ff=string(argv[nb_arg+1]);
-    if(strcmp(argv[nb_arg],"-sf")==0)  statsF=string(argv[nb_arg+1]);
-    if(strcmp(argv[nb_arg],"-c")==0)  chain=string(argv[nb_arg+1]);
+    if(strcmp(argv[nb_arg],"-p")==0){
+      proteinFile=string(argv[nb_arg+1]);
+    }
+    if(strcmp(argv[nb_arg],"-g")==0){
+      cleftFile=string(argv[nb_arg+1]);
+    }
+    if(strcmp(argv[nb_arg],"-x")==0){
+      printAtoms=0;
+    }
+    if(strcmp(argv[nb_arg],"-o")==0){
+      outBase=string(argv[nb_arg+1]);
+    }
+    if(strcmp(argv[nb_arg],"-ff")==0){
+      ff=string(argv[nb_arg+1]);
+    }
+    if(strcmp(argv[nb_arg],"-sf")==0){
+      statsF=string(argv[nb_arg+1]);
+    }
+    if(strcmp(argv[nb_arg],"-c")==0){
+      chain=string(argv[nb_arg+1]);
+    }
     if(strcmp(argv[nb_arg],"-l")==0){
       if(sscanf(argv[nb_arg+1],"%d", &nbResnumc) !=0){
-        nb_arg++;
+        argv[nb_arg++];
         for(int h=0; h<nbResnumc; h++){
-          resnumcList[h] = argv[++nb_arg];
+          argv[nb_arg++];
+          resnumcList[h] = argv[nb_arg];
           }
         }
         else 
@@ -257,11 +268,11 @@ int readCmdLine(int argc, char **argv){
     if(strcmp(argv[nb_arg],"-pr")==0){
       printDetails=1;
     }
-    if(strcmp(argv[nb_arg],"-t")==0)  tag=string(argv[nb_arg+1]);
-    if(strcmp(argv[nb_arg],"-pp")==0)  pairwiseF=argv[nb_arg+1];
-    if (strcmp(argv[nb_arg],"-vc")==0) {
-      vcF=string(argv[++nb_arg]);
-      vcC=string(argv[nb_arg+1]);
+    if(strcmp(argv[nb_arg],"-t")==0){
+      tag=string(argv[nb_arg+1]);
+    }
+    if(strcmp(argv[nb_arg],"-pp")==0){
+      pairwiseF=argv[nb_arg+1];
     }
   }
   if(chain.compare("")==0){
@@ -326,7 +337,6 @@ Protein::Protein(string filename){
 }
 
 void Protein::readPDB(string filename){
-
   ifstream ifs;
   ofstream ofs;
   string line;
@@ -336,6 +346,7 @@ void Protein::readPDB(string filename){
   float x,y,z;
   int atomnb;
   int resnb;
+  atom* atm=NULL;
   string outFileName=outBase + tag + "_cpy.pdb";
   size_t found;
   float minx,miny,minz,maxx,maxy,maxz;
@@ -351,6 +362,7 @@ void Protein::readPDB(string filename){
   ifs.open(filename.c_str());
   if(!ifs.is_open()){ cout << "could not read "<< filename << endl; }
   while(ifs.good()){
+;
 
     getline(ifs,line);
 
@@ -532,6 +544,7 @@ int Protein::getRefAtom(float& xr, float& yr, float& zr, string tresn, int tresn
   int foundr2=0;
   float xr1,yr1,zr1,xr2,yr2,zr2;
   float ax,ay,az,bx,by,bz;
+  float dist,rDist,rpDist,angle;
 
   if(ring==0){ //This atom is not part of a ring
     for(i=0; i<PROTEIN.size(); i++){
@@ -609,26 +622,23 @@ int Protein::getRefAtom(float& xr, float& yr, float& zr, string tresn, int tresn
   return(found);
 }
 
-Grid::Grid(string vcfile,string cleftfile, Protein& prot){
+Grid::Grid(string filename, Protein& prot){
   vrtx050=0;
   vrtx100=0;
   vrtx150=0;
   vrtx200=0;
 
-  if(cleftfile.compare("")){
-    //Create grid using the getcleft spheres
-    readGetCleft(cleftfile, prot.PROTEIN, prot.LIGAND);
-    //If we want to filter for burriedness we must find the protein vertices (vrtx.p==1)    
-  }
-  else if (vcfile.compare("")){
-    //create grid using vcontact file
-    readVContact(vcfile, prot.PROTEIN, prot.LIGAND);
-  }
-  else{
-
+  if(filename.compare("")==0){
     //Build the grid everywhere around the protein and classify them as protein vertices (p=1) or probe vertices (p=0)
     buildGrid(prot);
 
+    
+  }else{
+
+    //Create grid using the getcleft spheres
+    readGetCleft(filename, prot.PROTEIN, prot.LIGAND);
+    
+    //If we want to filter for burriedness we must find the protein vertices (vrtx.p==1)
   }
   //Calculate burriedness of each vertex (value of 0 to 14), 0 being completely solvent exposed and 14 completely burried
   getBuriedness();
@@ -639,73 +649,44 @@ Grid::~Grid(void){
 }
 
 int Grid::generateID(int w, int h, int x, int y, int z){
-  return(z * (w * h) + y * w + x);
+  int id;
+  id=z * (w * h) + y * w + x;
+  return(id);
 }
-
-int atom::generateID(){
-  gid= ((int)((z-min_z)/gridStep)+1) * width * height + ((int)((y-min_y)/gridStep)+1) * width + (int)((x-min_x)/gridStep)+1;
-  return(gid);
-}
-
 
 int Grid::buildGrid(Protein& prot){ //Building the grid using the whole protein
   int i=0;
-
-  prot.generateIDs();
+  int pggrid2=0;
 
   cout<< "Building Grid..."<<endl;
 
   //Go through our min/max X,Y and Z intervals to build the mother GRID
   map<int,vertex>::iterator it;
   int id;
-  float d, db;
   for(float x=min_x; x<=max_x; x+=stepsize){
     for(float y=min_y; y<=max_y; y+=stepsize){
       for(float z=min_z; z<=max_z; z+=stepsize){
-        // float minDistB=10000.0;
-        // int pg=0;
-        // for (float xb=x-maxGridDist;xb<=x+maxGridDist;xb+=gridStep){
-        //   for (float yb=x-maxGridDist;yb<=x+maxGridDist;yb+=gridStep){
-        //     for (float zb=x-maxGridDist;zb<=x+maxGridDist;zb+=gridStep){
-        //       id=generateID(width, height, (int)((xb-min_x)/gridStep)+1, (int)((yb-min_y)/gridStep)+1, (int)((zb-min_z)/gridStep)+1);
-        //       if (prot.IDS.find(id)==prot.IDS.end()) continue;
-        //       for (i=0;i<prot.IDS[id].size();i++){
-        //         if(prot.IDS[id][i]->mif==0) continue;
-        //         db=((abs(x-prot.IDS[id][i]->x)*abs(x-prot.IDS[id][i]->x))+(abs(y-prot.IDS[id][i]->y)*abs(y-prot.IDS[id][i]->y))+(abs(z-prot.IDS[id][i]->z)*abs(z-prot.IDS[id][i]->z)));
-        //         if(db<minDistB){ minDistB=db; }
-        //       }
-
-        //     }
-        //   }
-        // }
-        // if(minDistB<minGridDist) pg=1; //Its too close to the protein atoms so its a protein vertex
-        // else if(minDistB > maxGridDist) continue; //Its too far from the protein so its skipped
-        /*
-          you have to sort atoms according to id
-          then for every direction, iterate by gridstep from + max_x to -max_x
-          if an atom exists in the location, calculate distance
-          if distance less than min distance, calculate min distance
 
 
-        */
-
-
-
-       //  Check distance to closest protein atom
+        //Check distance to closest protein atom
         int pg=0;
         float minDist=10000.0;
        // cout << "avant boucle" << endl;
         for(i=0; i<prot.PROTEIN.size(); i++){
-          if(prot.PROTEIN[i].mif==0) continue; //Skip if its not an atom that we consider (respects the filters in readPDB)
+            if(prot.PROTEIN[i].mif==0) continue; //Skip if its not an atom that we consider (respects the filters in readPDB)
           //cout << "after boucle" << endl;
-          d=((abs(x-prot.PROTEIN[i].x)*abs(x-prot.PROTEIN[i].x))+(abs(y-prot.PROTEIN[i].y)*abs(y-prot.PROTEIN[i].y))+(abs(z-prot.PROTEIN[i].z)*abs(z-prot.PROTEIN[i].z)));
+          float d=((abs(x-prot.PROTEIN[i].x)*abs(x-prot.PROTEIN[i].x))+(abs(y-prot.PROTEIN[i].y)*abs(y-prot.PROTEIN[i].y))+(abs(z-prot.PROTEIN[i].z)*abs(z-prot.PROTEIN[i].z)));
           if(d<minDist){ minDist=d; }
         }
-        if(minDist<minGridDist) pg=1; //Its too close to the protein atoms so its a protein vertex
-        else if(minDist > maxGridDist) continue; //Its too far from the protein so its skipped
+
+        if(minDist<minGridDist){ //Its too close to the protein atoms so its a protein vertex
+          pg=1;
+        }else if(minDist > maxGridDist){ //Its too far from the protein so its skipped
+          continue;
+        }
 
         //Generate grid vertex ID
-        id=generateID(width, height, (int)((x-min_x)/gridStep)+1, (int)((y-min_y)/gridStep)+1, (int)((z-min_z)/gridStep)+1);
+        id=generateID(width,height,(int)((x-min_x)/gridStep)+1,(int)((y-min_y)/gridStep)+1,(int)((z-min_z)/gridStep)+1);
         it = GRID.find(id);
 
         if(it == GRID.end()){ //If we never added this point to the vector
@@ -785,17 +766,6 @@ int Grid::buildGrid(Protein& prot){ //Building the grid using the whole protein
 
   return(0);
 }
-
-int Grid::readVContact(string filename, vector<atom>& protVec, vector<float>& ligVec){ //Building the grid using the whole protein
-  //read vcontact file (try/except)
-  //look for lines with the format below
-  //for every residues in the correct chain (in this case, chain is E):
-  //     1  N           0    1  ALA E       SAS             33.61
-  //find the location of this atom on the grid by searching through protVec
-  //fetch the x, y, and z coordinates
-  return(0);
-}
-
 int Grid::readGetCleft(string filename, vector<atom>& protVec, vector<float>& ligVec){
   ifstream ifs;
   string line="";
@@ -974,7 +944,6 @@ int Grid::readGetCleft(string filename, vector<atom>& protVec, vector<float>& li
   return(0);
 }
 
-
  void Grid::getBuriedness(){
    map<int,vertex>::iterator it;
    int id;
@@ -996,6 +965,18 @@ int Grid::readGetCleft(string filename, vector<atom>& protVec, vector<float>& li
      int yi=(int)((m->second.y-min_y)/gridStep)+1;
      int zi=(int)((m->second.z-min_z)/gridStep)+1;
 
+     //modulo limits in the 6 directions: xl (x-left), xr (x-right), yd (y-down), yu (y-up), zb (z-back), zf (z-front)
+     int xl=(int)((m->second.x-min_x)/gridStep);
+     int xr=(int)((max_x-m->second.x)/gridStep);
+     int yd=(int)((m->second.y-min_y)/gridStep);
+     int yu=(int)((max_y-m->second.y)/gridStep);
+     int zb=(int)((m->second.z-min_z)/gridStep);
+     int zf=(int)((max_z-m->second.z)/gridStep);
+
+     // cout<<xi<<" "<<yi<<" "<<zi<<endl;
+     // cout<<min_x<<" | "<<xl<<" "<<m.x<<" "<<xr<<" | "<<max_x<<" || "<<width<<endl;
+     // cout<<min_y<<" | "<<yd<<" "<<m.y<<" "<<yu<<" | "<<max_y<<" || "<<height<<endl;
+     // cout<<min_z<<" | "<<zb<<" "<<m.z<<" "<<zf<<" | "<<max_z<<" || "<<depth<<endl;
 
      //Going through the 6 directions to see if a protein vertex is in the way
      // cout<<endl<<"going xl"<<endl;
@@ -1268,8 +1249,11 @@ int Grid::inGridRes(vertex& vrtx, float res){
   z_diff=fabs(vrtx.z-min_z)/res;
   z_ref=round(z_diff);
 
-  if((fabs(x_diff-x_ref)<0.0001) && (fabs(y_diff-y_ref)<0.0001) && (fabs(z_diff-z_ref)<0.0001))  return(1);
-  return(0);
+  if((fabs(x_diff-x_ref)<0.0001) && (fabs(y_diff-y_ref)<0.0001) && (fabs(z_diff-z_ref)<0.0001)){
+    return(1);
+  }else{
+    return(0);
+  }
 }
 
 float dist_3d(float x1, float y1, float z1, float x2, float y2, float z2){
@@ -1411,6 +1395,8 @@ void Grid::writeMif(vector<atom>& prot, vector<atom>& lig){ //Write the .mif out
   map<int,vertex>::iterator it;
   FILE* fpNew;
   int probe;
+  float d=0.0;
+  int bsFlag=0;
   int i,j;
 
   //Print header of output file
@@ -1723,6 +1709,7 @@ void getEnv(map<int,vertex>& grid, vector<atom>& prot, vector<int>& vrtxList){
 }
 
 void getMif(map<int,vertex>& grid, vector<atom>& prot, vector<int>& vrtxList){
+  int j;
   cout<<endl<< "Searching for potential interactions at each grid vertex"<< endl;
 
   for(int i=0; i<vrtxList.size(); i++){
@@ -1782,6 +1769,7 @@ void getMif(map<int,vertex>& grid, vector<atom>& prot, vector<int>& vrtxList){
 
 double calcNrg(vertex& vrtx, atom& atm, int pbId, int& count_atoms, float& closest){
   float dist,alpha,epsilon,angle;
+  int atomAtId,pbAtId;
   double energy;
   energy=0.0;
   alpha=1.0;
@@ -1931,6 +1919,7 @@ void getPseudo(map<int,vertex>& grid, vector<atom>& prot, vector<int>& vrtxList)
 
 void getStats(map<int,vertex>& grid, vector<atoms>& lig,vector<int>& vrtxList){
   string newFile=statsF + tag;
+  FILE* fpNew;
   // fpNew = fopen(newFile.c_str(),"w");
   for(int probe=0; probe<nbOfProbes; probe++){ //Iterate each probe
     cout<<probe<<endl;
@@ -2008,36 +1997,18 @@ void getPairwise(){
       string cleftF="";
       string rnc="";
       string ligF="";
-      string vcF="";
       for(int i=0; i<vec.size(); i+=2){
         if(vec[i].compare("-p")==0) pdbF=vec[i+1];
         if(vec[i].compare("-g")==0) cleftF=vec[i+1];
         if(vec[i].compare("-l")==0) rnc=vec[i+1];
         if(vec[i].compare("-lf")==0) ligF=vec[i+1];
-        if(vec[i].compare("-vc")==0) vcF=vec[i+1];
       }
       pwRun npw;
       npw.pdbF=pdbF;
       npw.cleftF=cleftF;
       npw.rnc=rnc;
       npw.ligF=ligF;
-      npw.vcF=vcF;
-      npw.vcC=vcC;
       pw.push_back(npw);
     }
   }
 }
-
-int Protein::generateIDs(){
-  int id;
-  for (int i=0;i<PROTEIN.size();i++){
-    id=PROTEIN[i].generateID();
-    if (IDS.find(id)==IDS.end()) {
-      IDS[id]=vector<atoms*>();
-    }
-    IDS[id].push_back(&PROTEIN[i]);
-  }
-  return(0);
-}
-
-

@@ -25,6 +25,7 @@
 #include <sstream>
 #include <map>
 #include <vector>
+#include <math.h> 
 #include <cmath>
 #include <stdexcept>
 #include <algorithm>
@@ -56,9 +57,6 @@ struct atoms{
   int h; //if its a hydrogen 0 or 1
   int bs; //if its a binding site atom
   int mif; //if it should be used to calculated MIFS
-  int gid;
-
-  int generateID();
 };
 
 //Grid point struc
@@ -99,14 +97,10 @@ struct pwRun{
   string cleftF;
   string rnc;
   string ligF;
-  string vcF;
-  string vcC;
 };
 vector<pwRun> pw;
 
 string pairwiseF="";
-string vcF="";
-string vcC="";
 string cmdLine="";
 string cleftFile="";
 string gridFile="";
@@ -180,9 +174,7 @@ class  Protein{
     void readPDB(string);
     void getAtomDir();
     int getRefAtom(float&, float&, float&, string, int, string, string, int, float, float, float, string);
-    int generateIDs();
     vector<atom> PROTEIN;
-    map<int, vector<atom*> > IDS;
     vector<float> LIGAND;
     vector<atom> LIGATOMS;
 
@@ -193,10 +185,9 @@ class  Protein{
 class  Grid{
   public:
 
-    Grid(string, string, Protein&);
+    Grid(string, Protein&);
     ~Grid(void);
     int readGetCleft(string, vector<atom>&, vector<float>&);
-    int readVContact(string, vector<atom>&, vector<float>&);
     int generateID(int, int, int, int, int);
     int buildGrid(Protein&);
     void getBuriedness();
