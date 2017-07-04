@@ -206,9 +206,9 @@ int readCmdLine(int argc, char **argv){
     }
     if(strcmp(argv[nb_arg],"-l")==0){
       if(sscanf(argv[nb_arg+1],"%d", &nbResnumc) !=0){
-        argv[nb_arg++];
+        nb_arg++;
         for(int h=0; h<nbResnumc; h++){
-          argv[nb_arg++];
+          nb_arg++;
           resnumcList[h] = argv[nb_arg];
           }
         }
@@ -346,7 +346,7 @@ void Protein::readPDB(string filename){
   float x,y,z;
   int atomnb;
   int resnb;
-  atom* atm=NULL;
+  //atom* atm=NULL;
   string outFileName=outBase + tag + "_cpy.pdb";
   size_t found;
   float minx,miny,minz,maxx,maxy,maxz;
@@ -423,7 +423,7 @@ void Protein::readPDB(string filename){
         found = fields[11].find("H"); //If this atom symbol contains an H
         if(found!=string::npos) atm.h=1; //Tag this atom as a hydrogen atom
       }catch(...){
-        // cout<<"No atom symbol"<<endl;
+       cout<<"No atom symbol"<<endl;
       }
 
       //Check conditions and set atm.mif to 0 if necessary
@@ -544,7 +544,7 @@ int Protein::getRefAtom(float& xr, float& yr, float& zr, string tresn, int tresn
   int foundr2=0;
   float xr1,yr1,zr1,xr2,yr2,zr2;
   float ax,ay,az,bx,by,bz;
-  float dist,rDist,rpDist,angle;
+  //float dist,rDist,rpDist,angle;
 
   if(ring==0){ //This atom is not part of a ring
     for(i=0; i<PROTEIN.size(); i++){
@@ -656,7 +656,7 @@ int Grid::generateID(int w, int h, int x, int y, int z){
 
 int Grid::buildGrid(Protein& prot){ //Building the grid using the whole protein
   int i=0;
-  int pggrid2=0;
+  //int pggrid2=0;
 
   cout<< "Building Grid..."<<endl;
 
@@ -822,7 +822,7 @@ int Grid::readGetCleft(string filename, vector<atom>& protVec, vector<float>& li
             //Skip if not within the sphere
             if(((abs(nx-x)*abs(nx-x))+(abs(ny-y)*abs(ny-y))+(abs(nz-z)*abs(nz-z)))>(rad*rad)) continue;
 
-            //cout << resnumcList[i] <<" resnumcList[i]" << endl;
+            cout << resnumcList[i] <<" resnumcList[i]" << endl;
             if(resnumc.compare("")!=0){ //If we must remove grid points too far from the anchor atoms
               minDist=10000.0;
               for(i=0; i<ligVec.size(); i+=3){
@@ -966,12 +966,12 @@ int Grid::readGetCleft(string filename, vector<atom>& protVec, vector<float>& li
      int zi=(int)((m->second.z-min_z)/gridStep)+1;
 
      //modulo limits in the 6 directions: xl (x-left), xr (x-right), yd (y-down), yu (y-up), zb (z-back), zf (z-front)
-     int xl=(int)((m->second.x-min_x)/gridStep);
-     int xr=(int)((max_x-m->second.x)/gridStep);
-     int yd=(int)((m->second.y-min_y)/gridStep);
-     int yu=(int)((max_y-m->second.y)/gridStep);
-     int zb=(int)((m->second.z-min_z)/gridStep);
-     int zf=(int)((max_z-m->second.z)/gridStep);
+     // int xl=(int)((m->second.x-min_x)/gridStep);
+     // int xr=(int)((max_x-m->second.x)/gridStep);
+     // int yd=(int)((m->second.y-min_y)/gridStep);
+     // int yu=(int)((max_y-m->second.y)/gridStep);
+     // int zb=(int)((m->second.z-min_z)/gridStep);
+     // int zf=(int)((max_z-m->second.z)/gridStep);
 
      // cout<<xi<<" "<<yi<<" "<<zi<<endl;
      // cout<<min_x<<" | "<<xl<<" "<<m.x<<" "<<xr<<" | "<<max_x<<" || "<<width<<endl;
@@ -1395,8 +1395,8 @@ void Grid::writeMif(vector<atom>& prot, vector<atom>& lig){ //Write the .mif out
   map<int,vertex>::iterator it;
   FILE* fpNew;
   int probe;
-  float d=0.0;
-  int bsFlag=0;
+  //float d=0.0;
+  //int bsFlag=0;
   int i,j;
 
   //Print header of output file
@@ -1475,6 +1475,7 @@ void Grid::writeMif(vector<atom>& prot, vector<atom>& lig){ //Write the .mif out
     cout<<endl<< "Writing atoms"<<endl;
     if(zip==1){
       for(i=0; i<lig.size(); i++){
+        cout<<lig[i].alt<<endl;
         fprintf(fpNew,"#ATOM %3s %4d %4s %5d %s %s %8.3f %8.3f %8.3f %d %d\n",lig[i].resn.c_str(),lig[i].resnb,lig[i].atomn.c_str(),lig[i].atomnb,lig[i].chain.c_str(),lig[i].alt.c_str(),lig[i].x,lig[i].y,lig[i].z,lig[i].mif,lig[i].bs);
       }
     }else{
@@ -1538,7 +1539,7 @@ void getAtomRef(){
   string atom;
   string type;
 
-  cout <<"Getting Atome Reference.." << endl;
+  cout <<"Getting Atom Reference.." << endl;
   while(getline(infile,s)){
     //cout <<s << endl;
     istringstream iss(s);
@@ -1631,7 +1632,7 @@ void getAtomTypes(){
   ifstream infile(fn.c_str());
   string s;
   int row=0;
-  //cout << "Getting Atom Types Reference.." << endl;
+  cout << "Getting Atom Types Reference.." << endl;
   while(getline(infile,s)){
     //cout<<s<<endl;
     istringstream iss(s);
@@ -1663,7 +1664,7 @@ void getProbes(){
   float max;
   float thresh;
 
-  //cout <<"Getting Probes Reference.." << endl;
+  cout <<"Getting Probes Reference.." << endl;
   while(getline(infile,line)){
     stringstream test(line);
     test >> pbn >> min >> max >> thresh;
@@ -1682,7 +1683,7 @@ void getaa(){
   ifstream infile(fn.c_str());
   string line;
   string taa;
-  //cout <<"Getting aa Reference.." << endl;
+  cout <<"Getting aa Reference.." << endl;
   if(!infile.is_open()){ cout << "could not read "<< fn << endl; }
 
   while(getline(infile,line)){
@@ -1693,7 +1694,7 @@ void getaa(){
 }
 
 void getEnv(map<int,vertex>& grid, vector<atom>& prot, vector<int>& vrtxList){
-  //cout<<endl<< "Getting Environment.."<< endl;
+  cout<<endl<< "Getting Environment.."<< endl;
   for(int i=0; i<vrtxList.size(); i++){
     map<int,vertex>::iterator it=grid.find(vrtxList[i]);
     vertex& m=it->second;
@@ -1709,7 +1710,7 @@ void getEnv(map<int,vertex>& grid, vector<atom>& prot, vector<int>& vrtxList){
 }
 
 void getMif(map<int,vertex>& grid, vector<atom>& prot, vector<int>& vrtxList){
-  int j;
+  //int j;
   cout<<endl<< "Searching for potential interactions at each grid vertex"<< endl;
 
   for(int i=0; i<vrtxList.size(); i++){
@@ -1769,7 +1770,7 @@ void getMif(map<int,vertex>& grid, vector<atom>& prot, vector<int>& vrtxList){
 
 double calcNrg(vertex& vrtx, atom& atm, int pbId, int& count_atoms, float& closest){
   float dist,alpha,epsilon,angle;
-  int atomAtId,pbAtId;
+  //int atomAtId,pbAtId;
   double energy;
   energy=0.0;
   alpha=1.0;
@@ -1919,7 +1920,7 @@ void getPseudo(map<int,vertex>& grid, vector<atom>& prot, vector<int>& vrtxList)
 
 void getStats(map<int,vertex>& grid, vector<atoms>& lig,vector<int>& vrtxList){
   string newFile=statsF + tag;
-  FILE* fpNew;
+  //FILE* fpNew;
   // fpNew = fopen(newFile.c_str(),"w");
   for(int probe=0; probe<nbOfProbes; probe++){ //Iterate each probe
     cout<<probe<<endl;

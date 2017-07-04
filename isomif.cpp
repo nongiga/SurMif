@@ -23,11 +23,12 @@
 /***********************************************************************/
 int main(int argc, char *argv[]){
   char tmp[2000];
-  FILE* fp;
-  int i,j,k,l,cg,cgs;
-  int count=0;
+  //FILE* fp;
+  int i,cg,cgs;
+  //int j,k,l
+  //int count=0;
   vector<node>::iterator vit1;
-  pNode agv=NULL;
+  //pNode agv=NULL;
 
   //Read command line arguments
   if(read_commandline(argc, argv)==24){ return(0); }
@@ -108,23 +109,23 @@ int main(int argc, char *argv[]){
     rnc2=mifs[nrg_file2].rnc;
     lig1=mifs[nrg_file1].lig;
     lig2=mifs[nrg_file2].lig;
-    // cout<<"mif1 size: "<<mif1.size()<<endl;
-    // cout<<"mif2 size: "<<mif2.size()<<endl;
-    // cout<<"ssm1 size: "<<ss1m[1]<<endl;
-    // cout<<"ssm2 size: "<<ss2m[1]<<endl;
-    // cout<<"ss1 "<<ss1[0]<<" "<<ss1[1]<<" "<<ss1[2]<<" "<<ss1[3]<<endl;
-    // cout<<"ss2 "<<ss2[0]<<" "<<ss2[1]<<" "<<ss2[2]<<" "<<ss2[3]<<endl;
-    // cout<<"ss1m "<<ss1m[0]<<" "<<ss1m[1]<<" "<<ss1m[2]<<" "<<ss1m[3]<<endl;
-    // cout<<"ss2m "<<ss2m[0]<<" "<<ss2m[1]<<" "<<ss2m[2]<<" "<<ss2m[3]<<endl;
+    cout<<"mif1 size: "<<mif1.size()<<endl;
+    cout<<"mif2 size: "<<mif2.size()<<endl;
+    cout<<"ssm1 size: "<<ss1m[1]<<endl;
+    cout<<"ssm2 size: "<<ss2m[1]<<endl;
+    cout<<"ss1 "<<ss1[0]<<" "<<ss1[1]<<" "<<ss1[2]<<" "<<ss1[3]<<endl;
+    cout<<"ss2 "<<ss2[0]<<" "<<ss2[1]<<" "<<ss2[2]<<" "<<ss2[3]<<endl;
+    cout<<"ss1m "<<ss1m[0]<<" "<<ss1m[1]<<" "<<ss1m[2]<<" "<<ss1m[3]<<endl;
+    cout<<"ss2m "<<ss2m[0]<<" "<<ss2m[1]<<" "<<ss2m[2]<<" "<<ss2m[3]<<endl;
 
-    // cout<<"lig1 "<<lig1.size()<<endl;
-    // for(int l=0; l<lig1.size(); l++){
-    //   cout<<lig1[l].atomn<<endl;
-    // }
-    // cout<<"lig2 "<<lig2.size()<<endl;
-    // for(int l=0; l<lig2.size(); l++){
-    //   cout<<lig2[l].atomn<<endl;
-    // }
+    cout<<"lig1 "<<lig1.size()<<endl;
+    for(int l=0; l<lig1.size(); l++){
+      cout<<lig1[l].atomn<<endl;
+    }
+    cout<<"lig2 "<<lig2.size()<<endl;
+    for(int l=0; l<lig2.size(); l++){
+      cout<<lig2[l].atomn<<endl;
+    }
     
     //To be considered for the graph matching, nodes.cg must be set to 1
     if(cg_start>-1){ //If we define a specific grid resolution in the command line
@@ -200,7 +201,7 @@ int main(int argc, char *argv[]){
         //   }
         // }
 
-        // cout<<"Rotating vertexes of Mif 1 onto Mif 2 using list of atoms..."<<endl;
+        cout<<"Rotating vertexes of Mif 1 onto Mif 2 using list of atoms..."<<endl;
         //Rotate mif 1 onto mif 2
         for(int v=0; v<mif1.size(); v++){
           for(int i=0; i<3; i++){
@@ -211,7 +212,7 @@ int main(int argc, char *argv[]){
           }
         }
 
-        // cout<<"Finding corresponding vertexes..."<<endl;
+        cout<<"Finding corresponding vertexes..."<<endl;
         float dist=0.0;
         for(int u=0; u<mif1.size(); u++){
           if(mif1[u].grid[cg2]!=1) continue;
@@ -265,7 +266,7 @@ int main(int argc, char *argv[]){
         //rotate the vertexes using the previous rotation matrix
         if(cs>0 && steps[cs]!=steps[cs-1]){
 
-          // cout<<"Rotating Mif 1 onto Mif 2 using previous stage..."<<endl;
+          cout<<"Rotating Mif 1 onto Mif 2 using previous stage..."<<endl;
           for(int v=0; v<mif1.size(); v++){
             for(int i=0; i<3; i++){
               mif1[v].ncoor[i]=cliques.back().cen_b[i];
@@ -518,7 +519,8 @@ bool myfunction (nodeI i,nodeI j) { return (i.neibrs<j.neibrs); }
 /***********************************************************************/
  void Extend(int* old,int ne,int ce, int cg, vector<node> &graph, bool* &conn, int lev){
   int fixp;
-  int newne,newce,j,count,pos,p,s,sel,loc,l;
+  int newne,newce,j,count,pos,p,s,sel;
+  //int loc,l;
   int* neww = new int[ce];
   int minnod=ce;
   int i=0;
@@ -529,7 +531,7 @@ bool myfunction (nodeI i,nodeI j) { return (i.neibrs<j.neibrs); }
   if(lev==1){ stopBk=0; }
 
   //Determine each count value and look for the one with least disconnections
-  // cout<<endl<<"Entering Extend with "<<ce<<" candidates and "<<ne<<" nots lev "<<lev<<endl;
+  //cout<<endl<<"Entering Extend with "<<ce<<" candidates and "<<ne<<" nots lev "<<lev<<endl;
   while(i < ce && minnod != 0)
   {
     p = old[i]; // Id of current cand
@@ -559,7 +561,7 @@ bool myfunction (nodeI i,nodeI j) { return (i.neibrs<j.neibrs); }
     i++;
   }
 
-  // cout<<"Expanding "<<minnod+nod<<" times. bk "<<stopBk<<endl;
+  //cout<<"Expanding "<<minnod+nod<<" times. bk "<<stopBk<<endl;
   // Tries to expand the current clique with each candidate starting with the one with least disconnections
   for(nod=minnod+nod;nod>0;nod--){
 
@@ -617,16 +619,16 @@ bool myfunction (nodeI i,nodeI j) { return (i.neibrs<j.neibrs); }
     compsub[c++]=sel;
     // cout<<"COMPSUB: ";
     // for(int g=0; g<c; g++){
-      // cout<<compsub[g]<<" ";
+    //   cout<<compsub[g]<<" ";
     // }
     // cout<<endl;
 
-      // cout<<"newce "<<newce<<" newne "<<newne<<" c "<<c<<" lev "<<lev<<endl;
+    //   cout<<"newce "<<newce<<" newne "<<newne<<" c "<<c<<" lev "<<lev<<endl;
 
     // cout<<"| ";
     // for(int g=0; g<newce; g++){
-      // if(g==newne) cout<<"| ";
-      // cout<<"["<<g<<"] "<<neww[g]<<" ";
+    //   if(g==newne) cout<<"| ";
+    //   cout<<"["<<g<<"] "<<neww[g]<<" ";
     // }
     // cout<<endl;
 
@@ -655,7 +657,7 @@ bool myfunction (nodeI i,nodeI j) { return (i.neibrs<j.neibrs); }
 
     // cout<<endl<<"COMPSUB: ";
     // for(int g=0; g<c; g++){
-      // cout<<compsub[g]<<" ";
+    //   cout<<compsub[g]<<" ";
     // }
 
     // Place node sel in "not" set (Is the last recorded point of the printed clique)
@@ -679,7 +681,7 @@ bool myfunction (nodeI i,nodeI j) { return (i.neibrs<j.neibrs); }
     if(lev>2) break;
   }
   lev--;
-  // cout<<"exiting extend"<<endl;
+  //cout<<"exiting extend"<<endl;
 
   delete[] neww;
   return;
@@ -817,9 +819,9 @@ void AddNewClique(int n, int* list, int cg, vector<node> &graph){
   // Rotate ligand and calculate RMSD
   float ligRMSD=0.0;
   int ligRMSDc=0;
-  if(rnc1.compare("")!=0 && rnc2.compare("")!=0 && lig1.size()>0 && lig2.size()>0 && getrmsd==1){
+  if(getrmsd==1 && rnc1.compare("")!=0 && rnc2.compare("")!=0 && lig1.size()>0 && lig2.size()>0){
     for(int v=0; v<lig1.size(); v++){
-      float dist=0.0;
+      // float dist=0.0;
       for(int i=0; i<3; i++){
         lig1[v].ncoor[i]=cliques.back().cen_b[i];
         for(int j=0; j<3; j++){ lig1[v].ncoor[i]+=(lig1[v].coor[j]-cliques.back().cen_a[j])*gsl_matrix_get(cliques.back().mat_r,i,j); }
@@ -862,7 +864,7 @@ void AddNewClique(int n, int* list, int cg, vector<node> &graph){
     }else if(cg==-3){
       rmsd+=pow(dist3d(ncoor,(*it).pb->coor),2.0);
     }else{
-      float dist=dist3d(ncoor,(*it).b->coor);
+      //float dist=dist3d(ncoor,(*it).b->coor);
       rmsd+=pow(dist3d(ncoor,(*it).b->coor),2.0);
       // cliques.back().nrg+=(*it).nrg;
       cliques.back().nbNodesM+=(*it).nbi;
@@ -904,12 +906,12 @@ void AddNewClique(int n, int* list, int cg, vector<node> &graph){
   }
 
   if(cliques.back().taniM>topT && ((cliques.back().detOri > 0.00 && skipDet==1) || skipDet==0)){
-    //cout<<nCliquesExplored<<" "<<nCliques<<" NEW TOP CLIQUE CG "<<cg<<" taniM "<<cliques.back().taniM<<" detori "<<cliques.back().detOri<<endl;
+    cout<<nCliquesExplored<<" "<<nCliques<<" NEW TOP CLIQUE CG "<<cg<<" taniM "<<cliques.back().taniM<<" detori "<<cliques.back().detOri<<endl;
     topT=cliques.back().taniM;
     topN=cliques.back().nbNodesM;
     topCliques[cg]=cliques.size()-1;
   }else{
-    // cout<<nCliquesExplored<<" "<<nCliques<<" Clique CG "<<cg<<" taniM "<<cliques.back().taniM<<" detori "<<cliques.back().detOri<<endl;
+    cout<<nCliquesExplored<<" "<<nCliques<<" Clique CG "<<cg<<" taniM "<<cliques.back().taniM<<" detori "<<cliques.back().detOri<<endl;
   }
 
   return;
@@ -1241,7 +1243,7 @@ double SupSVD(gsl_matrix *mat_u, double &detOri){
 /*        1         2         3         4         5         6         7*/
 /***********************************************************************/
 double gsl_matrix_Det3D(gsl_matrix *M){
-  int i,j;
+  //int i,j;
   double det;
 
   //  guide to indexes: 0=x, 1=y, 2=z
@@ -1445,7 +1447,7 @@ void getPairwise(){
 /***********************************************************************/
 int createVrtxVec(string mifFile, vector<vertex>& p, vector<atom>& a, vector<int>& ss, vector<int>& ssm, int &caSize, vector<pseudoC>& pl, string rnc, vector<atom>& llist){
   string line;
-  vertex* nvrtx;
+  //vertex* nvrtx;
   float x,y,z;
   string resn;
   int resnb,mif,bs;
@@ -1473,7 +1475,7 @@ int createVrtxVec(string mifFile, vector<vertex>& p, vector<atom>& a, vector<int
       stringstream test(line);
       test >> dump >> nb_of_probes;
     }else if(line.compare(0,5,"#ATOM")==0){ //If its an atom line
-
+      cout<<line<<endl;
       stringstream test(line);
       test >> dump >> resn >> resnb >> atomn >> atomnb >> chain >> alt >> x >> y >> z >> mif >> bs;
       atom natom;
@@ -1482,7 +1484,7 @@ int createVrtxVec(string mifFile, vector<vertex>& p, vector<atom>& a, vector<int
       natom.resn=resn;
       natom.resnb=resnb;
       natom.chain=chain;
-      natom.chain=alt;
+      natom.alt=alt;
       natom.coor[0]=x;
       natom.coor[1]=y;
       natom.coor[2]=z;
@@ -1492,7 +1494,6 @@ int createVrtxVec(string mifFile, vector<vertex>& p, vector<atom>& a, vector<int
       stringstream sss;
       sss << resnb;
       thisresnumc = resn + sss.str() + chain + alt;
-
       if(rnc.compare(thisresnumc)==0){ //If its one of the ligand atom
           llist.push_back(natom);
       }
@@ -1640,7 +1641,7 @@ int read_commandline(int argc, char *argv[]){
   rnc1="";
   rnc2="";
 
-  strcpy(usage,"\n!---   IsoMIF   ---!\nWelcome.Bienvenue.\n");
+  strcpy(usage,"\n!---   SurMIF   ---!\nWelcome.Bienvenue.\n");
   strcat(usage,"\nObligatory Arguments:\n");
   sprintf(tmp_line,"-p1          : \t Mif file of Protein 1\n");
   strcat(usage,tmp_line);
@@ -1873,9 +1874,9 @@ int get_info(string str1, string str2){
   int i;
   const char* prefix1; //Mif file 1 prefix
   const char* prefix2; //Mif file 2 prefix
-  const char* prefix3; //Pairwise prefix
-  const char* p1_pre; //Protein file 1 prefix
-  const char* p2_pre; //Protein file 2 prefix
+  // const char* prefix3; //Pairwise prefix
+  // const char* p1_pre; //Protein file 1 prefix
+  // const char* p2_pre; //Protein file 2 prefix
 
   //Store Mif 1 filename without the .isomif in prefix1
   string empt ("");
