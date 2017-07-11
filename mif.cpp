@@ -247,7 +247,6 @@ int readCmdLine(int argc, char **argv){
     }
     if(strcmp(argv[nb_arg],"-s")==0){
       sscanf(argv[nb_arg+1], "%f", &stepsize);
-
       if(stepsize == 0.5){
         zip=3;
       }else if(stepsize == 1.0){
@@ -699,7 +698,8 @@ int Grid::buildGrid(Protein& prot){ //Building the grid using the whole protein
             vrtx.p=1;
             vrtx.id=uID;
             uID++;
-          }else{ //If its a grid vertex where we'll calculate a MIF
+          }else{
+           //If its a grid vertex where we'll calculate a MIF
             vrtx.p=0;
 
             //Calculate in which grid resolution this vertex is
@@ -718,6 +718,12 @@ int Grid::buildGrid(Protein& prot){ //Building the grid using the whole protein
             if(inGridRes(vrtx,0.5)==1){
               vrtx.grid[3]=1;
             }else{ vrtx.grid[3]=0; }
+
+            if(vrtx.grid[0]==1){ vrtx200++; }
+            if(vrtx.grid[1]==1){ vrtx150++; }
+            if(vrtx.grid[2]==1){ vrtx100++; }
+            if(vrtx.grid[3]==1){ vrtx050++; }
+
 
             //Skip this vertex if its not in the grid resolution we want (defined by argument -s)
             if(vrtx.grid[zip]!=1 && zip!=-1) continue;
@@ -745,11 +751,6 @@ int Grid::buildGrid(Protein& prot){ //Building the grid using the whole protein
             //Initialize the environment vector for each amino acid
             // for(int i=0; i<aa.size(); i++){ vrtx.env[aa[i]]=1000.0; }
 
-            if(vrtx.grid[0]==1){ vrtx200++; }
-            if(vrtx.grid[1]==1){ vrtx150++; }
-            if(vrtx.grid[2]==1){ vrtx100++; }
-            if(vrtx.grid[3]==1){ vrtx050++; }
-
             vrtx.id=uID;
             uID++;
           }
@@ -766,6 +767,11 @@ int Grid::buildGrid(Protein& prot){ //Building the grid using the whole protein
 
   return(0);
 }
+
+int Grid::readVContact(string filename, vector<atom>& protVec, vector<float>& ligVec){
+  return(0);
+}
+
 int Grid::readGetCleft(string filename, vector<atom>& protVec, vector<float>& ligVec){
   ifstream ifs;
   string line="";
@@ -822,7 +828,6 @@ int Grid::readGetCleft(string filename, vector<atom>& protVec, vector<float>& li
             //Skip if not within the sphere
             if(((abs(nx-x)*abs(nx-x))+(abs(ny-y)*abs(ny-y))+(abs(nz-z)*abs(nz-z)))>(rad*rad)) continue;
 
-            cout << resnumcList[i] <<" resnumcList[i]" << endl;
             if(resnumc.compare("")!=0){ //If we must remove grid points too far from the anchor atoms
               minDist=10000.0;
               for(i=0; i<ligVec.size(); i+=3){
@@ -1475,7 +1480,6 @@ void Grid::writeMif(vector<atom>& prot, vector<atom>& lig){ //Write the .mif out
     cout<<endl<< "Writing atoms"<<endl;
     if(zip==1){
       for(i=0; i<lig.size(); i++){
-        cout<<lig[i].alt<<endl;
         fprintf(fpNew,"#ATOM %3s %4d %4s %5d %s %s %8.3f %8.3f %8.3f %d %d\n",lig[i].resn.c_str(),lig[i].resnb,lig[i].atomn.c_str(),lig[i].atomnb,lig[i].chain.c_str(),lig[i].alt.c_str(),lig[i].x,lig[i].y,lig[i].z,lig[i].mif,lig[i].bs);
       }
     }else{

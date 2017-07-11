@@ -1475,9 +1475,16 @@ int createVrtxVec(string mifFile, vector<vertex>& p, vector<atom>& a, vector<int
       stringstream test(line);
       test >> dump >> nb_of_probes;
     }else if(line.compare(0,5,"#ATOM")==0){ //If its an atom line
-      cout<<line<<endl;
       stringstream test(line);
-      test >> dump >> resn >> resnb >> atomn >> atomnb >> chain >> alt >> x >> y >> z >> mif >> bs;
+      test >> dump >> resn >> resnb >> atomn >> atomnb >> chain>> alt >> x >> y >> z >> mif >> bs;
+      if (alt.size()>1){//if alt is not defined, shift all over
+        bs=mif;
+        mif=z;
+        z=y;
+        y=x;
+        x=stof(alt);
+        alt="-";
+      }
       atom natom;
       natom.atomn=atomn;
       natom.atomnb=atomnb;

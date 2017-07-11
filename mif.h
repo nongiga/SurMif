@@ -188,6 +188,7 @@ class  Grid{
     Grid(string, Protein&);
     ~Grid(void);
     int readGetCleft(string, vector<atom>&, vector<float>&);
+    int readVContact(string, vector<atom>&, vector<float>&);
     int generateID(int, int, int, int, int);
     int buildGrid(Protein&);
     void getBuriedness();
