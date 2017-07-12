@@ -75,6 +75,7 @@ int main(int argc, char *argv[]){
     getrmsd=pw[pwr].getrmsd;
     topT=-1.0; //Set the top tanimoto score
     topN=-1; //Set the top nodes score
+    string rnc1ls="", rnc2ls="";
 
     //Fetch some information form the input Mif files
     if(get_info(nrg_file1,nrg_file2)==24){ return(24); }
@@ -85,10 +86,17 @@ int main(int argc, char *argv[]){
     strcat(cmdLineJob," -p2 "); strcat(cmdLineJob,nrg_file2.c_str());
     strcat(cmdLineJob," "); strcat(cmdLineJob,cmdArgs);
 
+
+    for (vector<string>::const_iterator i = rnc1.begin(); i != rnc1.end(); ++i)
+        rnc1ls+= *i + ' ';
+
+    for (vector<string>::const_iterator i = rnc2.begin(); i != rnc2.end(); ++i)
+        rnc2ls+= *i + ' ';
+
     if(emptOut==1){ //If we want a short output file (to reduce file size) we only print a few information
-      sprintf(tmp,"REMARK command: %s\nREMARK commandJob: %s\nREMARK mif_file_1: %s\nREMARK mif_file_2: %s\nREMARK wsimfn: %d\nREMARK tag1: %s\nREMARK tag2: %s\nREMARK rnc1: %s\nREMARK rnc2: %s\n",cmdLine,cmdLineJob,nrg_file1.c_str(),nrg_file2.c_str(),wrfn,tag1.c_str(),tag2.c_str(),rnc1.c_str(),rnc2.c_str());  
+      sprintf(tmp,"REMARK command: %s\nREMARK commandJob: %s\nREMARK mif_file_1: %s\nREMARK mif_file_2: %s\nREMARK wsimfn: %d\nREMARK tag1: %s\nREMARK tag2: %s\nREMARK rnc1: %s\nREMARK rnc2: %s\n",cmdLine,cmdLineJob,nrg_file1.c_str(),nrg_file2.c_str(),wrfn,tag1.c_str(),tag2.c_str(),rnc1ls.c_str(),rnc2ls.c_str());  
     }else{ //Full output file
-      sprintf(tmp,"REMARK command: %s\nREMARK commandJob: %s\nREMARK mif_file_1: %s\nREMARK mif_file_2: %s\nREMARK nb_of_probes: %d\nREMARK C-alpha_dDist: %5.2f\nREMARK pseudocenter_dDist: %5.2f\nREMARK dDist: %5.2f\nREMARK jtt_threshold: %d\nREMARK max_nodes: %d\nREMARK commont int : %d\nREMARK wsimfn: %d\nREMARK tag1: %s\nREMARK tag2: %s\nREMARK rnc1: %s\nREMARK rnc2: %s\n",cmdLine,cmdLineJob,nrg_file1.c_str(),nrg_file2.c_str(),nb_of_probes,ca_dDist,ps_dDist,dDist,jttt,maxNodes,commonInt,wrfn,tag1.c_str(),tag2.c_str(),rnc1.c_str(),rnc2.c_str());  
+      sprintf(tmp,"REMARK command: %s\nREMARK commandJob: %s\nREMARK mif_file_1: %s\nREMARK mif_file_2: %s\nREMARK nb_of_probes: %d\nREMARK C-alpha_dDist: %5.2f\nREMARK pseudocenter_dDist: %5.2f\nREMARK dDist: %5.2f\nREMARK jtt_threshold: %d\nREMARK max_nodes: %d\nREMARK commont int : %d\nREMARK wsimfn: %d\nREMARK tag1: %s\nREMARK tag2: %s\nREMARK rnc1: %s\nREMARK rnc2: %s\n",cmdLine,cmdLineJob,nrg_file1.c_str(),nrg_file2.c_str(),nb_of_probes,ca_dDist,ps_dDist,dDist,jttt,maxNodes,commonInt,wrfn,tag1.c_str(),tag2.c_str(),rnc1ls.c_str(),rnc2ls.c_str());  
     }
     
     strcpy(outH,tmp);
@@ -376,7 +384,7 @@ int main(int argc, char *argv[]){
     open_file_ptr(&fpout,out_file,1);
   }else{
     if(wrfn==1){ //Add similarity score to filename
-      if(rnc1.compare("")!=0 && rnc2.compare("")!=0){ //Add ligand RMSD if rnc1 and rnc2 are provided
+      if(rnc1.size()!=0 && rnc2.size()!=0){ //Add ligand RMSD if rnc1 and rnc2 are provided
         sprintf(suffix,"_%d_%5.4f_%5.4f",cliques[topCliques[steps.back()]].nbNodes,cliques[topCliques[steps.back()]].taniM,cliques[topCliques[steps.back()]].ligRMSD);
       }else{
         sprintf(suffix,"_%d_%5.4f",cliques[topCliques[steps.back()]].nbNodes,cliques[topCliques[steps.back()]].taniM);
@@ -819,7 +827,7 @@ void AddNewClique(int n, int* list, int cg, vector<node> &graph){
   // Rotate ligand and calculate RMSD
   float ligRMSD=0.0;
   int ligRMSDc=0;
-  if(getrmsd==1 && rnc1.compare("")!=0 && rnc2.compare("")!=0 && lig1.size()>0 && lig2.size()>0){
+  if(getrmsd==1 && rnc1.size()!=0 && rnc2.size()!=0 && lig1.size()>0 && lig2.size()>0){
     for(int v=0; v<lig1.size(); v++){
       // float dist=0.0;
       for(int i=0; i<3; i++){
@@ -1386,14 +1394,20 @@ void getPairwise(){
       vector<string> vec(begin, end);
       string mif1F="";
       string mif2F="";
-      string rnc1id="";
-      string rnc2id="";
+      vector<string> rnc1id;
+      vector<string> rnc2id;
       int grm=0;
       for(int i=0; i<vec.size(); i+=2){
         if(vec[i].compare("-p1")==0) mif1F=vec[i+1];
         if(vec[i].compare("-p2")==0) mif2F=vec[i+1];
-        if(vec[i].compare("-l1")==0) rnc1id=vec[i+1];
-        if(vec[i].compare("-l2")==0) rnc2id=vec[i+1];
+        if(vec[i].compare("-l1")==0) {
+          while (i<vec.size() && vec[i+1].at(0)!='-')
+            rnc1id.push_back(vec[++i]);
+        }
+        if(vec[i].compare("-l2")==0) {
+          while (i<vec.size() && vec[i+1].at(0)!='-')
+            rnc2id.push_back(vec[++i]);
+        }
         if(vec[i].compare("-l")==0) grm=atoi(vec[i+1].c_str());
       }
       pwRun npw;
@@ -1445,7 +1459,7 @@ void getPairwise(){
 /*234567890123456789012345678901234567890123456789012345678901234567890*/
 /*        1         2         3         4         5         6         7*/
 /***********************************************************************/
-int createVrtxVec(string mifFile, vector<vertex>& p, vector<atom>& a, vector<int>& ss, vector<int>& ssm, int &caSize, vector<pseudoC>& pl, string rnc, vector<atom>& llist){
+int createVrtxVec(string mifFile, vector<vertex>& p, vector<atom>& a, vector<int>& ss, vector<int>& ssm, int &caSize, vector<pseudoC>& pl, vector<string> rnc, vector<atom>& llist){
   string line;
   //vertex* nvrtx;
   float x,y,z;
@@ -1482,7 +1496,7 @@ int createVrtxVec(string mifFile, vector<vertex>& p, vector<atom>& a, vector<int
         mif=z;
         z=y;
         y=x;
-        x=stof(alt);
+        x=atof(alt.c_str());
         alt="-";
       }
       atom natom;
@@ -1501,9 +1515,12 @@ int createVrtxVec(string mifFile, vector<vertex>& p, vector<atom>& a, vector<int
       stringstream sss;
       sss << resnb;
       thisresnumc = resn + sss.str() + chain + alt;
-      if(rnc.compare(thisresnumc)==0){ //If its one of the ligand atom
-          llist.push_back(natom);
+      for (int i=0;i<rnc.size();i++){
+        if(rnc.at(i).compare(thisresnumc)==0){ //If its one of the ligand atom
+            llist.push_back(natom);
+        }
       }
+
       if(atomn.compare("CA")==0 && bs==1) caSize++; //If this atom is a carbon alpha, increment the Calpha count
       a.push_back(natom);
       atmC++;
@@ -1643,10 +1660,6 @@ int read_commandline(int argc, char *argv[]){
   char  usage[3000];
   char  tmp_line[250];
   int nb_arg;
-
-  // assignment of default values to optional parameters
-  rnc1="";
-  rnc2="";
 
   strcpy(usage,"\n!---   SurMIF   ---!\nWelcome.Bienvenue.\n");
   strcat(usage,"\nObligatory Arguments:\n");
@@ -1851,11 +1864,15 @@ int read_commandline(int argc, char *argv[]){
     }
 
     if(strcmp(argv[nb_arg],"-l1")==0){
-      rnc1=argv[nb_arg+1];
+      while (nb_arg<argc && argv[nb_arg+1][0]!='-') {
+        rnc1.push_back(argv[++nb_arg]);
+      }
     }
 
     if(strcmp(argv[nb_arg],"-l2")==0){
-      rnc2=argv[nb_arg+1];
+      while (nb_arg<argc && argv[nb_arg+1][0]!='-') {
+        rnc2.push_back(argv[++nb_arg]);
+      }
     }
 
     if(strcmp(argv[nb_arg],"-l")==0){

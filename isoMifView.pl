@@ -40,6 +40,7 @@ my $sm="taninorm";
 my $cid="";
 my $detori="";
 my $shift=0;
+my $surf=0;
 
 #Read command line
 for(my $i=0; $i<=$#ARGV; $i++){
@@ -54,6 +55,7 @@ for(my $i=0; $i<=$#ARGV; $i++){
   if($ARGV[$i] eq "-s"){ $sm=$ARGV[$i+1]; }
   if($ARGV[$i] eq "-shift"){ $shift=$ARGV[$i+1]; }
   if($ARGV[$i] eq "-c"){ $cid=$ARGV[$i+1]; }
+  if($ARGV[$i] eq "-surf"){ $surf=1; }
   if($ARGV[$i] eq "-h"){
     print "##################\nWelcome to pipeIsoMifView\n##################\n";
     print "-m         <path to isoMif file>\n";
@@ -67,6 +69,7 @@ for(my $i=0; $i<=$#ARGV; $i++){
     print "-s         <similarity measure to find best clique>\n";
     print "-shift     <1 yes 0 no - Slightly shift the Mif and Mif similarities so probes at same vertex can be visualised at the same time>\n";
     print "-c         <clique ID to use for superimposition>\n";
+    print "-surf      <surface option>\n";
     print "-h         <print help menu>\n";
     exit;
   }
@@ -76,7 +79,7 @@ $res=$cg;
 $res=1 if($cg<0);
 
 if($outDir eq ""){
-  $outDir=&get_dirs("/Users/Aharony/SurMif/hive/","matchView");
+  $outDir=&get_dirs("/Users/Aharony/hive/","matchView");
 }
 
 my @probeNames=();
@@ -595,6 +598,10 @@ print NPML "color blue, resn DON & ".$tag."_2_pseudo\ncolor red, resn ACC & ".$t
 # close NODES1;
 # close NODES2;
 # close PML3;
+if ($surf==1){
+  print NPML "remove resn hoh\n"
+}
+
 close NPML;
 
 ########################################
