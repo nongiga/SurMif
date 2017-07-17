@@ -379,7 +379,7 @@ int main(int argc, char *argv[]){
 
   }
 
-  char suffix[50];
+  char suffix[1000];
   if(pairwiseF.compare("")!=0){
     while(fexists(out_file)){
       strcat(out_file,"_r");
@@ -395,7 +395,7 @@ int main(int argc, char *argv[]){
       strcat(out_file,suffix);
     }
     strcat(out_file,".isomif");
-    // printf("outfile: %s",out_file);
+    printf("outfile: %s\n",out_file);
     open_file_ptr(&fpout,out_file,1);
   }
   fprintf(fpout,"%s",matchFileOut.str().c_str());
@@ -935,7 +935,7 @@ void AddNewClique(int n, int* list, int cg, vector<node> &graph){
 void printNodes(){
   
   vector<nodes>::iterator it;
-  char buffer[2000];
+  char buffer[5000];
 
   // fprintf(fpout,"%s",outH);
   sprintf(buffer,"%s",outH);
