@@ -368,7 +368,10 @@ int main(int argc, char *argv[]){
     // vector<atom>().swap(lig1);
     lig2.clear();
     // vector<atom>().swap(lig2);
+    rnc1.clear();
+    rnc2.clear();
     cliques.clear();
+
     vector<Clique>().swap(cliques);
     for(int k=0; k<4; k++){ ss1[k]=0; ss2[k]=0; ss1m[k]=0; ss2m[k]=0; }
 
@@ -932,7 +935,7 @@ void AddNewClique(int n, int* list, int cg, vector<node> &graph){
 void printNodes(){
   
   vector<nodes>::iterator it;
-  char buffer[1000];
+  char buffer[2000];
 
   // fprintf(fpout,"%s",outH);
   sprintf(buffer,"%s",outH);
